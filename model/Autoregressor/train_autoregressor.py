@@ -9,6 +9,7 @@ import torch
 import torch.nn.functional as F
 import torch.optim as optim
 from torch.utils.data import DataLoader, Dataset, random_split
+from tqdm import tqdm
 
 ROOT = Path(__file__).resolve().parents[2]
 root_str = str(ROOT)
@@ -117,7 +118,9 @@ def run_epoch(model, loader, optimizer, device_, train: bool = True):
     else:
         model.eval()
     total_loss, total_correct, total_samples = 0.0, 0, 0
-    for windows, input_ids, attention_mask, label_texts in loader:
+    for windows, input_ids, attention_mask, label_texts in tqdm(
+        loader, desc="train" if train else "val", leave=False
+    ):
         windows = windows.to(device_)
         if train:
             optimizer.zero_grad()
