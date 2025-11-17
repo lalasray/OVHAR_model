@@ -144,9 +144,6 @@ class IMUToTextModel(nn.Module):
         super().__init__()
         self.encoder = FrozenVQVAEEncoder(checkpoint)
         self.qformer = HFQFormer(name=qformer_name, input_dim=self.encoder.model._pre_vq_conv.out_channels)
-        self.proj = nn.Conv1d(
-            self.encoder.model._pre_vq_conv.out_channels, self.qformer.config.hidden_size, kernel_size=1
-        )
         self.lm = FrozenLLM(model_name=lm_name, device=device)
         self.q_to_lm = nn.Linear(self.qformer.config.hidden_size, self.lm.hidden_size)
 
@@ -155,8 +152,8 @@ class IMUToTextModel(nn.Module):
     ) -> Tuple[torch.Tensor, torch.Tensor]:
         with torch.no_grad():
             z = self.encoder(x)  # [B, D, T]
-        z_proj = self.proj(z).transpose(1, 2)  # [B, T, dim]
-        q_tokens = self.qformer(z_proj)  # [B, Q, dim]
+        z_seq = z.transpose(1, 2)  # [B, T, D]
+        q_tokens = self.qformer(z_seq)  # [B, Q, dim]
         pooled = q_tokens.mean(dim=1).unsqueeze(1)  # [B,1,dim]
         prefix = self.q_to_lm(pooled)  # [B,1,H]
         loss, logits = self.lm(prefix, label_input_ids, label_attention_mask)
