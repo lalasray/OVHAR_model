@@ -1,16 +1,18 @@
-"""
-Train a Q-Former + classifier on top of a frozen VQ-VAE encoder to emit label text.
-"""
 from __future__ import annotations
 
 import argparse
 from pathlib import Path
 from typing import List, Tuple
 
+import sys
 import torch
 import torch.nn.functional as F
 import torch.optim as optim
 from torch.utils.data import DataLoader, Dataset, random_split
+
+ROOT = Path(__file__).resolve().parents[2]
+if str(ROOT) not in sys.path:
+    sys.path.append(str(ROOT))
 
 from model.Autoregressor.model import IMUToTextModel
 from model.Quantizer.imu_OVHAR import OVHARDataset, device
@@ -64,7 +66,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--val-split", type=float, default=0.1)
     parser.add_argument("--num-queries", type=int, default=8)  # retained for backward compatibility (unused for HF)
     parser.add_argument("--qformer-name", type=str, default="Salesforce/blip2-opt-2.7b", help="HF Q-Former backbone.")
-    parser.add_argument("--lm-name", type=str, default="meta-llama/Meta-Llama-3-8B", help="HF causal LM name/path (frozen).")
+    parser.add_argument("--lm-name", type=str, default="meta-llama/Meta-Llama-3.1-8B", help="HF causal LM name/path (frozen).")
     parser.add_argument("--max-files", type=int, help="Limit Sensor CSVs to load.")
     parser.add_argument("--seed", type=int, default=42)
     return parser.parse_args()

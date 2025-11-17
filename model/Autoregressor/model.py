@@ -1,6 +1,3 @@
-"""
-Autoregressive-style wrapper: frozen VQ-VAE encoder -> learnable Q-Former -> frozen LLM for text labels.
-"""
 from __future__ import annotations
 
 from pathlib import Path
@@ -74,7 +71,7 @@ class HFQFormer(nn.Module):
 class FrozenLLM(nn.Module):
     """Frozen causal LM plus tokenizer to generate/score label text."""
 
-    def __init__(self, model_name: str = "gpt2", device: torch.device | str = "cpu"):
+    def __init__(self, model_name: str = "meta-llama/Meta-Llama-3.1-8B", device: torch.device | str = "cpu"):
         super().__init__()
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
         if self.tokenizer.pad_token is None:
@@ -121,7 +118,7 @@ class IMUToTextModel(nn.Module):
         self,
         checkpoint: Path,
         qformer_name: str = "Salesforce/blip2-opt-2.7b",
-        lm_name: str = "meta-llama/Meta-Llama-3-8B",
+        lm_name: str = "meta-llama/Meta-Llama-3.1-8B",
         device: torch.device | str = "cpu",
     ):
         super().__init__()

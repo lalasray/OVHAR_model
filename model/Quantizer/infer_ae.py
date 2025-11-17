@@ -14,8 +14,8 @@ def parse_args() -> argparse.Namespace:
     default_dataset = script_dir.parent.parent / "dataset"
     parser = argparse.ArgumentParser(description="Infer/reconstruct a window from OVHAR using a trained checkpoint.")
     parser.add_argument("--dataset-root", type=Path, default=default_dataset)
-    parser.add_argument("--seq-length", type=int, default=24)
-    parser.add_argument("--stride", type=int, default=1)
+    parser.add_argument("--seq-length", type=int, default=None, help="If omitted, use seq_length from checkpoint args.")
+    parser.add_argument("--stride", type=int, default=None, help="If omitted, use stride from checkpoint args.")
     parser.add_argument("--max-files", type=int, help="Limit Sensor CSVs to load.")
     parser.add_argument("--sample-idx", type=int, default=0, help="Which window to visualize.")
     parser.add_argument("--checkpoint", type=Path, default=Path("train_ae_ovhar.pt"))
@@ -27,17 +27,14 @@ def main() -> None:
     device_ = device()
     print(f"Using device: {device_}")
 
-    ds = OVHARDataset(
-        root=args.dataset_root,
-        seq_length=args.seq_length,
-        stride=args.stride,
-        max_files=args.max_files,
-    )
-    if not (0 <= args.sample_idx < len(ds)):
-        raise IndexError(f"sample-idx {args.sample_idx} out of range (0..{len(ds)-1})")
-
     checkpoint = torch.load(args.checkpoint, map_location="cpu")
     ckpt_args = checkpoint.get("args", {})
+
+    seq_length = args.seq_length if args.seq_length is not None else ckpt_args.get("seq_length", 24)
+    stride = args.stride if args.stride is not None else ckpt_args.get("stride", 1)
+    ds = OVHARDataset(root=args.dataset_root, seq_length=seq_length, stride=stride, max_files=args.max_files)
+    if not (0 <= args.sample_idx < len(ds)):
+        raise IndexError(f"sample-idx {args.sample_idx} out of range (0..{len(ds)-1})")
 
     model = VQVAEIMU(
         num_hiddens=ckpt_args.get("num_hiddens", 128),
