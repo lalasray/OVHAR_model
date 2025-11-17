@@ -57,7 +57,8 @@ class HFQFormer(nn.Module):
         super().__init__()
         self.config = Blip2QFormerConfig.from_pretrained(name)
         self.qformer = Blip2QFormerModel.from_pretrained(name, config=self.config)
-        self.query_tokens = nn.Parameter(torch.randn(self.config.num_query_tokens, self.config.hidden_size))
+        num_query_tokens = getattr(self.config, "num_query_tokens", None) or getattr(self.config, "query_length", 32)
+        self.query_tokens = nn.Parameter(torch.randn(num_query_tokens, self.config.hidden_size))
         self.proj = nn.Linear(input_dim, self.config.hidden_size)
 
     def forward(self, encoder_feats: torch.Tensor) -> torch.Tensor:
