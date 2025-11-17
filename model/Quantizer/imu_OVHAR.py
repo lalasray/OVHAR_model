@@ -87,7 +87,9 @@ class OVHARDataset(Dataset):
         return len(self.windows)
 
     def __getitem__(self, idx: int) -> tuple[torch.Tensor, int]:
-        return torch.from_numpy(self.windows[idx]), self.window_labels[idx]
+        label_id = self.window_labels[idx]
+        label_text = self.id_to_label[label_id] if 0 <= label_id < len(self.id_to_label) else ""
+        return torch.from_numpy(self.windows[idx]), (label_id, label_text)
 
     def _label_for_window(
         self,

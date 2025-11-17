@@ -37,15 +37,22 @@ def main() -> None:
         for lid, text in enumerate(ds.id_to_label):
             print(f"{lid}: {text}")
 
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     loader = DataLoader(ds, batch_size=args.batch_size, shuffle=False, drop_last=False)
 
     label_counts = Counter(ds.window_labels)
     print("Label distribution (top 10):", label_counts.most_common(10))
+    print(f"Using device: {device}")
 
-    for i, (batch, labels) in enumerate(loader):
-        print(f"Batch {i}: data shape {batch.shape}, labels shape {labels.shape}")
-        uniques = labels.unique()
-        print(f"  Unique labels in batch: {uniques.tolist()}")
+    for i, (batch, label_pairs) in enumerate(loader):
+        batch = batch.to(device)
+        label_ids = label_pairs[0].to(device) if isinstance(label_pairs, (list, tuple)) else label_pairs.to(device)
+        print(f"Batch {i}: data shape {batch.shape}, labels shape {label_ids.shape}")
+        uniques = label_ids.unique()
+        print(f"  Unique label ids in batch: {uniques.tolist()}")
+        if isinstance(label_pairs, (list, tuple)) and len(label_pairs) > 1:
+            example_texts = label_pairs[1][: min(5, len(label_pairs[1]))]
+            print(f"  Sample label texts: {example_texts}")
         if i + 1 >= args.batches:
             break
 
