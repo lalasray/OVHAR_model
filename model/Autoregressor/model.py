@@ -70,14 +70,15 @@ class HFQFormer(nn.Module):
         self.qformer = Blip2QFormerModel.from_pretrained(name, config=self.config)
         num_query_tokens = getattr(self.config, "num_query_tokens", None) or getattr(self.config, "query_length", 32)
         self.query_tokens = nn.Parameter(torch.randn(num_query_tokens, self.config.hidden_size))
-        self.proj = nn.Linear(input_dim, self.config.hidden_size)
+        self.encoder_hidden_dim = getattr(self.config, "encoder_hidden_size", self.config.hidden_size)
+        self.proj = nn.Linear(input_dim, self.encoder_hidden_dim)
 
     def forward(self, encoder_feats: torch.Tensor) -> torch.Tensor:
         # encoder_feats: [B, T, D]
         B, T, _ = encoder_feats.shape
         queries = self.query_tokens.unsqueeze(0).repeat(B, 1, 1)  # [B, Q, H]
-        encoder_hidden = self.proj(encoder_feats)  # [B, T, H]
-        pos = sinusoidal_positional_embedding(T, self.config.hidden_size, encoder_feats.device)
+        encoder_hidden = self.proj(encoder_feats)  # [B, T, encoder_hidden_dim]
+        pos = sinusoidal_positional_embedding(T, self.encoder_hidden_dim, encoder_feats.device)
         encoder_hidden = encoder_hidden + pos.unsqueeze(0)
         attention_mask = torch.ones((B, T), device=encoder_feats.device, dtype=torch.long)
         outputs = self.qformer(
