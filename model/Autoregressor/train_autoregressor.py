@@ -76,6 +76,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--qformer-name", type=str, default="Salesforce/blip2-opt-2.7b", help="HF Q-Former backbone.")
     parser.add_argument("--lm-name", type=str, default="meta-llama/Meta-Llama-3.1-8B", help="HF causal LM name/path (frozen).")
     parser.add_argument("--max-files", type=int, help="Limit Sensor CSVs to load.")
+    parser.add_argument("--sample-frac", type=float, default=0.00001, help="Fraction of labeled windows to use (e.g., 1e-5).")
     parser.add_argument("--seed", type=int, default=42)
     return parser.parse_args()
 
@@ -95,6 +96,11 @@ def build_loaders(args: argparse.Namespace) -> tuple[DataLoader, DataLoader, lis
         max_files=args.max_files,
     )
     labeled = LabeledDataset(base)
+    if args.sample_frac < 1.0:
+        rng = torch.Generator().manual_seed(args.seed)
+        keep_len = max(1, int(len(labeled) * args.sample_frac))
+        perm = torch.randperm(len(labeled), generator=rng)[:keep_len].tolist()
+        labeled.indices = [labeled.indices[i] for i in perm]
     val_len = max(1, int(len(labeled) * args.val_split))
     train_len = len(labeled) - val_len
     generator = torch.Generator().manual_seed(args.seed)
