@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import re
 from pathlib import Path
 from typing import Iterable, Sequence
 
@@ -26,22 +27,29 @@ class OVHARDataset(Dataset):
     def __init__(
         self,
         root: Path,
-        seq_length: int = 30,
+        seq_length: int = 24,
         stride: int | None = None,
         columns: Sequence[str] = ("ax", "ay", "az"),
         max_files: int | None = None,
+        unknown_label: int = -1,
     ) -> None:
         self.seq_length = seq_length
         self.stride = stride or seq_length
         self.columns = list(columns)
         self.windows: list[np.ndarray] = []
         self.data_variance: float = 1.0
+        self.window_labels: list[int] = []
+        self.label_to_id: dict[str, int] = {}
+        self.id_to_label: list[str] = []
+        self.unknown_label = unknown_label
 
         csv_paths = sorted(root.rglob("Sensor*.csv"))
         if max_files is not None:
             csv_paths = csv_paths[:max_files]
         if not csv_paths:
             raise FileNotFoundError(f"No Sensor*.csv files found under {root}")
+
+        transcription_cache: dict[Path, list[tuple[float, float, int]]] = {}
 
         sq_sum = 0.0
         value_count = 0
@@ -54,12 +62,23 @@ class OVHARDataset(Dataset):
             # Center the raw signals per file to reduce bias across sensors.
             values = df[self.columns].to_numpy(dtype=np.float32)
             values -= values.mean(axis=0, keepdims=True)
+            times_sec = (df["Time"].to_numpy(dtype=np.float32) - df["Time"].iloc[0]) / 1000.0
+
+            participant_dir = csv_path.parent.parent
+            intervals = transcription_cache.get(participant_dir)
+            if intervals is None:
+                transcript_path = participant_dir / "transcription.txt"
+                intervals = self._load_transcription(transcript_path)
+                transcription_cache[participant_dir] = intervals
 
             for start in range(0, len(values) - seq_length + 1, self.stride):
                 window = values[start : start + seq_length].T  # (C, T)
                 self.windows.append(window)
                 sq_sum += float(np.sum(window ** 2))
                 value_count += window.size
+                self.window_labels.append(
+                    self._label_for_window(times_sec, start, seq_length, intervals, unknown_label)
+                )
 
         if value_count > 0:
             self.data_variance = sq_sum / value_count
@@ -68,7 +87,43 @@ class OVHARDataset(Dataset):
         return len(self.windows)
 
     def __getitem__(self, idx: int) -> tuple[torch.Tensor, int]:
-        return torch.from_numpy(self.windows[idx]), 0
+        return torch.from_numpy(self.windows[idx]), self.window_labels[idx]
+
+    def _label_for_window(
+        self,
+        times_sec: np.ndarray,
+        start: int,
+        seq_length: int,
+        intervals: list[tuple[float, float, int]],
+        default_label: int,
+    ) -> int:
+        mid_time = float((times_sec[start] + times_sec[start + seq_length - 1]) / 2.0)
+        for t_start, t_end, label_id in intervals:
+            if t_start <= mid_time <= t_end:
+                return label_id
+        return default_label
+
+    def _load_transcription(self, path: Path) -> list[tuple[float, float, int]]:
+        if not path.exists():
+            return []
+        intervals: list[tuple[float, float, int]] = []
+        pattern = re.compile(r"\[\s*([\d.]+)s?\s*-\s*([\d.]+)s?\s*\]\s*(.+)")
+        with path.open("r") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                match = pattern.match(line)
+                if not match:
+                    continue
+                start_s, end_s, label_text = match.groups()
+                label_text = label_text.strip()
+                if label_text not in self.label_to_id:
+                    self.label_to_id[label_text] = len(self.label_to_id)
+                    self.id_to_label.append(label_text)
+                label_id = self.label_to_id[label_text]
+                intervals.append((float(start_s), float(end_s), label_id))
+        return intervals
 
 
 class VQVAEIMU(nn.Module):

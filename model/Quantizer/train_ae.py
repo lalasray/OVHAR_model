@@ -28,22 +28,23 @@ def parse_args() -> argparse.Namespace:
 
     parser = argparse.ArgumentParser(description="Train VQ-VAE on OVHAR IMU windows.")
     parser.add_argument("--dataset-root", type=Path, default=default_dataset, help="Root folder containing Participant_*")
-    parser.add_argument("--seq-length", type=int, default=48, help="Timesteps per training window.")
+    parser.add_argument("--seq-length", type=int, default=24, help="Timesteps per training window.")
     parser.add_argument("--stride", type=int, help="Stride between windows (default: seq-length).")
     parser.add_argument("--batch-size", type=int, default=256)
-    parser.add_argument("--epochs", type=int, default=10)
+    parser.add_argument("--epochs", type=int, default=100)
     parser.add_argument("--learning-rate", type=float, default=1e-3)
     parser.add_argument("--num-embeddings", type=int, default=512)
     parser.add_argument("--embedding-dim", type=int, default=64)
     parser.add_argument("--num-hiddens", type=int, default=128)
-    parser.add_argument("--num-residual-layers", type=int, default=2)
-    parser.add_argument("--num-residual-hiddens", type=int, default=32)
-    parser.add_argument("--commitment-cost", type=float, default=0.25)
+    parser.add_argument("--num-residual-layers", type=int, default=3)
+    parser.add_argument("--num-residual-hiddens", type=int, default=64)
+    parser.add_argument("--commitment-cost", type=float, default=0.5)
     parser.add_argument("--decay", type=float, default=0.99)
     parser.add_argument("--val-split", type=float, default=0.1)
     parser.add_argument("--max-files", type=int, help="Limit number of Sensor CSVs to load.")
     parser.add_argument("--save-path", type=Path, default=Path("train_ae_ovhar.pt"))
     parser.add_argument("--seed", type=int, default=42)
+    parser.add_argument("--patience", type=int, default=5, help="Early stopping patience on validation loss.")
     return parser.parse_args()
 
 
@@ -135,6 +136,9 @@ def main() -> None:
     ).to(device_)
     optimizer = optim.Adam(model.parameters(), lr=args.learning_rate)
 
+    best_val_loss = float("inf")
+    epochs_no_improve = 0
+
     for epoch in range(1, args.epochs + 1):
         train_recon, train_perplex = train_epoch(model, train_loader, optimizer, data_variance, device_)
         val_loss, val_perplex = evaluate(model, val_loader, data_variance, device_)
@@ -143,8 +147,22 @@ def main() -> None:
             f"val loss {val_loss:.4f} perplexity {val_perplex:.2f}"
         )
 
-    torch.save({"model_state": model.state_dict(), "args": vars(args)}, args.save_path)
-    print(f"Saved checkpoint to {args.save_path}")
+        if val_loss < best_val_loss:
+            best_val_loss = val_loss
+            epochs_no_improve = 0
+            torch.save({"model_state": model.state_dict(), "args": vars(args)}, args.save_path)
+            print(f"Saved improved checkpoint to {args.save_path}")
+        else:
+            epochs_no_improve += 1
+            if epochs_no_improve >= args.patience:
+                print(f"No val improvement for {args.patience} epochs. Early stopping.")
+                break
+
+    if epochs_no_improve >= args.patience:
+        print(f"Best val loss: {best_val_loss:.4f} (checkpoint at {args.save_path})")
+    else:
+        torch.save({"model_state": model.state_dict(), "args": vars(args)}, args.save_path)
+        print(f"Training finished. Saved checkpoint to {args.save_path}")
 
 
 if __name__ == "__main__":
