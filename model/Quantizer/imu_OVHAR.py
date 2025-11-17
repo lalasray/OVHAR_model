@@ -13,8 +13,15 @@ import torch.nn.functional as F
 import torch.optim as optim
 from torch.utils.data import DataLoader, Dataset, random_split
 
-from enc_dec import IMUDecoder, IMUEncoder
-from vector_quant import VectorQuantizer, VectorQuantizerEMA
+import sys
+
+ROOT = Path(__file__).resolve().parents[2]
+root_str = str(ROOT)
+if root_str not in sys.path:
+    sys.path.insert(0, root_str)
+
+from model.Quantizer.enc_dec import IMUDecoder, IMUEncoder
+from model.Quantizer.vector_quant import VectorQuantizer, VectorQuantizerEMA
 
 
 def device() -> torch.device:

@@ -3,6 +3,7 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Tuple
 
+import sys
 import torch
 import torch.nn as nn
 from transformers import (
@@ -11,6 +12,11 @@ from transformers import (
     Blip2QFormerConfig,
     Blip2QFormerModel,
 )
+
+ROOT = Path(__file__).resolve().parents[2]
+root_str = str(ROOT)
+if root_str not in sys.path:
+    sys.path.insert(0, root_str)
 
 from model.Quantizer.imu_OVHAR import VQVAEIMU
 

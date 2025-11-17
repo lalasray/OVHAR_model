@@ -11,8 +11,9 @@ import torch.optim as optim
 from torch.utils.data import DataLoader, Dataset, random_split
 
 ROOT = Path(__file__).resolve().parents[2]
-if str(ROOT) not in sys.path:
-    sys.path.append(str(ROOT))
+root_str = str(ROOT)
+if root_str not in sys.path:
+    sys.path.insert(0, root_str)
 
 from model.Autoregressor.model import IMUToTextModel
 from model.Quantizer.imu_OVHAR import OVHARDataset, device
