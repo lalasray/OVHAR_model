@@ -1,3 +1,4 @@
 *.7z
 /model/Quantizer/__pycache__
 *.pt
+/model/Autoregressor/__pycache__
