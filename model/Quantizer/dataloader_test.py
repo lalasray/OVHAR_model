@@ -1,6 +1,3 @@
-"""
-Quick smoke test for OVHARDataset/loader to verify windowing and labels.
-"""
 from __future__ import annotations
 
 import argparse
