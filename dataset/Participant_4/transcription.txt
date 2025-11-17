@@ -1,0 +1,115 @@
+[0.00s - 2.00s]  Five jumps.
+[10.00s - 12.00s]  Walking.
+[16.00s - 19.00s]  Swinging arms from back to front.
+[30.00s - 32.00s]  Standing still.
+[40.00s - 42.00s]  Walking.
+[42.00s - 47.00s]  Reaching for a cocktail mix from the shelf.
+[54.00s - 56.00s]  Walking.
+[56.00s - 58.00s]  Sitting down on the sofa chair.
+[60.00s - 64.00s]  Putting the cocktail mix into the wine glass.
+[67.00s - 70.00s]  Adding water to the wine glass.
+[76.00s - 79.00s]  Stirring the water in the wine glass.
+[79.00s - 82.00s]  Sipping the cocktail.
+[90.00s - 92.00s]  Standing up.
+[94.00s - 99.00s]  Walking to the tall table and opening the laptop placed on it.
+[100.00s - 103.00s]  Sitting on the tall chair.
+[103.00s - 106.00s]  Working on the laptop.
+[121.00s - 123.00s]  Drinking water.
+[213.00s - 235.00s]  Getting down from the tall chair and walking. Stretching the left leg. Back to walking.
+[235.00s - 252.00s]  Tying shoelaces. Still walking. Swinging arms from left to right and up and down.
+[252.00s - 275.00s]  Bobbing head to music. Picking up the chessboard from the shelf. Placing it on the small coffee table. Opening the chess box.
+[282.00s - 294.00s]  Putting the chess pieces out of the chess box.
+[312.00s - 341.00s]  Walking. Picking up the water kettle from the stand. Placing it down.
+[341.00s - 357.00s]  Making tea.
+[357.00s - 375.00s]  Taking tea leaves from the tea bag and placing it into a cup.
+[375.00s - 402.00s]  Closing the tea bag and pouring hot water from the kettle into the glass.
+[402.00s - 418.00s]  Playing chess while listening to music and bobbing the head.
+[418.00s - 447.00s]  Stomping the right feet.
+[448.00s - 476.00s]  Playing chess.
+[476.00s - 505.00s]  Placing the chess pieces on the board.
+[506.00s - 525.00s]  Standing up.
+[525.00s - 548.00s]  Working on the high table while standing. Using the laptop and typing with both hands.
+[548.00s - 571.00s]  Walking.
+[571.00s - 597.00s]  Standing and using the laptop on the high table again.
+[597.00s - 626.00s]  Typing with both hands on the laptop.
+[627.00s - 646.00s]  Sitting on the sofa chair.
+[646.00s - 844.00s]  Playing the game of chess.
+[844.00s - 872.00s]  Working on the laptop while standing at the high table with both hands.
+[872.00s - 901.00s]  Walking.
+[901.00s - 930.00s]  Bending to stir the tea in the teacup on the coffee table.
+[930.00s - 959.00s]  Standing up and walking towards the bed. Sitting down on the bed and sipping tea with both hands.
+[959.00s - 988.00s]  Sipping tea only with the left hand.
+[988.00s - 1016.00s]  Playing chess.
+[1016.00s - 1028.00s]  Standing up.
+[1028.00s - 1057.00s]  Walking towards the coffee table. Placing the tea cup back on the coffee table. Sitting down on the sofa chair.
+[1057.00s - 1082.00s]  Tapping leg to the sound of music.
+[1082.00s - 1111.00s]  Mimicking playing drums in the air.
+[1112.00s - 1168.00s]  Playing chess.
+[1168.00s - 1196.00s]  Tapping legs to the sound of music.
+[1196.00s - 1224.00s]  Playing chess.
+[1224.00s - 1252.00s]  Tapping feet to the sound of music.
+[1252.00s - 1280.00s]  Standing up.
+[1282.00s - 1290.00s]  Walking towards the table. Bending to pick up the watering can.
+[1290.00s - 1298.00s]  Refilling the watering can with some water.
+[1298.00s - 1301.00s]  Walking towards the plant.
+[1328.00s - 1353.00s]  Picking up books from the shelf and choosing between them.
+[1353.00s - 1365.00s]  Rifling through the book. Flipping pages. Placing the book back in the shelf.
+[1365.00s - 1373.00s]  Raising arms up and down. Walking towards the exercise mat. Bending to pick up the dumbbells.
+[1395.00s - 1423.00s]  Doing bicep curls together with both arms.
+[1423.00s - 1433.00s]  Placing the biceps curls, placing the weights back onto the ground.
+[1433.00s - 1462.00s]  Sitting down on the exercise mat and stretching the legs.
+[1462.00s - 1485.00s]  Placing the dumbbells on the table.
+[1513.00s - 1531.00s]  Stretching arms and legs by reaching for the toes with the fingers.
+[1531.00s - 1541.00s]  Stretching the back and raising the knee to the chest.
+[1541.00s - 1568.00s]  Adjusting the belt back to knee to chest movement.
+[1568.00s - 1588.00s]  Crossing legs on the exercise mat.
+[1588.00s - 1600.00s]  Standing up.
+[1600.00s - 1606.00s]  Walking towards the shelf. Picking up tape from the shelf.
+[1606.00s - 1635.00s]  Adjusting the sensors on the body using tape.
+[1635.00s - 1663.00s]  Using tape.
+[1663.00s - 1685.00s]  Sticking it to the body to hold up the sensors.
+[1685.00s - 1714.00s]  Touching the heels in a standing position. Twisting the body from left to right with the feet planted.
+[1715.00s - 1734.00s]  Knee raises with body twists. Yawning.
+[1734.00s - 1763.00s]  Using the laptop on the high table.
+[1763.00s - 1777.00s]  Wiping along to the music.
+[1777.00s - 1792.00s]  Sitting on the bed with one leg on the bed and one leg on the ground.
+[1792.00s - 1821.00s]  Sitting back straight. Adjusting t-shirt.
+[1822.00s - 1850.00s]  Sleeping on the bed.
+[1850.00s - 1879.00s]  Putting both legs onto the bed and sleeping.
+[1879.00s - 1895.00s]  Stretching arms and legs.
+[1895.00s - 1923.00s]  Stretching the legs.
+[1951.00s - 1968.00s]  Getting up from the bed. Walking.
+[1968.00s - 1973.00s]  Standing in front of the shelf. Picking up a book.
+[1973.00s - 1979.00s]  Walking towards the sofa chair. Sitting down on the sofa chair.
+[1979.00s - 2135.00s]  Flipping through the pages in the book.
+[2135.00s - 2248.00s]  Playing chess.
+[2248.00s - 2258.00s]  Placing hands on the face. Back onto the table.
+[2258.00s - 2281.00s]  Standing up and shaking the bottle of cocktail and drinking it.
+[2281.00s - 2296.00s]  Picking up trash that has fallen down. Placing it back onto the table.
+[2296.00s - 2325.00s]  Moving head to the sound of music while playing chess.
+[2578.00s - 2598.00s]  Standing up. Walking.
+[2598.00s - 2615.00s]  Making a jogging motion. Standing at the high table and typing with both hands on the laptop.
+[2615.00s - 2622.00s]  Walking.
+[2622.00s - 2645.00s]  Vibing to the sound of music. Moving the whole body.
+[2652.00s - 2680.00s]  Walking.
+[2680.00s - 2696.00s]  Standing still. Bending down to pick the barbell up.
+[2696.00s - 2724.00s]  Doing weight lifts with the barbell.
+[2724.00s - 2748.00s]  I'm lifting the barbell above the head.
+[2748.00s - 2752.00s]  Placing the barbell back on the floor.
+[2752.00s - 2780.00s]  Vibing to the music and moving the whole body.
+[2780.00s - 2808.00s]  Stretching the legs.
+[2808.00s - 2820.00s]  Picking up a pen from the shelf. Searching for a piece of paper.
+[2820.00s - 2848.00s]  Walking with a piece of paper to the high table.
+[2848.00s - 2877.00s]  Working on the laptop using both hands.
+[2903.00s - 2932.00s]  Bending knees to the sound of music while working on the laptop. Stop working on the laptop. Dancing along music.
+[2933.00s - 2949.00s]  Raising hands above the head to the right, to the left and stretching all the body.
+[2949.00s - 2973.00s]  Pulling the chair out from the table and dragging it to the center of the room in front of the coffee table. Sitting on the chair.
+[2973.00s - 2994.00s]  Moving head along to the sound of music.
+[2994.00s - 3019.00s]  Moving hands along with music.
+[3019.00s - 3048.00s]  Standing up. Going back to the high table and using both hands to type on the laptop.
+[3049.00s - 3077.00s]  Bending both knees in front of the table.
+[3105.00s - 3185.00s]  typing with two hands.
+[3185.00s - 3205.00s]  Bending knees to the sound of music while standing and working on the laptop.
+[3205.00s - 3234.00s]  Mimicking writing on the wall in the air. Back to typing on the laptop at the high table.
+[3234.00s - 3259.00s]  Typing on the laptop at the main desk.
+[3259.00s - 3275.00s]  Standing in front of the exercise mat and doing five jumps.

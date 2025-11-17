@@ -1,0 +1,121 @@
+[0.00s - 2.00s]  Five jumps.
+[30.00s - 58.00s]  Walking.
+[58.00s - 68.00s]  Bends to pick up the chess pieces from the table.
+[68.00s - 78.00s]  Arranges the chess pieces back in the chess box.
+[78.00s - 83.00s]  Closes the chess box.
+[83.00s - 86.00s]  Picks up the chess box.
+[86.00s - 90.00s]  Places the chess box into the stand.
+[90.00s - 99.00s]  Reaches for a puzzle.
+[99.00s - 102.00s]  Picks up the phone from the small sofa.
+[102.00s - 107.00s]  Paces around the room.
+[107.00s - 113.00s]  Bends to take something from a bag.
+[113.00s - 117.00s]  Walks towards the bed.
+[117.00s - 125.00s]  Sits down on the bed.
+[125.00s - 131.00s]  wears earphones
+[131.00s - 160.00s]  Is typing on the phone.
+[220.00s - 238.00s]  Places the phone beside her and picks up the puzzle.
+[238.00s - 267.00s]  Attempting to solve the puzzle.
+[597.00s - 650.00s]  Puts the cube down and picks up the phone with the right hand.
+[650.00s - 677.00s]  Puts down the phone and stands up.
+[677.00s - 689.00s]  Walking towards the shelf.
+[689.00s - 691.00s]  Walks towards the main table.
+[691.00s - 694.00s]  Pulls a chair.
+[694.00s - 701.00s]  Sits down.
+[701.00s - 716.00s]  Types on the laptop.
+[716.00s - 726.00s]  Using the right hand to scroll.
+[726.00s - 755.00s]  Coughing.
+[755.00s - 765.00s]  Typing with both hands.
+[765.00s - 793.00s]  Back to scrolling on the cursor pad.
+[793.00s - 821.00s]  Typing with both hands.
+[821.00s - 839.00s]  Yawning.
+[839.00s - 1510.00s]  Typing with both hands again.
+[1510.00s - 1524.00s]  Walking.
+[1524.00s - 1532.00s]  Bending to pick up the watering can.
+[1532.00s - 1538.00s]  Watering the plant.
+[1538.00s - 1552.00s]  Walking back to the shelf, bends to place the water can.
+[1552.00s - 1559.00s]  Picks up the fruit and chopping board.
+[1559.00s - 1562.00s]  Walks to the sofa table.
+[1562.00s - 1566.00s]  Sits down on the sofa chair.
+[1566.00s - 1594.00s]  Cutting vegetables.
+[1594.00s - 1602.00s]  Eating the cut vegetables.
+[1602.00s - 1630.00s]  While walking.
+[1630.00s - 1658.00s]  Reaches the top shelf.
+[1658.00s - 1681.00s]  Walks to the sofa table.
+[1681.00s - 1696.00s]  Again chops the vegetable.
+[1696.00s - 1710.00s]  Eats the vegetable.
+[1710.00s - 1717.00s]  Stands up.
+[1717.00s - 1722.00s]  Picks up the puzzle from the bed.
+[1722.00s - 1751.00s]  Walks to the shelf. Places it back on the upper shelf.
+[1751.00s - 1771.00s]  Takes the cocktail mixer from the top shelf.
+[1771.00s - 1778.00s]  Places the cocktail mixer back on the top shelf.
+[1778.00s - 1794.00s]  Picks up some more vegetables from the sofa table and eats them.
+[1794.00s - 1804.00s]  Jiving while walking.
+[1804.00s - 1832.00s]  Clicking her heels.
+[1832.00s - 1853.00s]  Continues to pace around in a rhythmic motion with phone in hands.
+[1853.00s - 1860.00s]  Stop pacing around.
+[1860.00s - 1875.00s]  Bopping her head to the music. Bends down to cut some more vegetables.
+[1875.00s - 1884.00s]  Picks up the vegetables from the cutting board and eats them.
+[1884.00s - 1908.00s]  Bopping her head and moving her body to the sound of music.
+[1908.00s - 1928.00s]  Dancing while eating.
+[1928.00s - 1939.00s]  Stop dancing.
+[1939.00s - 1954.00s]  Picks up the scissors from the table. Places it back into the stationary box on the shelf.
+[1954.00s - 1968.00s]  Again picks up the cocktail mixer from the shelf. Places it onto the small coffee table.
+[1968.00s - 1977.00s]  Picks up the trash from the vegetables and throws it in the dustbin.
+[1977.00s - 2005.00s]  Walks back to the shelf and takes the cocktail mix. Takes another cocktail mix from the shelf.
+[2005.00s - 2025.00s]  Attempting to make a cocktail. Pours the cocktail mix into the measuring cup.
+[2025.00s - 2048.00s]  Mixes water into the measuring cup.
+[2048.00s - 2070.00s]  Pours directly water into the mixing cup.
+[2070.00s - 2093.00s]  Pours the mixture into the wine glass. Drinks the cocktail.
+[2093.00s - 2105.00s]  Places the cocktail onto the coffee table.
+[2105.00s - 2120.00s]  Picks another mixture from the shelf.
+[2120.00s - 2136.00s]  Opens the mixture.
+[2136.00s - 2148.00s]  Bends to take the mixing cup. Adds the mixture into the mixing cup.
+[2148.00s - 2170.00s]  Adds some more water.
+[2170.00s - 2192.00s]  Picks up the ice from the table. Places it onto the coffee table.
+[2192.00s - 2217.00s]  Attempts to break the big piece of ice into smaller chunks.
+[2217.00s - 2245.00s]  Places the ice back into the bowl and takes the chunks of ice into the new glass.
+[2245.00s - 2274.00s]  Tastes the mixture.
+[2274.00s - 2316.00s]  Wiping the table with tissue, While bending over.
+[2316.00s - 2326.00s]  Picks up the chopping board and places it back onto the lower part of the shelf.
+[2326.00s - 2347.00s]  Walks to the dustbin and throws paper. Places the mixtures back onto the top shelf.
+[2347.00s - 2360.00s]  Bends over to close the water bottle on the coffee table. Picks up the ice from the coffee table. Puts it back onto the high table.
+[2360.00s - 2389.00s]  Picks up the tissue from the coffee table and wipes the coffee table a bit more.
+[2389.00s - 2411.00s]  Picks up the cocktail from the table. Sips the cocktail from the wine glass.
+[2411.00s - 2425.00s]  Picks up the 1kg weight from the ground. Picks up the second 1kg weight from the ground in one arm and tries to do a bicep curl using both of them in just one arm.
+[2425.00s - 2452.00s]  Places the bicep curl on the ground. Stands up and walks back towards the bed. Picks up the pillow and sits on the bed. Sips the drink and crouches while still sipping the drink.
+[2452.00s - 2477.00s]  Takes another sip.
+[2482.00s - 2497.00s]  Picks up the Tissue and wipes the table.
+[2497.00s - 2550.00s]  Picks up the Tissue and wipes the table again.
+[2550.00s - 2563.00s]  Using the left hand to scroll on the phone.
+[2563.00s - 2570.00s]  Sips the drink from the right hand.
+[2570.00s - 2575.00s]  Stands up from the bed and walks.
+[2575.00s - 2604.00s]  Sips the drink while walking.
+[2605.00s - 2617.00s]  Places the drink back onto the coffee table.
+[2617.00s - 2637.00s]  Walking around the coffee table.
+[2637.00s - 2649.00s]  Lunges. Alternating lunges.
+[2649.00s - 2674.00s]  Attempts to fix the sensor on the left leg.
+[2674.00s - 2684.00s]  Sits on the bed. Lays back on the bed with her legs hanging off the bed.
+[2684.00s - 2713.00s]  Scrolls on the phone with both hands.
+[2744.00s - 2773.00s]  Tapping the left leg with the music tone.
+[2773.00s - 2802.00s]  Moving both legs with some type of rhythmic motion.
+[2802.00s - 2816.00s]  Stands back onto the bed.
+[2816.00s - 2839.00s]  Tries to fix her hair.
+[2839.00s - 2845.00s]  Stands up from the bed.
+[2845.00s - 2857.00s]  Walks towards the table.
+[2875.00s - 2888.00s]  Picks up the one kilogram dumbbells from the floor in the hands and waves the hands around.
+[2888.00s - 2976.00s]  Bicep curls starting with right hand, then both hands at the same time.
+[2976.00s - 2980.00s]  Stops the bicep curl exercise.
+[2980.00s - 2985.00s]  Waves the hands around for a bit of relaxation.
+[2985.00s - 3004.00s]  waves hands Front and back.
+[3004.00s - 3013.00s]  Places the dumbbells back down onto the mat.
+[3013.00s - 3020.00s]  Walking
+[3020.00s - 3025.00s]  Leans over onto the chair.
+[3025.00s - 3029.00s]  Stands back straight.
+[3029.00s - 3031.00s]  Walks towards the shelf.
+[3031.00s - 3040.00s]  The book flips through the pages on the book while walking.
+[3061.00s - 3068.00s]  Closes the book, places it back on the shelf.
+[3068.00s - 3071.00s]  Picks up the phone from the table.
+[3071.00s - 3077.00s]  Holds the phone in two hands.
+[3077.00s - 3083.00s]  Glances at the laptop screen on the table.
+[3083.00s - 3097.00s]  Is typing on the phone.
+[3097.00s - 3100.00s]  Jumps five times again.

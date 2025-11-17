@@ -1,0 +1,162 @@
+[0.00s - 2.00s]  Five jumps.
+[4.84s - 6.84s]  Standing.
+[6.84s - 10.04s]  Placing hands on the neck and fixing the glasses.
+[13.44s - 15.44s]  Getting hands down.
+[16.72s - 19.48s]  Turning around. Walking.
+[22.96s - 26.78s]  Reoving Phone from the pocket. Sitting down on the bed.
+[27.78s - 29.78s]  Crossing legs.
+[31.46s - 35.94s]  Using phone while sitting in the bed in a cross-legged position.
+[86.78s - 88.78s]  Straight.
+[89.82s - 97.10s]  Sitting in the bed. Placing the bag on the floor. Laying down in the bed.
+[99.58s - 104.50s]  While looking towards the left side.
+[111.78s - 114.94s]  Placing the legs back onto the floor while sitting on the bed.
+[117.78s - 121.78s]  Placing earphones in the ears.
+[122.78s - 128.78s]  Texting on the phone. Fixing the glasses on the face.
+[146.78s - 150.78s]  Placing the glasses on the face.
+[160.78s - 277.78s]  Texting on the phone.
+[313.78s - 322.74s]  from the bed, opening the bag while seating in the bed,
+[322.74s - 329.70s]  placing the bag on the bed, and zipping the bag closed,
+[329.70s - 333.58s]  opening another pocket, looking for something
+[333.58s - 335.58s]  inside the bag,
+[335.58s - 363.58s]  placing the bag back onto the floor,
+[363.58s - 368.58s]  picking up the pillow in the hand,
+[368.58s - 378.58s]  examining the pillow,
+[378.58s - 398.58s]  playing with the pillow,
+[399.58s - 410.58s]  walking, opening the bottle of water,
+[410.58s - 424.58s]  pouring a glass of water,
+[424.58s - 430.58s]  sitting on the tall chair,
+[430.58s - 458.58s]  drinking the glass of water,
+[458.58s - 463.58s]  placing the glass onto the table,
+[463.58s - 491.58s]  pouring another glass of water while seated in the high chair,
+[493.58s - 522.58s]  wiping the desk with a piece of tissue paper,
+[524.58s - 533.58s]  closing the water bottle,
+[533.58s - 542.58s]  cleaning the glasses with a piece of cloth,
+[542.58s - 549.58s]  picking up a tissue paper to clean the spectacles,
+[549.58s - 560.58s]  wearing the glasses back onto the face,
+[560.58s - 570.58s]  stretching arms above the head to the right and to the left, twisting the body,
+[570.58s - 576.58s]  placing the shirt in its proper position,
+[576.58s - 585.58s]  swinging legs in the tall chair, getting down from the chair, walking,
+[585.58s - 593.58s]  clapping hands while walking,
+[593.58s - 598.58s]  walking,
+[598.58s - 603.58s]  picking up a paper from the table, placing it back,
+[603.58s - 607.58s]  walking,
+[607.58s - 622.58s]  picking up a pen from the table, placing the pen on the table, flipping through pages,
+[622.58s - 633.58s]  using the pen to write on the paper,
+[633.58s - 640.58s]  picking up the phone from the bed,
+[640.58s - 645.58s]  walking towards the table,
+[645.58s - 658.58s]  using the phone to type on,
+[658.58s - 661.58s]  writing,
+[661.58s - 689.58s]  copying something from the phone onto a piece of paper with a pen,
+[809.58s - 1038.58s]  thinking while writing on a piece of paper,
+[1038.58s - 1048.58s]  placing the phone on the table,
+[1048.58s - 1158.58s]  Picking up the phone it up and texting while seated in a chair,
+[1280.58s - 1444.50s]  Singing with hand gestures while in a seated position on the exercise mat.
+[1444.18s - 1449.38s]  Placing the phone to the left of the exercise mat.
+[1449.38s - 1468.58s]  Flipping over in a planked position and doing yoga.
+[1468.58s - 1498.50s]  Singing with hand gestures while in a seated position on the exercise mat.
+[1498.50s - 1520.42s]  Sitting on the yoga mat and using the phone.
+[1520.42s - 1543.14s]  Placing the phone to the right hand side on the mat.
+[1543.14s - 1546.90s]  Standing up.
+[1546.90s - 1549.90s]  Fixing hair.
+[1549.90s - 1554.46s]  Sitting down to pick up the phone and the 1kg weight.
+[1554.46s - 1563.94s]  Doing muscle curls with the right hand.
+[1563.94s - 1566.70s]  Picking up the other dumbbell.
+[1566.70s - 1592.98s]  Doing muscle curls with both hands simultaneously.
+[1592.98s - 1601.14s]  Doing a dancing move with the dumbbells while exercising.
+[1622.98s - 1643.14s]  Placing the dumbbells back onto the floor.
+[1643.14s - 1648.46s]  Picking up the phone from the bed.
+[1648.46s - 1660.42s]  Placing on the phone while in a standing position.
+[1660.42s - 1685.78s]  Putting the phone back onto the bed.
+[1685.78s - 1693.46s]  Putting a hat on the head and attempting golf swinging motions.
+[1693.46s - 1697.18s]  Picking off the cap, placing it back onto the shelf.
+[1697.18s - 1701.54s]  Picking up the 3D puzzle cube.
+[1701.54s - 1706.46s]  Arranging the sensor on the thigh.
+[1706.46s - 1729.22s]  Sitting on the chair and playing with the 3D puzzle cube.
+[1792.50s - 1805.98s]  Placing the cube on the table.
+[1805.98s - 1810.14s]  Sitting up from the chair.
+[1810.14s - 1813.70s]  Picking up the spraying bottle.
+[1813.70s - 1817.06s]  Walking towards the plant.
+[1817.06s - 1833.86s]  Picking the plant soil with water.
+[1833.86s - 1856.30s]  Walking.
+[1856.30s - 1859.98s]  Changing the fan orientation.
+[1860.98s - 1866.54s]  Walking. Picking up phone from the bed.
+[1866.54s - 1873.90s]  Texting on the phone. Picking up the earphones from the bed.
+[1873.90s - 1877.10s]  Placing the earphones inside the ears.
+[1877.10s - 1881.86s]  Throwing the earphone case on the bed.
+[1881.86s - 1887.94s]  Dancing to the sound of music.
+[1887.98s - 1896.10s]  Typing on the phone while in a standing position.
+[1896.10s - 1898.98s]  Dancing to the music.
+[1898.98s - 1903.30s]  Placing the phone on the mat.
+[1903.30s - 1907.70s]  Adjusting the sensors on the thighs.
+[1907.70s - 1910.62s]  Dancing with the music.
+[2192.70s - 2197.70s]  Standing back up adjusting the sensors on the ties.
+[2197.70s - 2226.70s]  Dancing again to the sound of music.
+[2319.70s - 2326.70s]  Fixing the T shirt.
+[2326.70s - 2355.70s]  Dancing.
+[2356.70s - 2368.70s]  Walking.
+[2368.70s - 2374.70s]  Placing the glasses properly on the face.
+[2374.70s - 2379.70s]  Blowing air into the face with hands.
+[2379.70s - 2384.70s]  Getting up from the tall chair.
+[2384.70s - 2389.70s]  Fixing the sensors of the ties.
+[2389.70s - 2394.70s]  Opening the bottle of water.
+[2394.70s - 2407.70s]  Pouring a glass of water.
+[2407.70s - 2409.70s]  Getting up from the tall chair.
+[2409.70s - 2411.70s]  Walking.
+[2411.70s - 2415.70s]  Sitting down in front of the fan.
+[2415.70s - 2428.70s]  Drinking water.
+[2428.70s - 2431.70s]  Blowing air into the face with the hand.
+[2431.70s - 2432.70s]  Getting up.
+[2432.70s - 2433.70s]  Walking.
+[2433.70s - 2438.70s]  Placing the glass on the tall table.
+[2438.70s - 2447.70s]  Pouring another glass of water.
+[2447.70s - 2458.70s]  Closing the water bottle.
+[2458.70s - 2463.70s]  Drinking water.
+[2463.70s - 2469.70s]  Kneeling down in front of the fan.
+[2469.70s - 2498.70s]  And sipping water.
+[2498.70s - 2501.70s]  Picking up a book from the shelf.
+[2501.70s - 2515.70s]  Opening the book.
+[2515.70s - 2520.70s]  Sitting down on the mat in front of the fan.
+[2520.70s - 2543.70s]  Reading this book.
+[2573.70s - 2578.70s]  Flipping through the pages of the book.
+[2578.70s - 2581.70s]  Fixing the glasses on the face.
+[2581.70s - 2585.70s]  Getting up from the exercise mat.
+[2585.70s - 2588.70s]  Walking.
+[2588.70s - 2591.70s]  Placing the book in the shelf.
+[2591.70s - 2595.70s]  Walking.
+[2595.70s - 2598.70s]  Fixing T shirt.
+[2598.70s - 2603.70s]  Walking.
+[2603.70s - 2616.70s]  Sitting down on the sofa chair.
+[2616.70s - 2621.70s]  Laying down on the bed.
+[2626.70s - 2637.70s]  Laying down face front on the bed.
+[2637.70s - 2643.70s]  Getting up from the bed.
+[2643.70s - 2653.70s]  Dancing and walking.
+[2653.70s - 2657.70s]  Just walking and fixing glasses on the face.
+[2657.70s - 2677.70s]  Dancing.
+[2687.70s - 2705.70s]  Doing Bharatnatyam dance.
+[2705.70s - 2714.70s]  Walking.
+[2714.70s - 2740.70s]  Dancing and walking at the same time.
+[2740.70s - 2746.70s]  Opening the chessboard on the shelf.
+[2746.70s - 2748.70s]  Picking up a few pieces.
+[2748.70s - 2749.70s]  Examining them.
+[2749.70s - 2752.70s]  Placing them back into the box.
+[2752.70s - 2760.70s]  Closing the chess box.
+[2760.70s - 2770.70s]  Walking.
+[2770.70s - 2795.70s]  Dancing and walking.
+[2800.70s - 2825.70s]  Walking.
+[2825.70s - 2854.70s]  Playing with the 3D cube while in a bended position.
+[2854.70s - 2856.70s]  Getting up off the floor.
+[2856.70s - 2876.70s]  Walking.
+[2876.70s - 2879.70s]  Sitting on the sofa table.
+[2879.70s - 2896.70s]  Playing with the paper cube.
+[2896.70s - 2918.70s]  Turning the fan around.
+[2918.70s - 2943.70s]  Playing with hands on the table.
+[2943.70s - 2966.70s]  Standing up.
+[2966.70s - 2970.70s]  Picking up a tissue from the high table.
+[2970.70s - 2974.70s]  Picking up another tissue.
+[2974.70s - 2977.70s]  Walking towards the sofa table.
+[2977.70s - 2982.70s]  Sitting on the sofa chair.
+[2982.70s - 3011.70s]  Holding the tissue paper.
+[3011.70s - 3039.70s]  Standing up.
+[3039.70s - 3041.70s]  Sitting on the sofa chair.
+[3041.70s - 3058.70s]  Walking.
+[3058.70s - 3062.70s]  Five jumps.

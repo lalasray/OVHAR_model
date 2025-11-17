@@ -1,142 +1,151 @@
+from __future__ import annotations
+
+import argparse
+from pathlib import Path
+
 import numpy as np
-from scipy.interpolate import interp1d
-from sklearn.model_selection import LeaveOneGroupOut
-from torch.utils.data import DataLoader
 import torch
 import torch.nn.functional as F
-import random
-import logging
-from imu_test import Model as VQ_VAE_Model
-from sslearning.data.data_loader import NormalDataset
 import torch.optim as optim
-import collections
+from torch.utils.data import DataLoader, random_split
 
-# Logging configuration
-logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+from imu_OVHAR import OVHARDataset, VQVAEIMU, device
 
-# Configuration
-CONFIG = {
-    "random_seed": 42,
-    "input_length": 64,
-    "batch_size": 1024,  # Reduced for stability
-    "num_training_updates": 15000,
-    "model_save_path": "vqvaemodel_fold_{fold}.pth",
-    "model_params": {
-        "num_hiddens": 64,
-        "num_residual_hiddens": 64,
-        "num_residual_layers": 3,
-        "embedding_dim": 128,
-        "num_embeddings": 1028,
-        "commitment_cost": 0.25,
-        "decay": 0.99,
-    },
-    "learning_rate": 1e-3,
-}
 
-# Set random seed for reproducibility
-def set_seed(seed=42):
+def set_seed(seed: int) -> None:
     torch.manual_seed(seed)
-    random.seed(seed)
     np.random.seed(seed)
     if torch.cuda.is_available():
         torch.cuda.manual_seed(seed)
         torch.cuda.manual_seed_all(seed)
         torch.backends.cudnn.deterministic = True
-        torch.backends.cudnn.benchmark = True  # Faster for consistent input sizes
+        torch.backends.cudnn.benchmark = True
 
-# Resize data using linear interpolation
-def resize_data(X, target_length, axis=1):
-    t_orig = np.linspace(0, 1, X.shape[axis], endpoint=True)
-    t_new = np.linspace(0, 1, target_length, endpoint=True)
-    return interp1d(t_orig, X, kind="linear", axis=axis, assume_sorted=True)(t_new)
 
-# Calculate class weights for imbalanced datasets
-def calculate_class_weights(labels):
-    counter = collections.Counter(labels)
-    total_samples = len(labels)
-    weights = [1.0 / (counter.get(i, 1) / total_samples) for i in range(max(counter.keys()) + 1)]
-    logging.info(f"Class weights: {weights}")
-    return weights
+def parse_args() -> argparse.Namespace:
+    script_dir = Path(__file__).resolve().parent
+    default_dataset = script_dir.parent.parent / "dataset"
 
-# Prepare train, validation, and test data loaders
-def prepare_data_loaders(train_idxs, test_idxs, X, Y, groups, batch_size):
-    tmp_X_train, X_test = X[train_idxs], X[test_idxs]
-    tmp_Y_train, Y_test = Y[train_idxs], Y[test_idxs]
-    group_train = groups[train_idxs]
+    parser = argparse.ArgumentParser(description="Train VQ-VAE on OVHAR IMU windows.")
+    parser.add_argument("--dataset-root", type=Path, default=default_dataset, help="Root folder containing Participant_*")
+    parser.add_argument("--seq-length", type=int, default=48, help="Timesteps per training window.")
+    parser.add_argument("--stride", type=int, help="Stride between windows (default: seq-length).")
+    parser.add_argument("--batch-size", type=int, default=256)
+    parser.add_argument("--epochs", type=int, default=10)
+    parser.add_argument("--learning-rate", type=float, default=1e-3)
+    parser.add_argument("--num-embeddings", type=int, default=512)
+    parser.add_argument("--embedding-dim", type=int, default=64)
+    parser.add_argument("--num-hiddens", type=int, default=128)
+    parser.add_argument("--num-residual-layers", type=int, default=2)
+    parser.add_argument("--num-residual-hiddens", type=int, default=32)
+    parser.add_argument("--commitment-cost", type=float, default=0.25)
+    parser.add_argument("--decay", type=float, default=0.99)
+    parser.add_argument("--val-split", type=float, default=0.1)
+    parser.add_argument("--max-files", type=int, help="Limit number of Sensor CSVs to load.")
+    parser.add_argument("--save-path", type=Path, default=Path("train_ae_ovhar.pt"))
+    parser.add_argument("--seed", type=int, default=42)
+    return parser.parse_args()
 
-    final_train_idxs, final_val_idxs = next(LeaveOneGroupOut().split(tmp_X_train, tmp_Y_train, groups=group_train))
-    X_train, X_val = tmp_X_train[final_train_idxs], tmp_X_train[final_val_idxs]
-    Y_train, Y_val = tmp_Y_train[final_train_idxs], tmp_Y_train[final_val_idxs]
 
-    train_dataset = NormalDataset(X_train, Y_train, name="train", isLabel=True)
-    val_dataset = NormalDataset(X_val, Y_val, name="val", isLabel=True)
-    test_dataset = NormalDataset(X_test, Y_test, pid=groups[test_idxs], name="test", isLabel=True)
-
-    return (
-        DataLoader(train_dataset, batch_size=batch_size, shuffle=True, pin_memory=True),
-        DataLoader(val_dataset, batch_size=batch_size, shuffle=False, pin_memory=True),
-        DataLoader(test_dataset, batch_size=batch_size, shuffle=False, pin_memory=True),
+def build_dataloaders(args: argparse.Namespace) -> tuple[DataLoader, DataLoader, float]:
+    dataset = OVHARDataset(
+        root=args.dataset_root,
+        seq_length=args.seq_length,
+        stride=args.stride,
+        max_files=args.max_files,
     )
+    if len(dataset) < 2:
+        raise ValueError("Not enough windows to split into train/val sets.")
 
-# Train the VQ-VAE model
-def train_model(X, Y, P, config):
-    device = "cuda" if torch.cuda.is_available() else "mps" if torch.backends.mps.is_available() else "cpu"
-    data_variance = torch.var(torch.tensor(X, dtype=torch.float32, device=device))
+    val_len = max(1, int(len(dataset) * args.val_split))
+    train_len = len(dataset) - val_len
+    generator = torch.Generator().manual_seed(args.seed)
+    train_ds, val_ds = random_split(dataset, [train_len, val_len], generator=generator)
 
-    folds = LeaveOneGroupOut().split(X, Y, groups=P)
-    train_res_recon_error, train_res_perplexity = [], []
+    loader_kwargs = dict(
+        batch_size=args.batch_size,
+        num_workers=0,
+        pin_memory=torch.cuda.is_available(),
+        drop_last=True,
+    )
+    train_loader = DataLoader(train_ds, shuffle=True, **loader_kwargs)
+    val_loader = DataLoader(val_ds, shuffle=False, **loader_kwargs)
+    return train_loader, val_loader, dataset.data_variance
 
-    for fold_idx, (train_idxs, test_idxs) in enumerate(folds, start=1):
-        logging.info(f"Starting fold {fold_idx}")
-        train_loader, val_loader, test_loader = prepare_data_loaders(train_idxs, test_idxs, X, Y, P, config["batch_size"])
 
-        # Initialize model and optimizer
-        model = VQ_VAE_Model(**config["model_params"]).to(device)
-        optimizer = optim.Adam(model.parameters(), lr=config["learning_rate"])
+def train_epoch(
+    model: VQVAEIMU,
+    loader: DataLoader,
+    optimizer: optim.Optimizer,
+    data_variance: float,
+    device_: torch.device,
+) -> tuple[float, float]:
+    model.train()
+    recon_running, perplexity_running = 0.0, 0.0
+    for batch, _ in loader:
+        batch = batch.to(device_)
+        optimizer.zero_grad()
+        vq_loss, recon, perplexity = model(batch)
+        recon_error = F.mse_loss(recon, batch) / data_variance
+        loss = recon_error + vq_loss
+        loss.backward()
+        optimizer.step()
 
-        # Training loop
-        for update_idx in range(config["num_training_updates"]):
-            for data, _ in train_loader:  # Iterate properly over the dataset
-                data = data.to(device)
-                optimizer.zero_grad()
+        recon_running += recon_error.item()
+        perplexity_running += perplexity.item()
 
-                vq_loss, data_recon, perplexity = model(data)
-                recon_error = F.mse_loss(data_recon, data) / data_variance
-                loss = recon_error + vq_loss
+    steps = len(loader)
+    return recon_running / steps, perplexity_running / steps
 
-                loss.backward()
-                optimizer.step()
 
-                train_res_recon_error.append(recon_error.item())
-                train_res_perplexity.append(perplexity.item())
+@torch.no_grad()
+def evaluate(
+    model: VQVAEIMU, loader: DataLoader, data_variance: float, device_: torch.device
+) -> tuple[float, float]:
+    model.eval()
+    recon_running, perplexity_running = 0.0, 0.0
+    for batch, _ in loader:
+        batch = batch.to(device_)
+        vq_loss, recon, perplexity = model(batch)
+        recon_error = F.mse_loss(recon, batch) / data_variance
+        recon_running += (recon_error + vq_loss).item()
+        perplexity_running += perplexity.item()
 
-            # Log progress every 100 updates
-            if (update_idx + 1) % 100 == 0:
-                avg_recon = np.mean(train_res_recon_error[-100:])
-                avg_perplexity = np.mean(train_res_perplexity[-100:])
-                logging.info(f"Update {update_idx + 1}: Recon Error: {avg_recon:.3f}, Perplexity: {avg_perplexity:.3f}")
+    steps = len(loader)
+    return recon_running / steps, perplexity_running / steps
 
-        # Save the model
-        model_path = config["model_save_path"].format(fold=fold_idx)
-        torch.save(model.state_dict(), model_path)
-        logging.info(f"Model saved at {model_path}")
 
-# Main execution
+def main() -> None:
+    args = parse_args()
+    set_seed(args.seed)
+    device_ = device()
+    print(f"Using device: {device_}")
+
+    train_loader, val_loader, data_variance = build_dataloaders(args)
+    print(f"Loaded {len(train_loader.dataset)} train and {len(val_loader.dataset)} val windows.")
+
+    model = VQVAEIMU(
+        num_hiddens=args.num_hiddens,
+        num_residual_layers=args.num_residual_layers,
+        num_residual_hiddens=args.num_residual_hiddens,
+        num_embeddings=args.num_embeddings,
+        embedding_dim=args.embedding_dim,
+        commitment_cost=args.commitment_cost,
+        decay=args.decay,
+    ).to(device_)
+    optimizer = optim.Adam(model.parameters(), lr=args.learning_rate)
+
+    for epoch in range(1, args.epochs + 1):
+        train_recon, train_perplex = train_epoch(model, train_loader, optimizer, data_variance, device_)
+        val_loss, val_perplex = evaluate(model, val_loader, data_variance, device_)
+        print(
+            f"Epoch {epoch:02d} | train recon {train_recon:.4f} perplexity {train_perplex:.2f} | "
+            f"val loss {val_loss:.4f} perplexity {val_perplex:.2f}"
+        )
+
+    torch.save({"model_state": model.state_dict(), "args": vars(args)}, args.save_path)
+    print(f"Saved checkpoint to {args.save_path}")
+
+
 if __name__ == "__main__":
-    set_seed(CONFIG["random_seed"])
-
-    # Load dataset
-    root_path = "/home/lala/Downloads/"
-    dataset = "oppo_33hz_w10_o5"
-    X = np.load(f"{root_path}/{dataset}/X.npy")
-    Y = np.load(f"{root_path}/{dataset}/Y.npy")
-    P = np.load(f"{root_path}/{dataset}/pid.npy")
-
-    # Resize data if needed
-    if X.shape[1] != CONFIG["input_length"]:
-        X = resize_data(X, CONFIG["input_length"])
-    X = X.astype("float32")
-    X = np.transpose(X, (0, 2, 1))  # Convert to channels-first format
-
-    # Train the model
-    train_model(X, Y, P, CONFIG)
+    main()

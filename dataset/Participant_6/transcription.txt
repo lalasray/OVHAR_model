@@ -1,0 +1,154 @@
+[0.00s - 2.00s]  Jumping five times.
+[30.00s - 36.00s]  Walking towards the shelf.
+[42.00s - 46.00s]  Picking up the bottle from the shelf.
+[46.00s - 49.00s]  Walking towards the high table.
+[49.00s - 51.00s]  Placing the water bottle on the high table.
+[51.00s - 53.00s]  Opening the water bottle.
+[61.00s - 65.00s]  Pouring the juice into the glass.
+[77.00s - 82.00s]  Screwing the bottle cap back and placing it back into the shelf.
+[82.00s - 86.00s]  Walking towards the high table.
+[86.00s - 88.00s]  Picking up the glass.
+[88.00s - 94.00s]  Drinking the juice from the glass using the left hand.
+[98.00s - 102.00s]  Switching to drinking with the right hand.
+[132.00s - 137.00s]  Walking towards the shelf.
+[137.00s - 144.00s]  Picking up the cutting board and the melon from the shelf.
+[144.00s - 148.00s]  Placing it on the coffee table.
+[148.00s - 153.00s]  Sitting in the sofa chair.
+[153.00s - 167.00s]  Opening a packet of cucumbers and eating the cucumber.
+[183.00s - 208.00s]  Standing up from the sofa chair.
+[208.00s - 213.00s]  Walking towards the shelf.
+[216.00s - 220.00s]  Picking up a knife from the shelf.
+[220.00s - 223.00s]  Sitting back on the sofa chair.
+[223.00s - 226.00s]  Cutting open a melon.
+[238.00s - 242.00s]  Standing up from the chair.
+[242.00s - 246.00s]  Going towards the shelf.
+[246.00s - 250.00s]  Picking up utensils.
+[250.00s - 254.00s]  Walking back towards the sofa chair.
+[254.00s - 258.00s]  Sitting down on the sofa chair.
+[261.00s - 265.00s]  Cutting up the melon again.
+[265.00s - 268.00s]  Standing up.
+[268.00s - 271.00s]  Walking towards the dustbin.
+[271.00s - 273.00s]  Picking up the dustbin.
+[273.00s - 276.00s]  Placing the dustbin next to the table.
+[276.00s - 279.00s]  Sitting back on the chair.
+[279.00s - 284.00s]  Throwing away the seeds from the melon.
+[316.60s - 333.68s]  Cutting the melon.
+[392.60s - 397.60s]  Standing up with the melons in a plate.
+[397.60s - 404.60s]  Placing the plate on the high table.
+[404.60s - 408.60s]  Sitting on the chair.
+[408.60s - 426.60s]  Eating the melon.
+[426.60s - 431.60s]  Wiping hands with tissue.
+[431.60s - 460.60s]  Back to eating melon.
+[460.60s - 538.60s]  Eating the melon.
+[538.60s - 566.60s]  Standing up.
+[566.60s - 573.60s]  Throwing the waste into the trash.
+[573.60s - 579.60s]  Walking.
+[579.60s - 608.60s]  Doing push-ups on the exercise mat.
+[608.60s - 616.60s]  Standing back up.
+[616.60s - 624.60s]  Picking up the dumbbells.
+[624.60s - 634.60s]  Doing single-hand muscle-ups.
+[634.60s - 644.60s]  Switching hands.
+[644.60s - 648.60s]  Placing the dumbbell back onto the floor.
+[648.60s - 651.60s]  Picking up the two 1kg dumbbells.
+[678.60s - 703.60s]  Pulling the chair and sitting at the table.
+[703.60s - 707.60s]  Drawing onto a piece of paper.
+[733.60s - 737.60s]  Picking up the dumbbells.
+[790.60s - 797.60s]  Standing up.
+[797.60s - 802.60s]  Picking up the puzzle from the shelf.
+[802.60s - 831.60s]  Attempting to solve the puzzle.
+[831.60s - 835.60s]  Picking up the puzzle.
+[853.60s - 878.60s]  Placing the puzzle back onto the shelf.
+[906.60s - 910.60s]  Placing the cocktail glass on the shelf.
+[910.60s - 926.60s]  Cutting some more cucumbers.
+[926.60s - 948.60s]  Smashing the cucumbers in the glass.
+[948.60s - 962.60s]  Adding the cocktail syrup into the glass.
+[962.60s - 965.60s]  Opening the water bottle.
+[965.60s - 981.60s]  Adding water into this glass.
+[981.60s - 991.60s]  Taking a sip from the glass.
+[991.60s - 1002.60s]  Adding more cocktail syrup into the glass.
+[1002.60s - 1029.60s]  Mixing the cocktail.
+[1029.60s - 1048.60s]  Wiping hands and wiping the glass with the tissue.
+[1048.60s - 1070.60s]  Pouring the mixture from the mixing glass into the glass for drinking.
+[1070.60s - 1095.60s]  Drinking the cocktail.
+[1095.60s - 1123.60s]  Walking.
+[1123.60s - 1138.60s]  Pulling the chair sitting down.
+[1138.60s - 1140.60s]  Picking up phone from the table.
+[1140.60s - 1143.60s]  Going back to the chair sitting down.
+[1143.60s - 1264.60s]  Using phone while sitting in the chair.
+[1264.60s - 1417.60s]  Making a paper airplane.
+[1417.60s - 1425.60s]  Standing up.
+[1425.60s - 1437.60s]  Trying to fly a paper plane.
+[1437.60s - 1443.60s]  Sitting on the bed.
+[1443.60s - 1447.60s]  Placing both legs on the bed and resting on the back.
+[1447.60s - 1454.60s]  Raising arms about the head and on each side of the body.
+[1454.60s - 1466.60s]  Up and down.
+[1466.60s - 1469.60s]  Raising legs.
+[1469.60s - 1472.60s]  Right leg up and down.
+[1472.60s - 1475.60s]  Same way with the left leg.
+[1475.60s - 1477.60s]  Up and down.
+[1477.60s - 1487.60s]  Stretching the knees.
+[1487.60s - 1489.60s]  Sitting up straight in the bed.
+[1489.60s - 1499.60s]  Putting the legs down.
+[1499.60s - 1501.60s]  Standing up.
+[1501.60s - 1503.60s]  Walking.
+[1503.60s - 1510.60s]  Towards the table.
+[1510.60s - 1521.60s]  Placing the stationary back into the shelf.
+[1521.60s - 1535.60s]  Drinking the cocktail.
+[1535.60s - 1537.60s]  Placing the empty glass back on the table.
+[1537.60s - 1549.60s]  Walking.
+[1549.60s - 1553.60s]  Picking up a book from the shelf.
+[1553.60s - 1556.60s]  Sitting on the chair.
+[1556.60s - 1581.60s]  Reading the book.
+[1581.60s - 1606.60s]  Flipping through the pages while reading the book.
+[1636.60s - 1638.60s]  Sitting on the chair.
+[1638.60s - 1640.60s]  Reading the book.
+[1640.60s - 1669.60s]  Sitting on the chair.
+[1669.60s - 1673.60s]  Closing the book.
+[1673.60s - 1681.60s]  Placing it back in the shelf.
+[1681.60s - 1693.60s]  Opening the chessboard on the shelf.
+[1693.60s - 1704.60s]  Picking up the chessboard from the shelf.
+[1704.60s - 1708.60s]  Opening the laptop and checking the laptop.
+[1734.60s - 1763.60s]  Picking up the laptop.
+[1763.60s - 1792.60s]  Arranging the chess pieces on the laptop.
+[1792.60s - 1968.60s]  Playing chess.
+[1968.60s - 1991.60s]  Standing up.
+[1991.60s - 1995.60s]  Picking up the laptop.
+[1995.60s - 2383.60s]  Sitting on the bed and using the laptop
+[2383.60s - 2412.60s]  Standing walking and placing the laptop back onto the table.
+[2412.60s - 2416.60s]  Picking up the 20 kg ball from the ground.
+[2416.60s - 2428.60s]  Doing squats.
+[2428.60s - 2435.60s]  Stretching arms above the head, one after the other.
+[2435.60s - 2442.60s]  Stretching from left to right.
+[2442.60s - 2446.60s]  Touching the heels of the foot.
+[2446.60s - 2453.60s]  Arm rotations.
+[2453.60s - 2456.60s]  Neck rotations.
+[2456.60s - 2460.60s]  Walking back to the table.
+[2460.60s - 2489.60s]  Picking up and arranging the chess set back.
+[2503.60s - 2514.60s]  Placing the chess board back onto the shelf.
+[2514.60s - 2519.60s]  Picking up the watering can and the spray bottle.
+[2521.60s - 2528.60s]  Watering the plant.
+[2528.60s - 2548.60s]  Placing the watering can back in on the shelf
+[2577.60s - 2583.60s]  Cutting more cucumbers on the coffee table while sitting in the coffee chair.
+[2583.60s - 2585.60s]  Standing up.
+[2585.60s - 2588.60s]  Adding more cucumbers to the glass.
+[2588.60s - 2617.60s]  Smashing the cucumbers.
+[2617.60s - 2626.60s]  Pouring water to the glass.
+[2626.60s - 2629.60s]  Placing the water bottle back onto the table.
+[2629.60s - 2632.60s]  Closing the glass.
+[2632.60s - 2651.60s]  Shaking the glass to create a cocktail.
+[2651.60s - 2673.60s]  Using a tissue and wiping the glass and the hands.
+[2673.60s - 2686.60s]  Pouring the cocktail into the glass.
+[2686.60s - 2706.60s]  Drinking the cocktail.
+[2706.60s - 2718.60s]  Placing it back onto the table.
+[2718.60s - 2747.60s]  Taking another sip of the cocktail.
+[2747.60s - 2759.60s]  Drinking the cocktail.
+[2759.60s - 2773.60s]  Throwing the trash from the glass back into the dustbin.
+[2773.60s - 2777.60s]  Putting the cocktail mix back onto the shelf.
+[2777.60s - 2804.60s]  Walking.
+[2804.60s - 2816.60s]  Picking up a pencil from the stationery box.
+[2816.60s - 2878.60s]  Drawing on a paper.
+[2878.60s - 2892.60s]  Taking up the stationery box from the shelf.
+[2892.60s - 2917.60s]  sharpening the pencil.
+[2917.60s - 2976.60s]  Drawing on a paper.
+[3066.60s - 3082.04s]  Standing up from the chair.
+[3112.04s - 3123.60s]  Five jumps.

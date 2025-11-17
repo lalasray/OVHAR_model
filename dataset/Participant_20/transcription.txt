@@ -1,0 +1,165 @@
+[0.00s - 4.00s]  Five jumps.
+[12.00s - 16.00s]  Touching the nose.
+[16.00s - 20.00s]  Raising arms to wave goodbye.
+[20.00s - 24.00s]  Walking.
+[24.00s - 28.00s]  Picking up the phone from the table. Texting on the phone.
+[30.00s - 34.00s]  Standing around.
+[34.00s - 38.00s]  Waving goodbye.
+[38.00s - 42.00s]  Back to texting on the phone.
+[42.00s - 46.00s]  Placing the phone on the table.
+[46.00s - 50.00s]  Moving the phone on the table.
+[58.00s - 62.00s]  Picking up the laptop from the table.
+[62.00s - 66.00s]  Placing it frontwards. Picking up a paper.
+[66.00s - 70.00s]  Sitting in a chair. Crossing the legs.
+[70.00s - 74.00s]  Reading the paper while sitting in a chair in a cross-legged position.
+[76.00s - 170.00s]  Flipping the pages.
+[179.44s - 181.20s]  Placing the paper on the table.
+[182.08s - 193.60s]  Lining the paper with the pen.
+[209.20s - 231.60s]  Flipping the page.
+[231.60s - 246.00s]  Flipping the pages back.
+[247.44s - 249.28s]  Placing the papers on the table.
+[250.48s - 251.68s]  Moving the pen.
+[253.52s - 256.24s]  Opening the laptop standing from the chair.
+[258.24s - 260.56s]  Typing on the laptop while standing.
+[291.60s - 312.24s]  Picking up the laptop from the table and walking.
+[312.24s - 317.60s]  Sitting on the bed, placing the laptop beside the bed.
+[317.60s - 321.60s]  Sitting on the laptop while twisting the body.
+[347.60s - 375.60s]  Placing the laptop on the thighs and typing on the laptop.
+[375.60s - 391.60s]  Sitting on the laptop while turning the laptop.
+[391.60s - 411.60s]  Adjusting the sensors on the arm.
+[411.60s - 427.60s]  Back to typing.
+[427.60s - 431.60s]  Adjusting the t-shirt from behind.
+[431.60s - 439.60s]  Resting the face on the arm while typing with the right arm.
+[439.60s - 443.60s]  Picking up the laptop, placing it on the bedside.
+[443.60s - 451.60s]  Crossing the legs while seated in the bed and typing on the laptop.
+[469.60s - 489.60s]  Adjusting the laptop screen.
+[489.60s - 517.60s]  Typing on the laptop.
+[737.60s - 741.60s]  Picking up the phone from the bedside.
+[741.60s - 745.60s]  Typing on the laptop.
+[845.60s - 863.60s]  Placing the phone on the bed.
+[863.60s - 867.60s]  Typing on the laptop.
+[867.60s - 873.60s]  Using the cursor pad with the right hand.
+[873.60s - 879.60s]  Testing hand on the face.
+[879.60s - 889.60s]  Still using the cursor pad with the right hand.
+[889.60s - 913.60s]  Typing with both hands.
+[987.60s - 1009.60s]  Placing the laptop on the bed.
+[1009.60s - 1013.60s]  Typing on the laptop.
+[1013.60s - 1041.60s]  Typing on the laptop with the right hand.
+[1049.60s - 1051.60s]  Getting up from the bed.
+[1051.60s - 1055.60s]  Walking with the laptop in hand.
+[1055.60s - 1059.60s]  Placing the laptop on the study table.
+[1059.60s - 1083.60s]  Standing and using the laptop.
+[1089.60s - 1113.60s]  Pointing at the laptop.
+[1117.60s - 1121.60s]  Counting on fingers.
+[1121.60s - 1131.60s]  Back to using the cursor pad of the laptop.
+[1131.60s - 1137.60s]  Walking around the room.
+[1137.60s - 1141.60s]  Picking up a banana from the shelf.
+[1141.60s - 1149.60s]  Eating the banana.
+[1163.60s - 1167.60s]  Adjusting face scarf.
+[1167.60s - 1173.60s]  Picking up the banana, twisting body from left to right.
+[1173.60s - 1177.60s]  Touching the cursor pad.
+[1177.60s - 1193.60s]  Back to peeling the banana.
+[1193.60s - 1197.60s]  Picking up the tissue on the  coffe table.
+[1197.60s - 1201.60s]  Arranging the stuff on the study table.
+[1201.60s - 1205.60s]  Eating the banana.
+[1205.60s - 1209.60s]  Wiping the nose.
+[1209.60s - 1211.60s]  Walking.
+[1211.60s - 1215.60s]  Picking up a piece of paper from the coffee table.
+[1215.60s - 1227.60s]  Eating the banana.
+[1227.60s - 1229.60s]  Peeling the banana.
+[1229.60s - 1245.60s]  Eating the banana.
+[1255.60s - 1265.60s]  Wrapping the banana in a tissue paper.
+[1265.60s - 1269.60s]  Placing it on the study table.
+[1269.60s - 1273.60s]  Putting hands in the pocket.
+[1273.60s - 1275.60s]  Looking around.
+[1275.60s - 1279.60s]  Walking.
+[1279.60s - 1283.60s]  Picking up a book from the coffee table.
+[1283.60s - 1287.60s]  Placing it back down.
+[1287.60s - 1291.60s]  Walking.
+[1291.60s - 1295.60s]  Picking up the glass of water from the high table.
+[1295.60s - 1307.60s]  Drinking.
+[1307.60s - 1309.60s]  Back onto the table.
+[1309.60s - 1315.60s]  Walking.
+[1315.60s - 1317.60s]  Picking up the laptop from the study table.
+[1317.60s - 1319.60s]  Walking.
+[1319.60s - 1323.60s]  Placing the laptop on the high table.
+[1323.60s - 1329.60s]  Adjusting the tall chair.
+[1329.60s - 1331.60s]  Looking around.
+[1331.60s - 1335.60s]  Walking.
+[1335.60s - 1339.60s]  Adjusting the setting of the fan.
+[1339.60s - 1347.60s]  Moving the fan around.
+[1347.60s - 1349.60s]  Adjusting the fan setting.
+[1349.60s - 1351.60s]  Walking.
+[1351.60s - 1359.60s]  Sitting on the tall chair.
+[1359.60s - 1361.60s]  Typing on the laptop.
+[1361.60s - 1363.60s]  Adjusting the t-shirt.
+[1363.60s - 1367.60s]  Crossing the legs.
+[1367.60s - 1371.60s]  Picking up the glass of water.
+[1371.60s - 1379.60s]  Drinking water.
+[1379.60s - 1383.60s]  Placing the glass back on the table.
+[1383.60s - 1395.60s]  Resting the head on the arms while on the high table.
+[1395.60s - 1401.60s]  Watching a video on the laptop.
+[1401.60s - 1413.60s]  Adding fingernails.
+[1413.60s - 1441.60s]  Using the cursor pad of the laptop.
+[1441.60s - 1445.60s]  Picking up the laptop from the study table.
+[1475.60s - 1477.60s]  Crossing the legs.
+[1477.60s - 1503.60s]  Sitting in a cross-legged position and using the cursor pad of the laptop.
+[1503.60s - 1511.60s]  Picking up the laptop from the study table.
+[1567.60s - 1569.60s]  Walking.
+[1569.60s - 1571.60s]  Sitting on the bed.
+[1571.60s - 1573.60s]  Laying on the bed.
+[1573.60s - 1575.60s]  Adjusting the pillow behind the back.
+[1575.60s - 1579.60s]  Crossing the legs while laying in the bed.
+[1579.60s - 1581.60s]  Using the phone to scroll.
+[1581.60s - 1609.60s]  Using the phone to scroll.
+[1657.60s - 1659.60s]  Getting up on the bed.
+[1659.60s - 1685.60s]  Sneezing.
+[1685.60s - 1713.60s]  Back to laying on the bed and using the phone.
+[2013.60s - 2021.60s]  Getting up from the bed.
+[2021.60s - 2023.60s]  Walking.
+[2023.60s - 2025.60s]  Placing the phone on the table.
+[2025.60s - 2031.60s]  Moving the laptop on the table.
+[2031.60s - 2035.60s]  Standing and typing on the laptop.
+[2035.60s - 2047.60s]  Placing the hand in the back pocket while the right hand is drinking water.
+[2047.60s - 2051.60s]  Placing the glass on the table.
+[2051.60s - 2057.60s]  Adjusting the face scarf with both hands.
+[2057.60s - 2077.60s]  Typing on the laptop.
+[2077.60s - 2081.60s]  Turning around.
+[2081.60s - 2085.60s]  Walking.
+[2085.60s - 2089.60s]  Touching the laptop screen on the study table.
+[2089.60s - 2091.60s]  Walking to the shelf.
+[2091.60s - 2093.60s]  Examining the shelf.
+[2093.60s - 2097.60s]  Picking up the chess box.
+[2097.60s - 2105.60s]  Placing the chess box on the coffee table while seated in the sofa chair.
+[2105.60s - 2111.60s]  Opening the chess box.
+[2111.60s - 2139.60s]  Taking out the chess pieces.
+[2139.60s - 2167.60s]  Placing the pieces on the board.
+[2167.60s - 2195.60s]  Picking up the phone from the high table.
+[2195.60s - 2211.60s]  Checking the phone notifications.
+[2211.60s - 2219.60s]  Walking back to the sofa chair sitting down.
+[2219.60s - 2223.60s]  Picking up the chess pieces.
+[2249.60s - 2263.60s]  Picking up the phone.
+[2527.60s - 2551.60s]  Back to playing chess.
+[2743.60s - 2747.60s]  Picking up the paper from the table.
+[2747.60s - 2750.60s]  Flipping the pages around.
+[2750.60s - 2752.60s]  Placing the phone on the table.
+[2752.60s - 2755.60s]  Picking up a pen.
+[2755.60s - 2783.60s]  Drawing on a piece of paper on the study table,while standing.
+[2811.60s - 2831.60s]  Picking up trash from the table.
+[2833.60s - 2836.60s]  Walking.
+[2836.60s - 2839.60s]  Throwing the trash into the garbage.
+[2839.60s - 2843.60s]  Walking.
+[2843.60s - 2848.60s]  Sitting on the tall chair.
+[2848.60s - 2852.60s]  Picking up the glass and drinking with the right hand.
+[2852.60s - 2856.60s]  Placing the glass back on the table.
+[2856.60s - 2858.60s]  Typing on the laptop.
+[2858.60s - 2860.60s]  Adjusting the t-shirt.
+[2860.60s - 2862.60s]  Picking up the paper from the table.
+[2890.60s - 2906.60s]  Picking up everything left beside the veils and NetB�.
+[2996.60s - 3001.40s]  Looking back.
+[3001.40s - 3013.68s]  Adjusting the headband, resting arms on the high table.
+[3013.68s - 3020.24s]  Getting up.
+[3020.24s - 3023.28s]  Getting up from the chair.
+[3023.28s - 3025.28s]  Scratching the nose.
+[3025.28s - 3033.28s]  Standing on the exercise mat.
+[3033.28s - 3035.28s]  Doing five jumps.

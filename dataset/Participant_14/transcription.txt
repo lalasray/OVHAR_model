@@ -1,0 +1,70 @@
+[0.00s - 6.00s]  doing five jumps, 
+[6.00s - 22.00]  walking, 
+[22.00s - 27.72s]  fixing the shoe,
+[30.00s - 41.96s]  picking up a glass of water, placing it on the coffee table, picking up the bottle of cola from the shelf,
+[41.96s - 52.08s]   moving the coffee chair with the leg, fixing the sensors on the foot,
+[52.08s - 59.32s]  opening the cola bottle,
+[59.32s - 83.12s]  closing the cola bottle,
+[83.12s - 92.24s]  placing the cola bottle on the coffee table, drinking the cola from the glass,
+[92.24s - 104.28s]  placing the glass on the table, standing up from the chair, walking, picking up phone from the table,
+[104.28s - 113.60s]  using the phone while standing,
+[113.60s - 135.88s]  touching, keeping the hands on the waist and using the other hand to text on the phone,
+[135.92s - 148.36s]  touching the glasses, fixing the hair, texting on the phone,
+[148.36s - 162.28s]  walking with the phone in hand,
+[178.36s - 198.16s]  walking around with the phone in hand,
+[208.36s - 218.24s]  standing and reading something on the phone,
+[328.36s - 354.64s]  walking around sitting on the coffee chair, fixing the sensor on the foot,
+[354.64s - 360.64s]  cutting fruits,
+[504.64s - 533.68s]  standing up,
+[533.68s - 540.48s]  picking up the tissue from the high table while eating with the right hand.
+[593.68s - 622.88s]  Placing the plate back onto the coffee table, sitting on the chair, eating the fruits from a bowl.
+[623.68s - 652.88s]  Using the phone in one hand and eating fruits in the other.
+[653.00s - 655.64s]  For more information on traditional functions, please visit www.385. Brave Robbie foil
+[655.64s - 662.44s]  Facebook growthration www.facebook.com
+[682.88s - 710.96s]  Scoffing.
+[710.96s - 715.04s]  Using with one hand and using the phone with the other.
+[860.96s - 887.04s]  Scoffing.
+[887.04s - 916.96s]  Getting up from the chair.
+[916.96s - 920.96s]  Wiping the hands with tissue.
+[920.96s - 922.96s]  Walking.
+[922.96s - 925.96s]  Throwing the tissue in the garbage.
+[925.96s - 928.96s]  Scratching forehead.
+[928.96s - 941.96s]  Walking.
+[941.96s - 944.96s]  Picking up a book from the shelf.
+[944.96s - 948.96s]  Placing it back.
+[948.96s - 951.96s]  Picking up the paperweight.
+[951.96s - 953.96s]  Looking at it.
+[953.96s - 955.96s]  Turning it around.
+[955.96s - 958.96s]  Placing it back on the shelf.
+[958.96s - 961.96s]  Picking up the 3D puzzle cube.
+[961.96s - 964.96s]  Sitting in the sofa chair.
+[964.96s - 967.96s]  Attempting to solve the 3D puzzle cube.
+[967.96s - 970.96s]  Leaning over to have air on the floor.
+[970.96s - 993.96s]  Attempting to solve the 3D puzzle cube.
+[993.96s - 1000.96s]  Leaning over to have air from the fan.
+[1000.96s - 1004.96s]  Back to solving the 3D puzzle cube.
+[1030.96s - 1044.96s]  Extending up.
+[1044.96s - 1054.96s]  Placing the cube back into the shelf.
+[1054.96s - 1060.96s]  Picking up the book from the shelf.
+[1060.96s - 1065.96s]  Arranging the books.
+[1065.96s - 1072.96s]  Walking back.
+[1072.96s - 1084.96s]  Fixing the sensor on the leg and on the head.
+[1084.96s - 1087.96s]  Picking up.
+[1087.96s - 1105.96s]  Avoiding it turning back.
+[1105.96s - 1110.96s]  Picking up the paper playing cube.
+[1110.96s - 1115.96s]  Placing it back on the coffee table.
+[1149.96s - 1152.96s]  Picking up the phone.
+[1152.96s - 1155.96s]  Moving it around.
+[1155.96s - 1158.96s]  Checking the papers on the desk.
+[1158.96s - 1164.96s]  Flipping through the pages.
+[1164.96s - 1189.96s]  Placing them back in their order.
+[1189.96s - 1192.96s]  Sitting on the bed.
+[1192.96s - 1197.96s]  Laughing the pillow.
+[1197.96s - 1200.96s]  Playing with the pillow.
+[1200.96s - 1220.96s]  Tossing the pillow in the air and catching it.
+[1220.96s - 1248.96s]  Placing the pillow on the bed.
+[1281.96s - 1287.96s]  Scratching the head.
+[1287.96s - 1312.96s]  Adjusting the sensors on the head.
+[1312.96s - 3082.96s]  Using Phone while seated on the bed.
+[3082.96s - 3094.96s]  Standing up. Walking.
+[3094.96s - 3110.96s]  Walking. Five jumps.

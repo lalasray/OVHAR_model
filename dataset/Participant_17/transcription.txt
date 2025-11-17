@@ -1,0 +1,176 @@
+[0.00s - 3.04s]  Five jumps.
+[13.60s - 16.72s]  Adjusting hair.
+[23.16s - 27.92s]  Looking around, walking.
+[30.00s - 34.00s]  Pointing.
+[36.00s - 40.00s]  Nodding the head.
+[42.00s - 46.00s]  Walking.
+[50.00s - 54.00s]  Opening the bottle of water.
+[60.00s - 64.00s]  Pouring a glass of water.
+[72.00s - 76.00s]  Drinking the water.
+[84.00s - 88.00s]  Wiping the face.
+[90.00s - 94.00s]  Walking.
+[94.00s - 98.00s]  Picking up a bag from the sofa chair.
+[98.00s - 102.00s]  Placing the bag onto the other chair.
+[102.00s - 106.00s]  Moving the sofa chair with the leg.
+[106.00s - 110.00s]  Sitting on the sofa chair.
+[110.00s - 114.00s]  Adjusting the table.
+[114.00s - 118.00s]  Cutting a pineapple.
+[120.00s - 124.00s]  Resting.
+[221.00s - 228.00s]  Picking up a piece of tissue, placing it next to the board.
+[228.00s - 253.00s]  Back to cutting the pineapple.
+[253.00s - 273.00s]  Placing the pieces of pineapple onto a plate.
+[273.00s - 301.00s]  Eating the pineapple with a fork and a knife.
+[465.00s - 469.00s]  Picking up the puzzle from the shelf.
+[469.00s - 472.00s]  Sitting on the chair.
+[472.00s - 668.00s]  Attempting to solve the 3d puzzle.
+[668.00s - 675.00s]  Standing up, placing the cube back in the shelf.
+[675.00s - 678.00s]  Opening a book on the table.
+[678.00s - 688.00s]  Flipping through the pages.
+[688.00s - 691.00s]  Standing straight.
+[691.00s - 693.00s]  Sitting on the chair.
+[693.00s - 698.00s]  Bragging the chair.
+[698.00s - 701.00s]  Pushing the hair back.
+[701.00s - 712.00s]  Picking up a book from the table.
+[712.00s - 719.00s]  Picking a piece of paper from the book.
+[719.00s - 734.00s]  Picking paper origami and playing with it.
+[803.00s - 820.00s]  Drawing a piece of paper plane.
+[820.00s - 822.00s]  Picking up the paper plane.
+[822.00s - 824.00s]  Standing up.
+[824.00s - 832.00s]  Standing up.
+[832.00s - 835.00s]  Taking a scissor from the stationary.
+[928.00s - 936.00s]  Taking the scissors and placing it back into the shelf.
+[936.00s - 941.00s]  Picking up the cocktail glasses from the shelf.
+[941.00s - 951.00s]  Placing them on the table.
+[951.00s - 956.00s]  Putting the chair aside.
+[956.00s - 974.00s]  Examining the cocktail equipment.
+[974.00s - 978.00s]  Picking the water glasses and the lemonade from the coffee table.
+[978.00s - 980.00s]  Walking. up
+[980.00s - 989.00s]  Placing the water glass and lemonade on the table.
+[989.00s - 992.00s]  Making a cocktail.
+[992.00s - 999.00s]  Picking up a fallen piece of ice.
+[999.00s - 1001.00s]  From the ground.
+[1001.00s - 1026.00s]  Opening the lemonade bottle.
+[1146.00s - 1170.00s]  Pouring the cocktail.
+[1212.00s - 1214.00s]  Walking to the table.
+[1214.00s - 1222.00s]  Picking up a piece of tissue from the coffee table.
+[1222.00s - 1229.00s]  Wiping the fallen liquid on the ground.
+[1229.00s - 1231.00s]  Picking up the cocktail.
+[1275.00s - 1278.00s]  Picking up the lemonade bottle.
+[1278.00s - 1284.00s]  Drinking the cocktail from the right hand.
+[1284.00s - 1289.00s]  Walking.
+[1289.00s - 1316.00s]  And drinking the cocktail.
+[1316.00s - 1324.00s]  Placing the cocktail glass onto the table.
+[1324.00s - 1329.00s]  Stretching the arms in front.
+[1329.00s - 1343.00s]  And through the sky.
+[1343.00s - 1352.00s]  Stretching the arms from the elbows.
+[1352.00s - 1355.00s]  Stretching the arms above the head.
+[1355.00s - 1369.00s]  Stretching the arms to the back.
+[1369.00s - 1381.00s]  Stretching the body to the left and to the right.
+[1381.00s - 1383.00s]  Placing hands on the hips.
+[1383.00s - 1385.00s]  Walking.
+[1385.00s - 1388.00s]  Picking up the cocktail glass from the table.
+[1388.00s - 1393.00s]  Drinking.
+[1393.00s - 1397.00s]  Placing the glass back on the table.
+[1397.00s - 1411.00s]  Walking.
+[1411.00s - 1418.00s]  Picking up the glass and drinking.
+[1418.00s - 1423.00s]  Picking up the phone from the table.
+[1423.00s - 1428.00s]  Walking with the phone in hand.
+[1428.00s - 1436.00s]  Sitting on the bed.
+[1436.00s - 1464.00s]  Laying down while using the phone in both hands.
+[1464.00s - 1492.00s]  Sitting straight on the bed.
+[1492.00s - 1510.00s]  Fixing the hair.
+[1510.00s - 1513.00s]  Picking up the glass from the floor.
+[1513.00s - 1519.00s]  Drinking the cocktail.
+[1519.00s - 1521.00s]  Standing up.
+[1521.00s - 1524.00s]  Walking around.
+[1524.00s - 1527.00s]  Placing the cocktail glass on the tall table.
+[1527.00s - 1532.00s]  Walking.
+[1532.00s - 1536.00s]  Bending over to touch the laptop.
+[1536.00s - 1538.00s]  Turning back.
+[1538.00s - 1544.00s]  Sitting in the chair.
+[1544.00s - 1550.00s]  Removing equipment from the bag on the floor.
+[1550.00s - 1557.00s]  Placing the laptop onto the table.
+[1557.00s - 1585.00s]  Typing on the laptop.
+[1585.00s - 1590.00s]  Picking up the glass from the table.
+[1590.00s - 1787.00s]  Typing on the laptop.
+[1787.00s - 1810.00s]  Standing up from the chair, walking.
+[1810.00s - 1823.00s]  Making yoga positions.
+[1823.00s - 1848.00s]  Doing Surya Namaskar.
+[1848.00s - 1873.00s]  Adjusting the sensor on the thighs.
+[1878.00s - 1906.00s]  Doing Surya Namaskar.
+[1933.00s - 1939.00s]  Playing chess.
+[1939.00s - 1968.00s]  Arranging the pieces of chess onto the chessboard.
+[1988.00s - 2013.00s]  Picking up the chessboard and placing it back in the shelf.
+[2013.00s - 2021.00s]  Picking up the mini pool table, placing it onto the table.
+[2021.00s - 2046.00s]  Playing mini pool.
+[2076.00s - 2104.00s]  Picking up the mini pool table and placing it back into the shelf.
+[2134.00s - 2146.00s]  Picking up the phone from the table and placing earphones inside the ears.
+[2146.00s - 2150.00s]  Picking up the glass and drinking.
+[2150.00s - 2169.00s]  Moving to the music.
+[2169.00s - 2175.00s]  Picking up the cocktail glass and drinking.
+[2175.00s - 2179.00s]  Walking.
+[2179.00s - 2182.00s]  Drinking the cocktail.
+[2182.00s - 2187.00s]  Placing the glass onto the table.
+[2187.00s - 2209.00s]  Dancing.
+[2209.00s - 2212.00s]  Picking up the glass and drinking.
+[2212.00s - 2215.00s]  Placing the glass back onto the table.
+[2215.00s - 2226.00s]  Back to dancing.
+[2226.00s - 2231.00s]  Picking up the plane that fell on the ground.
+[2231.00s - 2235.00s]  Throwing the paper aeroplane.
+[2235.00s - 2245.00s]  Picking it up again.
+[2245.00s - 2251.00s]  Throwing the paper aeroplane.
+[2251.00s - 2254.00s]  Walking.
+[2254.00s - 2257.00s]  Drinking cocktail.
+[2257.00s - 2263.00s]  Placing the glass back onto the table.
+[2263.00s - 2270.00s]  Moving to the music.
+[2270.00s - 2295.00s]  Dancing.
+[2295.00s - 2300.00s]  Pushing arms around the head.
+[2300.00s - 2320.00s]  Bending from left to right.
+[2320.00s - 2466.00s]  Writing on a book with a pen.
+[2466.00s - 2488.00s]  Writing on the book.
+[2488.00s - 2492.00s]  Standing up.
+[2492.00s - 2498.00s]  Walking.
+[2498.00s - 2502.00s]  Clapping.
+[2502.00s - 2529.00s]  Dancing.
+[2546.00s - 2574.00s]  Sitting on the sofa chair and eating a cherry.
+[2574.00s - 2578.00s]  Taking head and disappointment.
+[2578.00s - 2585.00s]  Picking up a tissue and wiping the fingers and the mouth.
+[2585.00s - 2596.00s]  Placing the tissue onto the table.
+[2596.00s - 2598.00s]  Standing up.
+[2598.00s - 2604.00s]  Pushing the hair at the back.
+[2604.00s - 2609.00s]  Typing on the laptop for a bit.
+[2609.00s - 2612.00s]  Looking around.
+[2612.00s - 2615.00s]  Picking up the phone.
+[2615.00s - 2619.00s]  Moving the chair out of the way.
+[2619.00s - 2623.00s]  Picking up the cocktail glass.
+[2623.00s - 2652.00s]  Sitting with legs crossed and drinking cocktail while typing on the phone.
+[2711.00s - 2715.00s]  Placing the glass on the table.
+[2715.00s - 2717.00s]  Standing up from the chair.
+[2717.00s - 2721.00s]  Walking.
+[2721.00s - 2724.00s]  Picking up the pillow from the bed.
+[2724.00s - 2733.00s]  Fluffing the pillow.
+[2733.00s - 2742.00s]  Placing the pillow back onto the bed.
+[2742.00s - 2752.00s]  Walking around.
+[2752.00s - 2759.00s]  Sitting on the coffee table chair.
+[2759.00s - 2784.00s]  Eating pineapple with a fork and a knife.
+[2825.00s - 2833.00s]  Standing up from the chair.
+[2833.00s - 2839.00s]  Pulling the hair behind the back.
+[2839.00s - 2849.00s]  Fixing the sensors on the ties.
+[2849.00s - 2859.00s]  Raising hands above the head and stretching the body.
+[2859.00s - 2864.00s]  Turning the wrists.
+[2864.00s - 2869.00s]  Walking.
+[2869.00s - 2887.00s]  Doing a yoga pose.
+[2887.00s - 2900.00s]  Fixing the sensors on the foot.
+[2900.00s - 2903.00s]  Walking.
+[2903.00s - 2906.00s]  Picking up the phone from the table.
+[2906.00s - 2932.00s]  Texting on the phone.
+[2932.00s - 2935.00s]  Dancing.
+[2975.00s - 2978.00s]  Pulling the chair while sitting down.
+[2978.00s - 2982.00s]  Opening the bag.
+[2982.00s - 2986.00s]  Picking out the laptop.
+[2986.00s - 2990.00s]  Placing it on the table.
+[2990.00s - 2993.00s]  Opening the laptop.
+[2993.00s - 3018.00s]  Typing on the laptop.
+[3063.00s - 3069.00s]  Walking.
+[3069.00s - 3072.00s]  Standing on the exercise mat.
+[3072.00s - 3076.00s]  Five jumps.

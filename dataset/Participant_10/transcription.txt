@@ -1,0 +1,325 @@
+[0.00s - 1.60s]  Five jumps.
+[34.00s - 35.00s]  checking phone messge
+[45.00s - 46.00s]  Calling on the phone.
+[54.00s - 57.00s]  Talking on the phone while standing.
+[60.00s - 76.00s]  Stopping the call.
+[77.00s - 78.00s]  Texting on the phone.
+[90.00s - 113.00s]  Placing the phone on the ground and sitting on the exercise mat, laying flat on the exercise mat with back to the ground.
+[113.00s - 121.00s]  Doing exercises with knee raises to the chest.
+[138.00s - 140.00s]  Leg raises.
+[173.00s - 183.00s]  Doing flutter kicks.
+[194.00s - 196.00s]  Doing crunches.
+[203.00s - 228.00s]  Walking.
+[263.00s - 283.00s]  Stretching arms about the head and to the back and to the front.
+[284.00s - 291.00s]  Twisting the body from left to right.
+[294.00s - 300.00s]  Reaching to the toes with fingers.
+[303.00s - 308.00s]  Crossing the leg and doing toe touches.
+[313.00s - 323.00s]  Picking up the bubble.
+[326.00s - 329.00s]  Bicep exercise.
+[343.00s - 351.00s]  Placing it back onto the floor.
+[352.00s - 357.00s]  Picking up the 1kg dumbbell.
+[360.00s - 365.00s]  Lifting arms from both sides of the body.
+[366.00s - 371.00s]  From stable position to high shoulders.
+[373.00s - 385.00s]  Placing the dumbbells back onto the floor.
+[391.00s - 394.00s]  Walking.
+[395.00s - 400.00s]  Pulling the chair.
+[401.00s - 412.00s]  Pulling another chair with one arm dragging it onto the exercise mat.
+[414.00s - 420.00s]  Adjusting the weights on the dumbbells.
+[421.00s - 428.00s]  Picking up a single dumbbell with a right arm.
+[431.00s - 439.00s]  Doing bicep exercise with single right arm.
+[451.00s - 456.00s]  Placing the dumbbell back onto the mat.
+[457.00s - 464.00s]  Picking up the dumbbell with the left arm.
+[471.00s - 474.00s]  Fixing the sensors.
+[474.00s - 482.00s]  Doing the same exercise with the left arm.
+[495.00s - 501.00s]  Placing the dumbbell back onto the floor.
+[504.00s - 507.00s]  Pulling the chair.
+[508.00s - 513.00s]  Placing the chair back into its place.
+[516.00s - 519.00s]  Walking.
+[520.00s - 522.00s]  Sitting in the chair.
+[523.00s - 527.00s]  Adjusting the chair.
+[528.00s - 531.00s]  Moving cell phone from the table.
+[532.00s - 534.00s]  Picking up a pen.
+[535.00s - 540.00s]  Writing on a piece of paper.
+[548.00s - 551.00s]  Turning the paper around.
+[552.00s - 556.00s]  Reading the paper.
+[557.00s - 561.00s]  Writing on the paper.
+[564.00s - 569.00s]  Placing the pen onto the table.
+[571.00s - 574.00s]  Writing on the paper.
+[575.00s - 581.00s]  Placing the pen onto the paper.
+[582.00s - 586.00s]  Pulling the cell phone back onto its place.
+[587.00s - 588.00s]  Standing up.
+[589.00s - 593.00s]  Pushing the chair back into its place.
+[594.00s - 597.00s]  Walking.
+[599.00s - 604.00s]  Opening the water bottle.
+[604.00s - 609.00s]  Pouring water into the glass.
+[614.00s - 617.00s]  Closing the bottle.
+[618.00s - 620.00s]  Picking up the glass.
+[621.00s - 625.00s]  Drinking water.
+[626.00s - 631.00s]  Drinking more water.
+[634.00s - 639.00s]  Placing the glass back onto the table.
+[640.00s - 642.00s]  Moving the keys around on the table.
+[643.00s - 645.00s]  Picking up the phone from the table.
+[646.00s - 649.00s]  Walking.
+[651.00s - 655.00s]  Looking around.
+[664.00s - 666.00s]  Picking up the chessboard.
+[667.00s - 669.00s]  Placing the chessboard on the table.
+[670.00s - 674.00s]  Opening the chessboard.
+[677.00s - 682.00s]  Removing the chess pieces from the box.
+[691.00s - 696.00s]  Turning around the chessboard.
+[697.00s - 703.00s]  Placing the chess pieces onto the chessboard.
+[710.00s - 716.00s]  Placing the chess pieces onto the chessboard.
+[746.00s - 751.00s]  Placing the chess pieces onto the table.
+[752.00s - 756.00s]  Putting the pieces together.
+[985.00s - 988.00s]  Sitting on to the sofa chair.
+[1012.00s - 1015.00s]  Cutting the watermelon.
+[1184.00s - 1185.00s]  eating
+[1197.76s - 1200.52s]  picking up the plate from the table
+[1200.52s - 1202.80s]  walking towards the shelf
+[1202.80s - 1205.24s]  placing the plate into the shelf
+[1207.94s - 1211.34s]  fixing the sensors on the thighs
+[1223.06s - 1225.08s]  walking around
+[1244.00s - 1258.64s]  Walking around and looking at the plant.
+[1258.64s - 1265.42s]  Picking up the 20 kg ball of weight.
+[1265.42s - 1273.56s]  Doing back extensions by placing it under the floor.
+[1273.56s - 1283.20s]  Walking around.
+[1283.20s - 1288.44s]  Picking up the spray bottle from the shelf.
+[1288.44s - 1291.88s]  Walking towards the plant.
+[1291.88s - 1313.28s]  Spraying the plant with water.
+[1313.28s - 1316.08s]  Placing the bottle back into the shelf.
+[1316.08s - 1321.04s]  Walking around.
+[1321.04s - 1332.24s]  Playing with the dog, running around.
+[1332.24s - 1341.84s]  Playing with the dog.
+[1341.84s - 1344.72s]  Walking.
+[1344.72s - 1347.72s]  Picking up a glass from the high table.
+[1347.92s - 1359.92s]  Going to the small table.
+[1359.92s - 1363.56s]  Walking around.
+[1363.56s - 1365.84s]  Picking up the spoon from the shelf.
+[1365.84s - 1367.88s]  Walking towards the coffee table.
+[1367.88s - 1372.24s]  Sitting in the coffee chair.
+[1372.24s - 1375.44s]  Picking up the ice from the bowl and
+[1375.44s - 1393.68s]  putting it into the glass.
+[1393.68s - 1400.56s]  Cleaning the table with a tissue.
+[1400.56s - 1402.72s]  Getting up from the chair.
+[1402.80s - 1414.36s]  Placing the glass onto the tall table.
+[1414.36s - 1419.44s]  Picking up cola from the shelf.
+[1419.44s - 1423.32s]  Walking with the cola in the hand.
+[1423.32s - 1429.72s]  Opening the cola bottle.
+[1429.72s - 1440.40s]  Pouring cola into the glass with ice.
+[1440.40s - 1445.52s]  Closing the water bottle.
+[1445.52s - 1447.88s]  Walking with the bottle towards the shelf.
+[1447.88s - 1464.36s]  Placing the bottle back into the shelf.
+[1464.36s - 1467.52s]  Walking.
+[1467.52s - 1469.48s]  Picking up the glass with cola.
+[1469.48s - 1477.92s]  Drinking.
+[1477.92s - 1485.84s]  Walking around with glass in hand.
+[1485.84s - 1488.64s]  Picking up the stationary box from the shelf.
+[1488.64s - 1492.20s]  Examining the box.
+[1492.20s - 1494.88s]  Placing the stationary box onto the table.
+[1494.88s - 1497.32s]  Placing the glass on the table.
+[1497.36s - 1498.84s]  Pulling the chair.
+[1498.84s - 1504.72s]  Sitting in the chair.
+[1504.72s - 1511.12s]  Opening the stuff in the stationary box.
+[1511.12s - 1520.88s]  Removing the stationary items from the stationary box and placing them on the table.
+[1520.92s - 1527.48s]  Sharpening the pencil.
+[1527.48s - 1530.68s]  Placing the sharpener back into the box.
+[1530.68s - 1532.56s]  Taking a piece of paper.
+[1532.56s - 1552.12s]  Writing on the piece of paper.
+[1552.12s - 1573.60s]  Erasing.
+[1573.64s - 1576.92s]  Placing the pencil back into the stationary box.
+[1576.92s - 1582.32s]  Placing the stationary items back into the stationary box.
+[1582.32s - 1585.96s]  Pulling a piece of tape.
+[1585.96s - 1590.36s]  Cutting the tape with scissors.
+[1590.36s - 1594.84s]  Placing the scissors back into the box.
+[1594.84s - 1599.76s]  Placing the tape back into the box.
+[1599.76s - 1608.08s]  Staping the piece of paper to the table.
+[1608.08s - 1609.28s]  Picking up the box.
+[1609.28s - 1610.28s]  Standing up.
+[1610.28s - 1615.48s]  Placing the box back into the shelf.
+[1615.48s - 1618.76s]  Picking up the stapler from the shelf.
+[1618.76s - 1621.12s]  Walking towards the table.
+[1621.12s - 1641.76s]  Stapling a piece of paper.
+[1641.76s - 1652.00s]  Opening the stapler to examine the stapler.
+[1652.00s - 1668.40s]  Checking the staples inside the stapler.
+[1668.40s - 1685.12s]  Placing the stapler back onto the shelf.
+[1685.12s - 1689.12s]  Standing in front of the table.
+[1689.12s - 1693.36s]  Picking up the glass from the table and walking.
+[1693.36s - 1695.92s]  Placing the glass on the high table.
+[1695.92s - 1700.64s]  Sitting in the tall chair.
+[1700.64s - 1712.56s]  Drinking.
+[1712.56s - 1714.60s]  Placing the glass on the table.
+[1714.60s - 1717.32s]  Picking up the phone from the table.
+[1717.32s - 1737.32s]  Holding the phone in two hands and reading messages on the phone.
+[1737.32s - 1739.32s]  Placing the phone back on the table.
+[1739.32s - 1742.82s]  Getting up from the tall chair.
+[1742.82s - 1747.50s]  Placing the tall chair back into its place.
+[1747.50s - 1748.94s]  Moving the phone from the table.
+[1748.94s - 1755.94s]  Picking up the glass.
+[1755.94s - 1761.42s]  Walking.
+[1761.42s - 1762.90s]  Placing the glass on the table.
+[1762.90s - 1764.54s]  Walking towards the shelf.
+[1764.54s - 1767.14s]  Picking up the mini pool table.
+[1767.14s - 1772.34s]  Placing the mini pool table on the desk.
+[1772.86s - 1776.50s]  Cleaning the table with the hand.
+[1776.50s - 1781.86s]  Picking up the dust from the table.
+[1781.86s - 1786.42s]  Walking.
+[1786.42s - 1791.66s]  Throwing the dust of the eraser into the dustbin.
+[1791.66s - 1795.86s]  Walking.
+[1795.86s - 1800.62s]  Sitting on the chair.
+[1800.90s - 1805.74s]  Placing the mini golf table in front of her.
+[1805.74s - 1806.74s]  Moving the sticks.
+[1806.74s - 1826.54s]  Arranging the table.
+[1826.54s - 1831.46s]  Playing mini golf on the mini golf table.
+[1856.54s - 1879.46s]  Placing the balls onto the table.
+[1879.46s - 1904.98s]  Placing the sticks onto the mini pool table.
+[1904.98s - 1907.86s]  Standing up from the chair.
+[1908.26s - 1912.86s]  Placing the chair back into its place.
+[1912.86s - 1914.66s]  Picking up the mini pool table.
+[1914.66s - 1916.06s]  Walking towards the shelf.
+[1916.06s - 1924.18s]  Placing the mini pool table on the shelf.
+[1924.18s - 1927.70s]  Opening different books from the shelf.
+[1927.70s - 1935.38s]  Moving them around.
+[1935.90s - 1942.90s]  Placing the titles of books.
+[1942.90s - 1944.90s]  Opening a magazine.
+[1944.90s - 1949.90s]  Placing the books back in their place.
+[1949.90s - 1952.90s]  Picking up a paperweight.
+[1952.90s - 1955.90s]  Looking at it.
+[1965.90s - 1974.90s]  Adjusting things on the shelf.
+[1974.90s - 1975.90s]  Walking.
+[1975.90s - 1978.90s]  Picking up the glass of cola.
+[1978.90s - 1981.90s]  Drinking.
+[1981.90s - 1986.90s]  Placing the glass back on the table.
+[1995.90s - 1996.90s]  Picking up the glass.
+[1996.90s - 1997.90s]  Drinking.
+[1997.90s - 2000.90s]  While standing.
+[2000.90s - 2003.90s]  Walking.
+[2003.90s - 2007.90s]  Placing the glass on the tall table.
+[2007.90s - 2016.90s]  Drinking.
+[2016.90s - 2019.90s]  Placing the glass on the table.
+[2025.90s - 2028.90s]  Walking.
+[2028.90s - 2031.90s]  Sitting.
+[2031.90s - 2034.90s]  Walking.
+[2034.90s - 2043.90s]  Picking up a magazine from the shelf.
+[2044.42s - 2047.42s]  Walking.
+[2047.42s - 2050.42s]  Sitting on the corner of the bed.
+[2050.42s - 2053.42s]  Opening the book.
+[2053.42s - 2056.42s]  Placing the book at the side.
+[2056.42s - 2061.42s]  Adjusting the sensors on the thighs.
+[2061.42s - 2064.42s]  Picking up the book.
+[2064.42s - 2067.42s]  Picking up the book.
+[2067.94s - 2070.94s]  Reading the book.
+[2070.94s - 2073.94s]  Laying down in the bed.
+[2079.94s - 2082.94s]  Getting up.
+[2098.46s - 2101.46s]  Picking up the dog from the bed.
+[2101.46s - 2104.46s]  Placing him on the ground.
+[2106.46s - 2111.46s]  Playing with the dog while plaiting his head.
+[2114.46s - 2117.46s]  Scratching the neck of the dog.
+[2123.98s - 2126.98s]  Scratching the head.
+[2126.98s - 2129.98s]  Scratching the dog.
+[2137.98s - 2140.98s]  Flipping through the book.
+[2147.46s - 2160.86s]  Placing the book on the bed, picking up the dog from the bed, placing him on the ground,
+[2160.86s - 2165.26s]  fixing the sensors, reading the book.
+[2190.86s - 2194.06s]  Flipping through the pages of the book.
+[2220.86s - 2239.22s]  Scratching the dog, playing with the dog.
+[2239.22s - 2268.86s]  Standing up, walking, placing the book back onto the shelf, pulling the chair out, sitting in the chair,
+[2268.86s - 2291.70s]  looking back, moving the neck from side to side to stretch the neck, stretching the back, opening the tip.
+[2299.86s - 2302.86s]  Tearing a piece of tape.
+[2309.86s - 2314.86s]  Using a piece of tape to tape a piece of paper.
+[2316.86s - 2319.86s]  Typing on the laptop.
+[2319.86s - 2330.86s]  Using the cursor pad of the laptop.
+[2334.86s - 2347.86s]  Looking around, picking up the coffee cup, drinking coffee, placing the cup back onto the table, standing up, pushing the chair back.
+[2350.86s - 2357.86s]  Walking, moving the chair forward, back inside the table.
+[2363.86s - 2366.86s]  Walking.
+[2367.86s - 2374.86s]  Turning around, stretching from left to right.
+[2375.86s - 2378.86s]  Touching the toes.
+[2380.86s - 2383.86s]  Crossed leg toe touches.
+[2384.86s - 2387.86s]  Crossed leg toe touches.
+[2391.86s - 2394.86s]  Fixing the sensors.
+[2396.86s - 2399.86s]  Stretching from left to right.
+[2400.86s - 2403.86s]  Stretching arms about the head.
+[2405.86s - 2408.86s]  Stretching the arms from back to front.
+[2411.86s - 2414.86s]  Picking up the 1kg dumbbells.
+[2415.86s - 2418.86s]  Back exercise.
+[2419.86s - 2422.86s]  Picking up the 1kg dumbbells.
+[2423.86s - 2429.86s]  Back exercise, moving the arms from front to back.
+[2448.86s - 2451.86s]  Picking up the 1kg dumbbells.
+[2461.86s - 2464.86s]  Fixing the sensor on the thigh.
+[2466.86s - 2469.86s]  Walking.
+[2471.86s - 2474.86s]  Moving the sofa chair.
+[2478.86s - 2481.86s]  Picking up the 1kg dumbbells.
+[2484.86s - 2487.86s]  Picking up a single dumbbell.
+[2490.86s - 2494.86s]  Placing the dumbbell in front of the sofa chair while sitting on it.
+[2495.86s - 2500.86s]  Doing some bicep curls while sitting in the chair.
+[2508.86s - 2511.86s]  Switching hands.
+[2516.86s - 2520.86s]  Doing bicep curls with the left arm while sitting in the sofa chair.
+[2542.86s - 2545.86s]  Placing the weight back in its position.
+[2547.86s - 2550.86s]  Fixing the sensors on the knees.
+[2558.86s - 2561.86s]  Walking.
+[2562.86s - 2566.86s]  Walking, pushing the sofa chair back to its place.
+[2570.86s - 2572.86s]  Walking.
+[2573.86s - 2576.86s]  Moving the tall chair.
+[2577.86s - 2580.86s]  Picking up the glass. Drinking.
+[2583.86s - 2586.86s]  Placing the glass back onto the table.
+[2586.86s - 2589.86s]  Checking the phone.
+[2604.86s - 2608.86s]  Picking up a napkin from the high table.
+[2616.86s - 2620.86s]  Wiping the face with the napkin.
+[2621.86s - 2624.86s]  Folding the napkin.
+[2625.86s - 2628.86s]  Throwing away the napkin in the trash.
+[2629.86s - 2631.86s]  Walking.
+[2632.86s - 2636.86s]  Playing with the dog while running around.
+[2638.86s - 2641.86s]  Trying to catch the dog.
+[2642.86s - 2646.86s]  Walking around to catch the dog.
+[2662.86s - 2665.86s]  Playing with the dog.
+[2666.86s - 2670.86s]  Walking. Sitting on the floor.
+[2671.86s - 2675.86s]  Lying down on the floor.
+[2677.86s - 2680.86s]  Sitting back up on the floor.
+[2692.86s - 2695.86s]  Playing with the dog.
+[2696.86s - 2700.86s]  By stretching arms in a seated position.
+[2701.86s - 2704.86s]  Standing up.
+[2705.86s - 2708.86s]  Scratching face.
+[2709.86s - 2712.86s]  Walking around.
+[2713.86s - 2716.86s]  Walking towards the computer.
+[2717.86s - 2720.86s]  Standing. Wiping the face.
+[2721.86s - 2724.86s]  Walking around.
+[2725.86s - 2728.86s]  Walking towards the computer.
+[2728.86s - 2732.86s]  Standing. Wiping the nose.
+[2738.86s - 2741.86s]  Walking around.
+[2774.86s - 2777.86s]  Opening the windows.
+[2785.86s - 2788.86s]  Walking around.
+[2793.86s - 2796.86s]  rotating the neck.
+[2797.86s - 2800.86s]  Walking.
+[2801.86s - 2804.86s]  Looking at the plant.
+[2805.86s - 2808.86s]  Walking.
+[2810.86s - 2814.86s]  Picking up the watering can from the shelf.
+[2815.86s - 2818.86s]  Walking towards the high table.
+[2819.86s - 2822.86s]  Opening the water bottle.
+[2823.86s - 2827.86s]  Filling the watering can with water.
+[2830.86s - 2833.86s]  Closing the water bottle.
+[2834.86s - 2837.86s]  Picking up the watering can.
+[2838.86s - 2842.86s]  Walking towards the plant. Watering the plant.
+[2846.86s - 2851.86s]  Placing the watering can back onto the shelf.
+[2855.86s - 2858.86s]  Picking up the coffee cup from the table.
+[2859.86s - 2862.86s]  Walking. Placing it on the high table.
+[2863.86s - 2866.86s]  Walking.
+[2867.86s - 2871.86s]  Picking up a pillow from the bed. Fluffing the pillow.
+[2871.86s - 2874.86s]  Placing the pillow back on the bed.
+[2875.86s - 2878.86s]  Cleaning the bed with the pillow.
+[2879.86s - 2882.86s]  Arranging the bed.
+[2887.86s - 2890.86s]  Dusting the bed.
+[2891.86s - 2894.86s]  With the hands and with the pillow.
+[2901.86s - 2904.86s]  Walking.
+[2931.86s - 2934.86s]  Picking up a book. Reading the book.
+[2935.86s - 2939.86s]  Placing the book on the table. Pulling the chair.
+[2940.86s - 2943.86s]  Sitting on the chair.
+[2944.86s - 2947.86s]  Reading the book.
+[2947.86s - 2950.86s]  Scratching the back of the neck.
+[2951.86s - 2954.86s]  Stretching the neck.
+[2967.86s - 2970.86s]  Picking up the book from the shelf
+[2979.86s - 2982.86s]  Flipping the page of the book.
+[2983.86s - 2986.86s]  Reading.
+[3009.86s - 3014.86s]  Flipping the pages on the page of the book.
+[3015.86s - 3019.86s]  Picking up the book.
+[3020.86s - 3024.86s]  Flipping the pages on the book.
+[3025.86s - 3030.86s]  Blending the pages on the book.
+[3060.86s - 3085.86s]  Flipping through the pages of the book.
+[3085.86s - 3113.86s]  Keeps the book down and gets up from the chair
+[3115.86s - 3118.86s]  Five jumps.

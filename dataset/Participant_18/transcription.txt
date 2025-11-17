@@ -1,0 +1,169 @@
+[0.00s - 4.00s]  Five jumps.
+[13.00s - 17.00s]  Looking around.
+[30.00s - 34.00s]  Walking.
+[34.00s - 38.00s]  Sitting on a chair dragging the chair.
+[38.00s - 42.00s]  Pulling the laptop closer on the desk.
+[42.00s - 46.00s]  Arranging the book next to the laptop.
+[46.00s - 50.00s]  Using the cursor pad to drag the book to the desk.
+[50.00s - 54.00s]  Pulling the laptop closer on the desk.
+[54.00s - 58.00s]  Arranging the book next to the laptop.
+[58.00s - 62.00s]  Using the cursor pad on the laptop.
+[221.56s - 229.86s]  Getting up from the chair.
+[229.86s - 236.44s]  Putting the chair back in its place.
+[236.44s - 241.56s]  Walking fixing T shirt.
+[241.56s - 246.38s]  Walking getting down on the mat.
+[246.38s - 248.38s]  Doing push-ups.
+[276.38s - 281.38s]  Getting up.
+[281.38s - 286.38s]  Stretching arms.
+[286.38s - 306.38s]  Stretching the shoulders by rotating the shoulders front to back.
+[316.38s - 327.38s]  Stretching the arms.
+[327.38s - 337.38s]  Rotating the shoulders again.
+[337.38s - 339.38s]  Walking.
+[339.38s - 344.38s]  Fixing the T shirt.
+[344.38s - 348.38s]  Getting down on the mat.
+[348.38s - 367.38s]  Doing push-ups.
+[367.38s - 370.38s]  Getting up.
+[370.38s - 379.38s]  Fixing T shirt.
+[379.38s - 390.38s]  Walking.
+[390.38s - 419.38s]  Sitting on the sofa chair.
+[419.38s - 421.38s]  Getting up.
+[421.38s - 425.38s]  Getting down on the mat.
+[425.38s - 429.38s]  Doing push-ups.
+[429.38s - 432.38s]  Getting down on the mat.
+[432.38s - 435.38s]  Getting up.
+[435.38s - 439.38s]  Getting down on the mat.
+[442.38s - 451.14s]  Standing up.
+[451.14s - 457.82s]  Walking, opening the bottle of water.
+[465.34s - 468.82s]  Pouring a glass of water.
+[472.38s - 486.50s]  Sitting on the tall chair.
+[486.50s - 517.46s]  Drinking the glass of water.
+[517.68s - 527.18s]  Sticking the glass up.
+[527.18s - 547.98s]  Placing the glass on the table.
+[547.98s - 549.98s]  Sitting down from the high table.
+[549.98s - 561.98s]  Walking.
+[561.98s - 565.98s]  Picking up the phone from the table.
+[565.98s - 569.98s]  Sitting in the sofa chair.
+[569.98s - 573.98s]  Using the phone in both hands while sitting in the sofa chair.
+[659.98s - 667.98s]  Sitting down from the sofa chair.
+[667.98s - 683.98s]  Sitting on the sofa chair.
+[773.98s - 784.90s]  Getting up from the chair, walking, placing the phone on the table, walking.
+[791.98s - 800.98s]  Opening a tissue, walking to the coffee table,
+[800.98s - 808.98s]  placing a banana on the table, peeling the banana.
+[830.98s - 835.98s]  Eating the banana while seated in the sofa chair.
+[890.98s - 894.98s]  Placing the banana on the table.
+[912.98s - 916.98s]  Opening an orange witha a knife
+[1060.98s - 1174.98s]  Eating the orange.
+[1174.98s - 1194.98s]  Picking up a tissue and wiping the face and the hands.
+[1194.98s - 1210.98s]  Picking up the plate and moving the trash into another vessel.
+[1210.98s - 1214.98s]  Placing the knife and the plate back onto the table.
+[1214.98s - 1217.98s]  Wiping the fingers again with the tissue.
+[1217.98s - 1219.98s]  Throwing away the tissue.
+[1219.98s - 1222.98s]  Standing up. Fixing the t-shirt.
+[1222.98s - 1246.98s]  Walking.
+[1252.98s - 1262.98s]  Pulling the chair.
+[1262.98s - 1265.98s]  Sitting down in the chair.
+[1265.98s - 1271.98s]  Picking up the book.
+[1271.98s - 1277.98s]  Reading from the book.
+[1277.98s - 1281.98s]  Picking up the book.
+[1281.98s - 1285.98s]  Fixing the head gear.
+[1285.98s - 1289.98s]  Turning the pages on the book.
+[1289.98s - 1292.98s]  Reaching for the laptop on the table.
+[1292.98s - 1320.98s]  Writing on the book with a pen.
+[1320.98s - 1324.98s]  Picking up the book.
+[1400.98s - 1427.98s]  Closing the pen cap.
+[1427.98s - 1429.98s]  keeping the pen on the table.
+[1429.98s - 1431.98s]  Getting up from the chair.
+[1431.98s - 1433.98s]  Fixing the t-shirt.
+[1433.98s - 1435.98s]  Walking.
+[1435.98s - 1439.98s]  Pushing the chair back into the table.
+[1443.98s - 1445.98s]  Walking.
+[1453.98s - 1455.98s]  Picking up the spray bottle from the shelf.
+[1455.98s - 1457.98s]  Walking towards the plant.
+[1457.98s - 1461.98s]  Spraying the plant with water.
+[1469.98s - 1473.98s]  Bending down and spraying the soil with some water.
+[1485.98s - 1499.98s]  Placing the can back onto the shelf.
+[1499.98s - 1505.98s]  Picking up the cube from the shelf.
+[1505.98s - 1509.98s]  Walking and attempting to solve the 3D puzzle.
+[1509.98s - 1513.98s]  Sitting in the coffee chair.
+[1513.98s - 1693.98s]  Attempting to solve the 3D puzzle in the sofa chair.
+[1693.98s - 1723.32s]  Standing up from the chair, walking.
+[1723.32s - 1731.64s]  Standing up a magazine from the shelf, walking with the magazine in hand.
+[1731.64s - 1738.64s]  Walking through the pages of the magazine, light walking.
+[1761.64s - 1768.64s]  Standing up a magazine from the shelf, light walking.
+[2004.64s - 2015.64s]  Picking up the phone from the table, walking with the phone in hand.
+[2015.64s - 2018.64s]  Sitting on the edge of the bed.
+[2018.64s - 2022.64s]  Laying on the bed.
+[2022.64s - 2319.64s]  Typing on the phone while laying in the bed.
+[2319.64s - 2327.64s]  Getting up from the bed, walking.
+[2327.64s - 2333.64s]  Placing the phone on the table.
+[2333.64s - 2339.64s]  Picking up the scissors.
+[2339.64s - 2367.64s]  Cutting a piece of paper on the table.
+[2367.64s - 2395.64s]  Holding a piece of paper.
+[2395.64s - 2419.64s]  Cutting a piece of paper.
+[2419.64s - 2447.64s]  Making origami out of the piece of paper.
+[2447.64s - 2455.64s]  Walking.
+[2455.64s - 2459.64s]  While making the origami.
+[2459.64s - 2474.64s]  Placing the paper on the desk.
+[2474.64s - 2503.64s]  Adjusting the sensors on the ties.
+[2503.64s - 2521.64s]  Picking up a piece of tape and sticking the sensors on the tie.
+[2521.64s - 2532.64s]  Walking.
+[2532.64s - 2535.64s]  Opening a bottle of water.
+[2535.64s - 2541.64s]  Pouring a glass of water.
+[2541.64s - 2548.64s]  Drinking the water from the glass.
+[2548.64s - 2554.64s]  Placing the glass on the coffee table.
+[2554.64s - 2558.64s]  Picking up a piece of paper from the coffee table.
+[2558.64s - 2570.64s]  Playing with the piece of paper.
+[2570.64s - 2585.64s]  Walking around.
+[2585.64s - 2590.64s]  Picking up the book from the desk.
+[2590.64s - 2595.64s]  Picking up other pens from the desk.
+[2595.64s - 2598.64s]  Picking up the phone.
+[2598.64s - 2602.64s]  Placing the paper on the table.
+[2602.64s - 2627.64s]  Walking.
+[2627.64s - 2630.64s]  Placing the magazine back into the shelf.
+[2630.64s - 2655.64s]  Walking.
+[2655.64s - 2659.64s]  Sitting on the exercise mat.
+[2659.64s - 2683.64s]  Doing crunches.
+[2683.64s - 2710.64s]  Standing up.
+[2710.64s - 2714.64s]  Fixing the t-shirt.
+[2714.64s - 2725.64s]  Trying to balance on one leg.
+[2725.64s - 2753.64s]  Trying to balance on the left leg.
+[2753.64s - 2777.64s]  Picking up a 20 kg ball.
+[2777.64s - 2782.64s]  Placing it on the other side of the mat.
+[2782.64s - 2790.64s]  Walking.
+[2790.64s - 2797.64s]  Looking around while turning.
+[2797.64s - 2801.64s]  Adjusting the fan settings.
+[2801.64s - 2806.64s]  Moving it around.
+[2806.64s - 2814.64s]  Sitting on the sofa chair.
+[2814.64s - 2821.64s]  Adjusting the headgear.
+[2821.64s - 2829.64s]  Looking around.
+[2829.64s - 2833.64s]  Wiping the nose.
+[2833.64s - 2840.64s]  Looking around.
+[2840.64s - 2863.64s]  Looking up.
+[2863.64s - 2866.64s]  Setting up from the chair.
+[2866.64s - 2870.64s]  Adjusting the fan settings.
+[2870.64s - 2872.64s]  Walking.
+[2872.64s - 2875.64s]  Picking up a paper aeroplane.
+[2875.64s - 2878.64s]  Throwing the paper aeroplane.
+[2878.64s - 2881.64s]  Walking to collect it.
+[2881.64s - 2886.64s]  Picking up the paper aeroplane.
+[2886.64s - 2888.64s]  Walking with it.
+[2888.64s - 2892.64s]  Placing the paper aeroplane onto the table.
+[2892.64s - 2896.64s]  Walking.
+[2896.64s - 2906.64s]  Picking up the glass of water and placing it on the tall table.
+[2906.64s - 2915.64s]  Picking up the cube and placing it in the shelf.
+[2915.64s - 2920.64s]  Adjusting the headgear.
+[2920.64s - 2923.64s]  Looking around.
+[2923.64s - 2946.64s]  Walking.
+[2946.64s - 2960.64s]  Sitting in the tall chair.
+[2960.64s - 2962.64s]  Getting up from the tall chair.
+[2962.64s - 2965.64s]  Walking.
+[2965.64s - 2968.64s]  Sitting in the coffee chair.
+[2968.64s - 2971.64s]  Picking up the paper aeroplane.
+[2998.64s - 3010.64s]  Standing up.
+[3010.64s - 3015.64s]  Picking on the keyboard.
+[3015.64s - 3018.64s]  Standing.
+[3018.64s - 3024.64s]  Typing on the keyboard again.
+[3024.64s - 3032.64s]  Turning around.
+[3032.64s - 3044.64s]  Walking.
+[3044.64s - 3049.64s]  Pointing.
+[3049.64s - 3053.64s]  Doing five jumps.

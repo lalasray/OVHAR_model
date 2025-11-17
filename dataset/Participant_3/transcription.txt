@@ -1,0 +1,144 @@
+[0.00s - 2.00s]  Five jumps.
+[30.00s - 36.00s]  Sitting on the chair, pulling the chair close.
+[39.00s - 253.00s]  Typing on the laptop and using the cursor pad.
+[313.02s - 330.98s]  Scrolling on the phone with the left hand.
+[330.98s - 348.02s]  Picking up a thing from the table.
+[348.02s - 364.02s]  Picking up the cutting board from the table and placing it on the left end of the table.
+[364.02s - 373.34s]  Taking ice from the upper table, walking back to the smaller table,
+[373.34s - 381.66s]  sitting on the sofa chair, crushing the ice with the right hand.
+[381.66s - 399.90s]  Using both hands to crush the ice.
+[411.66s - 475.66s]  Picking up the cutting board from the table and placing it on the left end of the table.
+[475.66s - 488.66s]  Picking up the mixing glass and transferring the ice from the bag into the glass.
+[488.66s - 493.66s]  Standing up and placing the bag back into the chair on the high table.
+[493.66s - 521.66s]  Sitting back on the sofa chair using the right hand to cut a lemon.
+[521.66s - 541.66s]  Picking up the lemon from the cutting board.
+[541.66s - 560.66s]  Picking up the lemon slices from the cutting board.
+[560.66s - 576.66s]  Picking up the mixing glass and adding the lemon slices into the glass.
+[576.66s - 588.66s]  Standing up and placing the lemon back on the table, walking towards the shelf.
+[588.66s - 604.66s]  Picking up the equippment from the shelf, placing it back on the shelf, taking the another eqippment on the shelf, walking back towards the sofa chair.
+[604.66s - 632.66s]  Sitting down, crushing the ice using the right hand.
+[666.66s - 672.66s]  Placing the crushing equipment back on the table.
+[672.66s - 690.66s]  Picking up the wine glass and adding the ice cubes into the wine glass.
+[690.66s - 718.66s]  Placing the wine glass on the chair and pouring water into the mixing glass.
+[720.66s - 736.66s]  Picking up the lemon from the bag and transferring the ice from the glass.
+[736.66s - 750.66s]  Adding cocktail syrup into the glass.
+[750.66s - 755.66s]  Closing the lid mixture bottle and placing it back on the table.
+[755.66s - 784.66s]  Standing up.
+[784.66s - 802.66s]  Walking and shaking the cocktail mixture.
+[802.66s - 818.66s]  Placing the mixture back onto the table.
+[818.66s - 847.66s]  Draining the cocktail into the wine glass.
+[847.66s - 852.66s]  Cutting the lemon to fit the rim of the glass.
+[852.66s - 862.66s]  Placing the lemon on the rim of the glass.
+[862.66s - 868.66s]  Wiping my hands with a tissue paper.
+[868.66s - 874.66s]  Picking up the cocktail glass.
+[874.66s - 877.66s]  Fixing spectacles on the face.
+[877.66s - 894.66s]  Walking and sipping the cocktail.
+[894.66s - 897.66s]  Standing.
+[897.66s - 900.66s]  Walking back to the main table.
+[900.66s - 909.66s]  Picking up the phone and walking towards the high table.
+[909.66s - 915.66s]  Placing the glass on the high table and fixing the tall chair.
+[915.66s - 921.66s]  Sitting on the tall chair.
+[921.66s - 929.66s]  Picking up the cocktail glass.
+[929.66s - 958.66s]  Using a mobile phone with the left hand while sipping cocktail with the right.
+[958.66s - 970.66s]  Using the phone with both hands.
+[970.66s - 984.66s]  Using the phone with the right hand and fixing glasses with the left.
+[984.66s - 989.66s]  Using the right hand to take a sip of the cocktail.
+[989.66s - 993.66s]  Getting down from the high chair.
+[993.66s - 997.66s]  Walking towards the table.
+[997.66s - 1005.66s]  Picking up the puzzle from the table.
+[1005.66s - 1012.66s]  Changing the pair of glasses.
+[1012.66s - 1019.66s]  Picking up the puzzle back from the table and walking towards the high table.
+[1019.66s - 1025.66s]  Sitting on the tall chair.
+[1025.66s - 1042.66s]  Trying to solve the puzzle.
+[1042.66s - 1053.66s]  Using the phone with the left hand.
+[1053.66s - 1082.66s]  Placing the phone on the table.
+[1082.66s - 1111.66s]  Picking up the puzzle from the table.
+[1111.66s - 1209.66s]  Playing with the 3D puzzle cube.
+[1209.66s - 1229.66s]  Drinking from the glass.
+[1229.66s - 1258.66s]  Using the phone with both hands.
+[1258.66s - 1283.66s]  Swinging my legs.
+[1283.66s - 1336.66s]  Drinking cocktail while using the phone.
+[1336.66s - 1362.66s]  Stretching arms in the air.
+[1362.66s - 1375.66s]  Adjusting t-shirt.
+[1375.66s - 1379.66s]  Sipping cocktail.
+[1379.66s - 1388.66s]  Getting down from the chair.
+[1388.66s - 1407.66s]  Picking up the dumbbells.
+[1407.66s - 1460.66s]  Doing exercise and doing arm raises with the dumbbells.
+[1460.66s - 1485.66s]  Fixing fabric on the legs.
+[1485.66s - 1514.66s]  Exercise lunges.
+[1567.66s - 1602.66s]  Doing yoga.
+[1602.66s - 1606.66s]  Yoga exercise for stretching the body.
+[1632.66s - 1650.66s]  Arm raises starting with right hand.
+[1650.66s - 1679.66s]  Left hand, hand rotations.
+[1679.66s - 1769.66s]  Doing squats.
+[1769.66s - 1797.66s]  Sitting on the tall chair and drinking the cocktail.
+[1918.66s - 1922.66s]  Getting down from the chair.
+[1922.66s - 1931.66s]  Walking towards the mat to do yoga.
+[1931.66s - 1947.66s]  Touching the bottom of the feet with fingers three times.
+[1947.66s - 1960.66s]  Walking.
+[1960.66s - 1971.66s]  Checking time.
+[1971.66s - 1974.66s]  Walking towards the coffee table.
+[1974.66s - 1988.66s]  Picking up the stuff from the coffee table and arranging it.
+[1988.66s - 1992.66s]  Throwing trash in the dustbin.
+[1992.66s - 1997.66s]  Walking back to the coffee table.
+[1997.66s - 2008.66s]  Placing the cocktail mix on the shelf.
+[2008.66s - 2011.66s]  Drinking the cocktail.
+[2011.66s - 2015.66s]  Placing the glass back onto the table.
+[2015.66s - 2021.66s]  Walking.
+[2021.66s - 2050.66s]  Typing on the laptop while standing.
+[2050.66s - 2078.66s]  Doing yoga.
+[2078.66s - 2088.66s]  Taking a sip from the cocktail glass.
+[2088.66s - 2096.66s]  Placing the glass back onto the table.
+[2096.66s - 2101.66s]  Taking the chessboard from the shelf.
+[2101.66s - 2107.66s]  Walking towards the bed.
+[2107.66s - 2111.66s]  Placing the chessboard on the bed.
+[2111.66s - 2116.66s]  Placing the phone on the bed.
+[2116.66s - 2126.66s]  Sitting on the bed with legs crossed.
+[2126.66s - 2130.66s]  Opening the chess box.
+[2130.66s - 2138.66s]  Taking the pieces out of the chess box.
+[2138.66s - 2141.66s]  Flipping the chessboard.
+[2258.66s - 2281.66s]  Placing the legs onto the ground.
+[2281.66s - 2333.66s]  Playing chess.
+[2333.66s - 2353.66s]  Gathering the chess pieces.
+[2353.66s - 2356.66s]  Flipping the board.
+[2356.66s - 2366.66s]  Placing the pieces back onto the chessboard.
+[2366.66s - 2372.66s]  Closing the chess box.
+[2372.66s - 2375.66s]  Picking the chess box up.
+[2375.66s - 2377.66s]  Getting off the bed.
+[2377.66s - 2380.66s]  Walking towards the shelf.
+[2380.66s - 2388.66s]  Placing the chessboard back onto the shelf.
+[2388.66s - 2391.66s]  Walking.
+[2391.66s - 2416.66s]  Taking another sip from the cocktail glass.
+[2416.66s - 2419.66s]  Picking up a book off the shelf.
+[2419.66s - 2422.66s]  Walking towards the bed.
+[2422.66s - 2425.66s]  Sitting on the bed.
+[2425.66s - 2428.66s]  With my legs on the bed.
+[2428.66s - 2431.66s]  Resting.
+[2431.66s - 2435.66s]  Moving my head onto the pillow and reading the book.
+[2461.66s - 2523.66s]  Flipping the pages.
+[2583.66s - 2643.50s]  Rest both hands on the bed while sleeping.
+[2653.34s - 2669.18s]  Crossing legs.
+[2699.18s - 2719.02s]  Turning body to the right side.
+[2789.18s - 2815.02s]  Rolling out of the bed.
+[2815.02s - 2824.86s]  Stretching arms into the air.
+[2824.86s - 2831.34s]  Stretching legs by looking left to right.
+[2831.34s - 2835.66s]  Twisting the upper body.
+[2835.66s - 2840.78s]  Standing up from the bed.
+[2841.74s - 2857.10s]  Fixing the fabric onto the thighs.
+[2857.10s - 2867.10s]  Walking.
+[2867.90s - 2876.94s]  Standing in front of the table.
+[2876.94s - 2899.10s]  Walking towards the table.
+[2899.34s - 2916.86s]  Picking up and arranging stuff on the table.
+[2916.86s - 2922.54s]  Picking up the watering can from the shelves.
+[2922.78s - 2925.42s]  Walking towards the plant.
+[2925.42s - 2940.30s]  Watering the plant.
+[2940.30s - 2947.50s]  Placing the watering can back onto the shelf.
+[2947.50s - 2951.58s]  Sitting on the shelf.
+[2951.58s - 2969.50s]  Picking up the glasses from the table and cleaning the glasses.
+[2982.38s - 2992.38s]  Wearing the glasses back onto the face.
+[2992.38s - 3001.42s]  Sitting in a resting position with legs crossed.
+[3001.42s - 3009.42s]  Uncrossing the legs and shifting them back in the chair.
+[3011.58s - 3026.46s]  Picking up a paper from the table and playing with it.
+[3026.46s - 3041.34s]  Standing up from the chair.
+[3041.34s - 3049.74s]  Fixing clothes.
+[3049.74s - 3057.98s]  Jumping five times.

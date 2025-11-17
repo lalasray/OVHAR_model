@@ -1,0 +1,107 @@
+[0.00s - 2.00s]  Five jumps.
+[25.28s - 27.28s]  Walking.
+[28.04s - 30.04s]  Picking up the glass from the table.
+[32.16s - 34.16s]  Drinking coffee.
+[57.28s - 59.28s]  Drinking coffee while standing.
+[63.00s - 65.00s]  Placing the coffee mug on the table.
+[65.68s - 67.68s]  Opening a bag of burger.
+[75.24s - 77.24s]  Taking out the burger.
+[79.44s - 81.44s]  Sitting in a chair.
+[82.52s - 84.52s]  Eating the burger.
+[88.22s - 90.22s]  Wearing the sunglasses.
+[95.42s - 97.42s]  Sitting down.
+[117.28s - 136.28s]  Sipping coffee while eating burger.
+[136.28s - 155.48s]  Using phone in the right hand while eating burger.
+[185.48s - 253.68s]  Using the laptop on the table.
+[253.88s - 603.08s]  Eating the burger.
+[603.48s - 632.68s]  Standing up, walking.
+[632.68s - 649.88s]  Flipping through the books on the shelf.
+[649.88s - 653.88s]  Picking up a magazine.
+[653.88s - 659.88s]  Flipping through the pages of the magazine.
+[659.88s - 667.08s]  Placing the magazine back onto the shelf.
+[667.08s - 669.08s]  Choosing another book.
+[669.08s - 687.08s]  Flipping through the pages of the book.
+[687.88s - 691.88s]  Picking up the 3D puzzle from the shelf.
+[691.88s - 695.88s]  Sitting on a chair.
+[695.88s - 1043.08s]  Attempting to solve the 3D puzzle while sitting on a chair.
+[1043.88s - 1047.88s]  Standing up.
+[1047.88s - 1051.88s]  Placing the cube back onto the shelf.
+[1051.88s - 1055.88s]  Picking up the cutting board.
+[1055.88s - 1059.08s]  Placing it on the table.
+[1059.08s - 1063.08s]  Arranging the fruits on the table.
+[1063.08s - 1069.08s]  Picking up the knife from the shelf.
+[1069.08s - 1096.28s]  Placing the watermelon while standing.
+[1096.28s - 1118.28s]  Placing the seeds from the watermelon.
+[1118.28s - 1128.28s]  Placing the melon.
+[1148.28s - 1168.28s]  Eating the melon.
+[1188.28s - 1212.28s]  Walking.
+[1212.28s - 1232.28s]  Walking.
+[1232.28s - 1246.28s]  Sitting on the bed.
+[1246.28s - 1330.28s]  Laying down to the side.With hands hanging across the edge of the bed.
+[1330.28s - 1354.28s]  Laying on the back.
+[1354.28s - 1366.28s]  Getting up from the bed.
+[1366.28s - 1370.28s]  Standing up.
+[1370.28s - 1374.28s]  Walking.
+[1374.28s - 1380.28s]  Opening the chess set on the shelf.
+[1380.28s - 1388.28s]  Picking up the chess box.
+[1388.28s - 1394.28s]  Placing it on the study table.
+[1394.28s - 1398.28s]  Opening the chess set.
+[1398.28s - 1422.28s]  Removing the pieces.
+[1422.28s - 1450.28s]  Arranging the chess pieces on the chess set.
+[1538.28s - 1564.28s]  Playing chess.
+[1580.28s - 1604.28s]  Flipping the chess board. Placing the pieces back into the chess board.
+[1604.28s - 1612.28s]  Picking up the chess box. Placing the chess box back into the shelf.
+[1612.28s - 1618.28s]  Walking.
+[1618.28s - 1632.28s]  Doing squats.
+[1632.28s - 1638.28s]  Doing knee highs.
+[1638.28s - 1652.28s]  Leg raises. Sideways leg raises.
+[1652.28s - 1658.28s]  Doing high kicks.
+[1658.28s - 1664.28s]  Sitting. Walking.
+[1664.28s - 1672.28s]  Picking up the 3D puzzle from the shelf. Sitting on the chair.
+[1672.28s - 1680.28s]  Placing the 3D puzzle on the shelf.
+[1680.28s - 1686.28s]  Tying shoelaces.
+[1686.28s - 1754.28s]  Picking up the 3D puzzle. Attempting to solve the 3D puzzle.
+[1754.28s - 1782.28s]  Picking up the phone. Some papers fall down. Picking up the paper.
+[1782.28s - 2352.28s]  Using the phone.
+[2352.28s - 2378.28s]  Opening a water bottle. Refilling the watering can with the water.
+[2378.28s - 2406.28s]  Watering the plant.
+[2448.28s - 2452.28s]  Placing the watering can back onto the shelf.
+[2452.28s - 2480.28s]  Bending down to adjust sensors on the shoe.
+[2480.28s - 2498.28s]  Placing the water bottle.
+[2498.28s - 2508.28s]  Texting on the phone.
+[2508.28s - 2514.28s]  Standing up.
+[2514.28s - 2518.28s]  Walking towards the shelf.
+[2518.28s - 2526.28s]  Walking.
+[2526.28s - 2530.28s]  Picking up the water bottle.
+[2530.28s - 2538.28s]  Filling the wine glass with water.
+[2538.28s - 2540.28s]  Closing the water bottle.
+[2540.28s - 2544.28s]  Placing the water bottle onto the coffee table.
+[2544.28s - 2550.28s]  Drinking water from the wine glass.
+[2550.28s - 2554.28s]  Placing the wine glass back onto the high table.
+[2554.28s - 2566.28s]  Walking.
+[2566.28s - 2578.28s]  Sitting on the sofa chair. Standing up from the sofa chair.
+[2578.28s - 2596.28s]  Walking.
+[2596.28s - 2598.28s]  Playing with the plant.
+[2598.28s - 2602.28s]  Walking.
+[2602.28s - 2606.28s]  Picking up trash from the table.
+[2606.28s - 2608.28s]  Walking towards the dustbin.
+[2608.28s - 2612.28s]  Throwing away the trash.
+[2612.28s - 2622.28s]  Walking.
+[2622.28s - 2626.28s]  Picking up more trash from the table.
+[2626.28s - 2630.28s]  Cleaning the table with the tissue.
+[2630.28s - 2634.28s]  Walking towards the dustbin.
+[2634.28s - 2642.28s]  Throwing away the tissue.
+[2642.28s - 2648.28s]  Picking up more tissue.
+[2648.28s - 2666.28s]  Wiping the table.
+[2666.28s - 2674.28s]  Walking.
+[2674.28s - 2680.28s]  Picking up the 1kg dumbbells.
+[2680.28s - 2690.28s]  Doing sideways arm raises.
+[2690.28s - 2706.28s]  Putting the dumbbells back onto the floor.
+[2706.28s - 2716.28s]  Adjusting the sensor on the leg.
+[2716.28s - 2806.28s]  Typing on the phone while sitting in a chair.
+[2806.28s - 2868.28s]  Rocking back and forth in the chair.
+[2868.28s - 2874.28s]  Swing left to right in the chair.
+[2874.28s - 2898.28s]  texting on phone.
+[2898.28s - 2918.28s]  Standing up.
+[2918.28s - 2960.28s]  Walking and texting on phone.
+[2960.28s - 2964.28s]  Five jumps.

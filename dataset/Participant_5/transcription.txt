@@ -1,0 +1,119 @@
+[0.00s - 2.00s]  Five jumps.
+[12.00s - 14.00s]  Checking time.
+[19.00s - 21.00s]  Adjusting the wristwatch.
+[30.00s - 32.00s]  Walking towards the coffee table.
+[40.00s - 42.00s]  Picking up the flask.
+[44.00s - 46.00s]  Placing it onto the high table.
+[48.00s - 50.00s]  Adjusting the chair.
+[52.00s - 54.00s]  Pouring the coffee from the thermos into a cup.
+[60.00s - 72.00s]  Picking up the pretzel from the coffee table and placing it onto the plate on the high table.
+[80.00s - 82.00s]  Sitting down on the high chair.
+[86.00s - 88.00s]  Sipping coffee with the right hand.
+[90.00s - 100.00s]  Using the knife and fork to cut the piece of bread.
+[110.00s - 114.00s]  Eating the pretzel.
+[120.00s - 124.00s]  Drinking coffee.
+[136.00s - 140.00s]  Cutting into the bread.
+[150.00s - 154.00s]  Sipping coffee with the right hand.
+[170.00s - 174.00s]  Cutting the pretzel and eating it.
+[180.00s - 184.00s]  While sipping coffee.
+[188.00s - 192.00s]  Opening the flask and refilling the cup of coffee.
+[204.00s - 208.00s]  Cutting into the pretzel and eating it.
+[210.00s - 234.00s]  Sipping coffee.
+[234.00s - 236.00s]  Cutting pretzel.
+[236.00s - 238.00s]  Eating pretzel.
+[244.00s - 274.00s]  Sipping coffee.
+[274.00s - 276.00s]  Standing up.
+[276.00s - 278.00s]  Walking.
+[292.00s - 294.00s]  Reaching for the puzzle from the shelf.
+[300.00s - 358.32s]  solving the 3d puzzle while standing.
+[392.00s - 409.44s]  placing the cube back onto the shelf
+[409.44s - 416.48s]  walking
+[416.48s - 432.32s]  picking up the 1 kg dumbbells doing side to side arm raises simultaneously.
+[432.32s - 457.36s]  placing the dumbbells back onto the floor walking picking up a ball from the table and juggling with
+[487.36s - 513.20s]  placing the ball back onto the table picking up phone from the table sitting on the bed
+[513.20s - 518.00s]  and typing on the phone using both hands
+[518.00s - 533.60s]  stretching legs out while sitting on the bed and scrolling with the phone in one hand
+[533.60s - 553.28s]  using both hands to type while tapping feet standing up walking towards the table placing the phone on the table
+[553.28s - 571.52s]  picking up the coffee flask and refilling the tea cup drinking coffee while walking
+[571.52s - 599.28s]  standing and drinking coffee
+[599.52s - 610.16s]  walking towards the shelf picking up the spraying bottle walking towards the plant spraying the plant with water
+[610.88s - 627.92s]  checking the soil if the soil has water spraying the plant again
+[628.88s - 634.00s]  placing the spraying bottle back onto the shelf
+[634.00s - 642.96s]  picking up the mini pool table and walking towards the high table
+[642.96s - 645.36s]  moving the plate
+[645.36s - 661.12s]  placing the mini pool table sitting down into the tall chair playing mini pool
+[735.84s - 745.84s]  leaving the pink Splat
+[745.84s - 750.74s]  lighter
+[780.74s - 802.42s]  Standing up from the chair while holding the mini pool table, placing the mini pool table
+[802.42s - 818.42s]  back onto the shelf.
+[818.42s - 838.42s]  Walking towards the bed while drawing something onto the iPad screen.
+[838.42s - 916.42s]  Walking and drawing something onto the iPad.
+[916.42s - 936.42s]  Placing the iPad back into the bag.
+[936.42s - 946.42s]  Sitting onto the bed, sleeping in the bed with a Kindle in hand.
+[946.42s - 958.42s]  Reading a book on the Kindle while laying in bed.
+[958.42s - 986.42s]  Reading the Kindle while laying in bed.
+[1122.42s - 1316.42s]  Sitting on the corner of the bed and reading the Kindle.
+[1316.42s - 1318.42s]  Standing up.
+[1318.42s - 1320.42s]  Walking.
+[1320.42s - 1338.42s]  Placing the Kindle back into the bag.
+[1338.42s - 1346.42s]  Walking towards the shelf.
+[1346.42s - 1356.42s]  Picking a book from the shelf.
+[1356.42s - 1384.42s]  Flipping through the pages of the book.
+[1384.42s - 1412.42s]  Picking a book from the shelf.
+[1412.42s - 1496.42s]  Walking with a book in the hand while reading.
+[1496.42s - 1510.42s]  Placing the book back onto the shelf.
+[1510.42s - 1518.42s]  Walking towards the table. Picking up the phone.
+[1518.42s - 1546.42s]  Using both hands to type on the phone.
+[1546.42s - 1562.42s]  Placing the phone onto the ground and picking up the 1kg dumbbells.
+[1562.42s - 1590.42s]  Doing arm raises with dumbbells. Both hands simultaneously.
+[1590.42s - 1604.42s]  Picking up and using the phone.
+[1636.42s - 1692.42s]  Doing squats.
+[1692.42s - 1720.42s]  Doing weighted squats with the 1kg dumbbells.
+[1720.42s - 1740.42s]  Picking up the phone.
+[1740.42s - 1746.42s]  Adjusting straps on the thighs.
+[1746.42s - 1752.42s]  Running hands through hair. Picking up the phone from the ground.
+[1752.42s - 1780.42s]  Picking up the phone with both hands.
+[1842.42s - 1860.42s]  Placing the dumbbells back onto the floor.
+[1860.42s - 1876.42s]  Picking up the dumbbells again from the floor.
+[1876.42s - 1898.42s]  Doing exercise with the dumbbells.
+[1898.42s - 1920.42s]  Breathing the dumbbells from waist to chest level.
+[1920.42s - 1938.42s]  Placing the dumbbells back onto the floor.
+[1938.42s - 1948.42s]  Adjusting hair.
+[1948.42s - 1955.42s]  Picking up the watering can from the shelf. Walking towards the plant.
+[1955.42s - 1969.42s]  Watering the plant.
+[1969.42s - 1975.42s]  Walking.
+[1975.42s - 1991.42s]  Placing the watering can back into the shelf.
+[1991.42s - 2005.42s]  Picking up the puzzle from the shelf. Walking. Sitting on the bed.
+[2005.42s - 2033.42s]  Trying to solve the 3D puzzle.
+[2033.42s - 2049.42s]  Picking up the puzzle.
+[2145.42s - 2149.42s]  Standing up.
+[2149.42s - 2177.42s]  Walking towards the shelf. Placing the tube back onto the shelf.
+[2177.42s - 2197.42s]  Picking up the puzzle.
+[2197.42s - 2211.42s]  Picking up the ball from the table. Juggling with the ball.
+[2211.42s - 2239.42s]  Picking up the ball from the floor. Adjusting straps on the thighs. Back to juggling the ball.
+[2239.42s - 2261.42s]  Picking up the ball from the floor. Back to juggling. Placing the ball back onto the table.
+[2261.42s - 2277.42s]  Picking the paper from the shelf. Walking towards the table. Placing the paper on the table. Picking it up from the table.
+[2277.42s - 2295.42s]  Walking towards the coffee table. Placing the paper on the high table and walking towards the shelf. Picking up the stationary box from the shelf. Walking towards the high table. Placing the box onto the high table.
+[2295.42s - 2313.42s]  Transferring the flask from the high table to the coffee table.
+[2313.42s - 2341.42s]  Folding the paper.
+[2443.42s - 2471.42s]  Creating paper origami.
+[2583.42s - 2611.42s]  Playing with the paper origami.
+[2751.42s - 2779.42s]  Squatting.
+[2781.42s - 2799.42s]  Doing jumping jacks.
+[2799.42s - 2808.42s]  Twisting from the left to the right.
+[2808.42s - 2828.42s]  Across two touches.
+[2838.42s - 2893.42s]  Jogging in one place.
+[2893.42s - 2913.42s]  Pouring a glass of water.
+[2913.42s - 2937.42s]  Drinking from the glass.
+[2937.42s - 2965.42s]  Walking. Picking up the ball from the table. Juggling in his hands.
+[2965.42s - 2993.42s]  Sitting on the bed. Laying on the bed with crossed legs. Uncrossing the legs.
+[2993.42s - 3015.42s]  Adjusting head position.
+[3015.42s - 3027.42s]  Sitting back straight on the bed. Getting up from the bed. Adjusting belt.
+[3027.42s - 3055.42s]  Doing jumping jacks.
+[3055.42s - 3078.42s]  Walking. Opening the bottle of water. Pouring a glass of water.
+[3078.42s - 3107.42s]  Closing the bottle of water. Drinking the water from the glass.
+[3108.42s - 3137.42s]  Placing the glass onto the table.
+[3137.42s - 3150.42s]  Adjusting the chair.
+[3150.42s - 3158.42s]  Picking up the phone from the table.
+[3158.42s - 3186.42s]  Scrolling on the phone.
+[3186.42s - 3214.42s]  Five jumps.

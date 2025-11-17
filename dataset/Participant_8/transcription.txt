@@ -1,0 +1,91 @@
+[0.00s - 2.00s]  Five jumps.
+[30.00s - 32.00s]  Waving.
+[32.00s - 34.00s]  Hands on the waist.
+[34.00s - 36.00s]  Walking.
+[36.00s - 38.00s]  Sitting down on the chair in front of the table.
+[38.00s - 40.00s]  Working on the laptop.
+[51.76s - 67.16s]  Standing up, picking up the laptop in the hands.
+[67.16s - 73.44s]  Picking up the phone in the other hand. Walking towards the bed. Sitting on the
+[73.44s - 81.24s]  bed. Using laptop while sitting in the bed.
+[223.44s - 241.44s]  Standing up, picking up the laptop in the other hand. Walking towards the bed.
+[269.44s - 295.36s]  Standing up, placing the laptop on the floor. Sleeping in the bed and using
+[295.36s - 300.36s]  phone in the left hand, right hand.
+[325.36s - 355.24s]  Adjusting legs in the bed. Sleeping straight on the back with
+[355.24s - 358.24s]  the phone in the left hand.
+[415.24s - 555.24s]  Sleeping straight on the back with the phone in the left hand.
+[555.24s - 567.24s]  Raising the hands above the head with the phone in the hand. And typing on the phone.
+[567.24s - 595.24s]  Taking it to the right side.
+[623.24s - 651.24s]  Getting up from the bed. Sitting on the corner of the bed.
+[651.24s - 663.24s]  Standing up.
+[663.24s - 683.24s]  Picking up the weight bar. Doing exercise lifting the weight bar up.
+[683.24s - 693.24s]  Raising it above the head and behind the head.
+[693.24s - 717.24s]  Placing the bar back onto the floor.
+[717.24s - 724.24s]  Walking towards the shelf. Picking up the cola can. Picking up the glass from the table.
+[724.24s - 735.24s]  Placing both of them on the high table.
+[735.24s - 747.24s]  Pouring the soda into the glass.
+[747.24s - 758.24s]  Closing the soda bottle. Placing the soda bottle back into the shelf.
+[758.24s - 762.24s]  Walking.
+[762.24s - 768.24s]  Pulling the chair. Sitting onto the chair.
+[768.24s - 773.24s]  Walking. Picking up the laptop from the floor.
+[773.24s - 779.24s]  Placing the laptop on the high table.
+[779.24s - 790.24s]  Sitting on the tall chair.
+[790.24s - 798.24s]  Drinking the cola.
+[798.24s - 822.24s]  Typing on the laptop.
+[822.24s - 1026.24s]  Drinking cola While typing on the laptop.
+[1026.24s - 1055.24s]  Typing on the laptop.
+[1055.24s - 1063.24s]  Drinking cola.
+[1063.24s - 1073.24s]  Placing the glass back onto the table.
+[1073.24s - 1097.24s]  Typing on the laptop. 
+[1097.24s - 1114.24s]  Drinking cola.
+[1114.24s - 1142.24s]  Resting hands on the high table while watching something on the laptop.
+[1142.24s - 1170.24s]  Drinking cola.
+[1186.24s - 1213.24s]  Typing on the laptop.
+[1213.24s - 1241.24s]  Drinking cola.
+[1241.24s - 1860.24s]  Typing on the laptop.
+[1860.24s - 1885.24s]  Pouring more water into the watering can.
+[1892.24s - 1896.24s]  Closing the water bottle.
+[1896.24s - 1925.24s]  Walking towards the water, watering towards the plant, watering the plant.
+[1925.24s - 1941.24s]  Placing the watering can back onto the shelf.
+[1941.24s - 1949.24s]  Picking up the dumbbell in the right hand.
+[1949.24s - 1957.24s]  Doing muscle curls with the dumbbell.
+[1957.24s - 1970.24s]  Shifting hands, doing muscle curls with the left hand.
+[1970.24s - 1979.24s]  Back to the right hand.
+[1979.24s - 1984.24s]  Left hand, muscle curls.
+[1984.24s - 1989.24s]  Placing the barbell back onto the floor.
+[1989.24s - 1991.24s]  Walking towards the bed.
+[1991.24s - 1994.24s]  Sitting on the corner of the bed.
+[1994.24s - 2000.24s]  Resting on the bed with back.
+[2000.24s - 2028.24s]  And using the right hand to use the phone.
+[2313.24s - 2332.24s]  Getting up from the bed.
+[2332.24s - 2334.24s]  Walking towards the high table.
+[2334.24s - 2338.24s]  Sitting on the tall chair.
+[2338.24s - 2342.24s]  Fixing the shirt.
+[2342.24s - 2371.24s]  Typing on the laptop.
+[2702.24s - 2722.24s]  Walking.
+[2722.24s - 2730.24s]  Walking around searching for the phone.
+[2730.24s - 2745.24s]  Picking up the cube from the shelf.
+[2745.24s - 2767.24s]  Walking.
+[2767.24s - 2774.24s]  Trying to solve the 3D puzzle.
+[2774.24s - 2781.24s]  Placing the puzzle back onto the shelf.
+[2781.24s - 2783.24s]  Walking around the room.
+[2783.24s - 2792.24s]  Stretching arms about the head.
+[2792.24s - 2796.24s]  Stretching arms from above the head to left to right.
+[2796.24s - 2803.24s]  Moving the head and the neck.
+[2803.24s - 2811.24s]  Reaching for the toes.
+[2811.24s - 2832.24s]  Standing up straight. Reaching arms above the head.
+[2832.24s - 2839.24s]  Walking towards the high table. Sitting down in the tall chair.
+[2839.24s - 2868.24s]  Acting as though he has a call and holding the phone to the ear.
+[2868.24s - 2897.24s]  Walking.
+[2897.24s - 2926.24s]  Typing on the laptop while acting as though on a call.
+[2926.24s - 2942.24s]  Typing on the laptop.
+[2942.24s - 2950.24s]  Putting the phone down. Standing up from the chair.
+[2950.24s - 2958.24s]  Walking towards the shelf. Picking up the watering can.
+[2958.24s - 2981.24s]  Placing it on the coffee table. Filling the watering can with water.
+[2981.24s - 2996.24s]  Watering the plant.
+[2996.24s - 3025.24s]  Spraying the plant with water.
+[3025.24s - 3032.24s]  Placing the can back onto the shelf.
+[3032.24s - 3038.24s]  Picking up a book from the shelf.
+[3038.24s - 3061.24s]  Sitting on the tall chair flipping through the pages of the book.
+[3061.24s - 3066.24s]  Standing up from the chair closing the book.
+[3066.24s - 3074.24s]  Placing the book back onto the shelf.
+[3074.24s - 3081.24s]  Five jumps.

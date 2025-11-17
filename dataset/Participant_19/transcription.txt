@@ -1,0 +1,311 @@
+[0.00s - 2.00s]  Jumping five times.
+[13.20s - 16.20s]  Walking in a circle.
+[18.20s - 19.20s]  Pointing.
+[21.20s - 22.20s]  Scratching nose.
+[24.70s - 25.70s]  Turning around.
+[30.70s - 33.70s]  Standing, turning head.
+[34.70s - 36.70s]  Walking towards table.
+[39.70s - 40.70s]  Sitting down.
+[41.70s - 42.70s]  Adjusting chair.
+[44.70s - 47.70s]  Drinking coffee from cup.
+[60.20s - 61.20s]  Putting cup down.
+[61.70s - 62.70s]  Drinking again.
+[64.70s - 65.70s]  Putting cup down.
+[66.20s - 68.20s]  Grabbing headphones to the side.
+[69.20s - 70.20s]  Standing up.
+[71.20s - 72.20s]  Turning around.
+[72.70s - 73.70s]  Walking.
+[78.20s - 79.20s]  Grabbing plate.
+[80.20s - 81.20s]  And drink.
+[81.70s - 82.70s]  Walking.
+[87.20s - 89.20s]  Arranging stuff on the table.
+[90.70s - 91.70s]  Sitting down.
+[97.70s - 98.70s]  Assembling salad.
+[150.70s - 152.70s]  Taking knife and fork.
+[154.70s - 155.70s]  Mixing salad.
+[180.70s - 182.70s]  Checking phone.
+[185.70s - 187.70s]  Writing text message.
+[187.70s - 197.70s]  Checking phone.
+[197.70s - 214.70s]  Writing text message.
+[214.70s - 218.70s]  Putting phone down.
+[218.70s - 220.70s]  Coming closer to the table.
+[220.70s - 222.70s]  Picking up fork and knife.
+[222.70s - 228.70s]  Eating salad.
+[228.70s - 232.70s]  Adjusting left foot sensor.
+[258.70s - 286.70s]  Putting feet down.
+[286.70s - 288.70s]  Sitting.
+[288.70s - 291.70s]  Eating salad.
+[291.70s - 294.70s]  Putting cup to the side.
+[294.70s - 298.70s]  Coming closer to the table.
+[298.70s - 308.70s]  Eating salad.
+[308.70s - 312.70s]  Checking screen.
+[312.70s - 341.70s]  Continue eating.
+[341.70s - 351.70s]  Using mouse pad, trackpad of laptop.
+[351.70s - 354.70s]  Checking sensors.
+[354.70s - 383.70s]  Continue eating.
+[383.70s - 410.70s]  Drinking from soda can.
+[410.70s - 422.70s]  Continue eating.
+[512.70s - 539.70s]  Drinking from soda can.
+[539.70s - 566.70s]  Continue eating.
+[566.70s - 593.70s]  Drinking from soda can.
+[593.70s - 608.70s]  Continue eating.
+[608.70s - 637.70s]  Drinking from soda can.
+[637.70s - 644.70s]  Looking behind.
+[644.70s - 700.70s]  Eating.
+[700.70s - 720.70s]  Drinking from soda can.
+[720.70s - 749.70s]  Continue eating.
+[749.70s - 775.70s]  Drinking from soda can.
+[775.70s - 802.70s]  Continue eating.
+[802.70s - 851.70s]  Drinking from soda can.
+[851.70s - 854.70s]  Continue eating.
+[854.70s - 856.70s]  Taking coffee mug.
+[856.70s - 859.70s]  Drinking coffee.
+[859.70s - 861.70s]  Putting mug down.
+[861.70s - 863.70s]  Drinking again.
+[863.70s - 871.70s]  Putting mug down.
+[871.70s - 875.70s]  Clean up table.
+[875.70s - 880.70s]  Collecting salad trash.
+[880.70s - 884.70s]  Cleaning mouth with tissue.
+[884.70s - 885.70s]  Folding tissue.
+[885.70s - 889.70s]  Put it on the table.
+[889.70s - 894.70s]  Standing up.
+[894.70s - 896.70s]  Turning around.
+[896.70s - 900.70s]  Walking.
+[900.70s - 904.70s]  Turning 90 degrees.
+[904.70s - 906.70s]  Standing.
+[906.70s - 908.70s]  Bending forward.
+[908.70s - 912.70s]  Picking up barbell.
+[912.70s - 946.70s]  Biceps curls.
+[946.70s - 968.70s]  Putting barbell down.
+[968.70s - 972.70s]  picking up a  pillow.
+[972.70s - 977.70s]  Sitting on bed.
+[977.70s - 987.70s]  Laying down.
+[987.70s - 998.70s]  Rolling to the right side.
+[998.70s - 1006.70s]  Rolling to the left side.
+[1006.70s - 1013.70s]  Putting pillow under head.
+[1013.70s - 1019.70s]  Sitting on bed.
+[1019.70s - 1023.70s]  Standing up from bed.
+[1023.70s - 1030.70s]  Walking towards table.
+[1030.70s - 1033.70s]  cleaning salad trash.
+[1033.70s - 1035.70s]  Turning around.
+[1035.70s - 1042.70s]  Walking.
+[1042.70s - 1046.70s]  Throwing trash.
+[1046.70s - 1049.70s]  Adjusting Left foot sensor.
+[1076.70s - 1078.70s]  Standing up.
+[1078.70s - 1084.70s]  Walking.
+[1084.70s - 1090.70s]  Taking tape.
+[1090.70s - 1094.70s]  Unrolling tape.
+[1094.70s - 1097.70s]  Putting tape down.
+[1097.70s - 1126.70s]  Fixing left foot sensor with additional tape.
+[1126.70s - 1131.70s]  Taking magazine from shelf.
+[1131.70s - 1136.70s]  Going through magazine.
+[1136.70s - 1163.70s]  Turning pages.
+[1163.70s - 1165.70s]  Closing magazine.
+[1165.70s - 1167.70s]  Put it back in shelf.
+[1167.70s - 1169.70s]  Picking up book.
+[1169.70s - 1171.70s]  Looking around.
+[1171.70s - 1173.70s]  Opening book.
+[1173.70s - 1181.70s]  Turning pages.
+[1181.70s - 1185.70s]  Looking to the right side.
+[1185.70s - 1193.70s]  Turning pages.
+[1193.70s - 1195.70s]  Closing book.
+[1195.70s - 1199.70s]  Putting it back in shelf.
+[1199.70s - 1205.70s]  Grabbing syrup from the top shelf.
+[1205.70s - 1207.70s]  Turning around.
+[1207.70s - 1212.70s]  Walking.
+[1212.70s - 1215.70s]  Putting syrup on high table.
+[1215.70s - 1218.70s]  Picking up water bottle from table.
+[1218.70s - 1223.70s]  Opening.
+[1223.70s - 1237.70s]  Pouring water into glass.
+[1237.70s - 1239.70s]  Closing water bottle.
+[1239.70s - 1241.70s]  Putting water bottle down.
+[1241.70s - 1243.70s]  Taking syrup.
+[1243.70s - 1245.70s]  Opening syrup.
+[1245.70s - 1251.70s]  Putting syrup into water glass.
+[1251.70s - 1253.70s]  Closing syrup.
+[1253.70s - 1257.70s]  Putting it on the table.
+[1257.70s - 1264.70s]  Swirling the glass around.
+[1264.70s - 1268.70s]  To mix.
+[1268.70s - 1270.70s]  Picking up the glass.
+[1270.70s - 1275.70s]  Drinking from the glass.
+[1275.70s - 1279.70s]  Drinking again.
+[1279.70s - 1283.70s]  Putting glass down.
+[1283.70s - 1284.70s]  Turning around.
+[1284.70s - 1290.70s]  Walking.
+[1290.70s - 1294.70s]  Sitting down.
+[1294.70s - 1296.70s]  Picking up coffee mug.
+[1296.70s - 1301.70s]  Drinking coffee.
+[1301.70s - 1305.70s]  Putting cup down.
+[1305.70s - 1311.70s]  Taking paper book.
+[1311.70s - 1325.70s]  Making space on the table.
+[1325.70s - 1331.70s]  Opening paper book.
+[1331.70s - 1341.70s]  Turning pages.
+[1341.70s - 1349.70s]  Taking pen.
+[1349.70s - 1713.70s]  Drawing.
+[1893.70s - 1910.78s]  Standing up from the chair.
+[1910.78s - 1913.78s]  Closing laptop.
+[1913.78s - 1916.70s]  Opening.
+[1916.70s - 1921.94s]  Walking.
+[1921.94s - 1926.94s]  Collecting key from table.
+[1926.94s - 1929.94s]  Putting key into backpack.
+[1929.94s - 1935.94s]  Opening backpack.
+[1935.94s - 1940.94s]  Closing backpack.
+[1940.94s - 1943.94s]  Drinking soda from can.
+[1943.94s - 1949.94s]  Putting can into backpack.
+[1949.94s - 1953.94s]  Putting headphones into backpack.
+[1953.94s - 1956.94s]  Putting backpack down.
+[1956.94s - 1959.94s]  Walking.
+[1959.94s - 1961.94s]  Throwing trash.
+[1961.94s - 1968.94s]  Walking.
+[1968.94s - 1970.94s]  Taking cup of coffee.
+[1970.94s - 1973.94s]  Putting it down.
+[1973.94s - 1975.94s]  Closing pen.
+[1975.94s - 1981.94s]  Putting laptop down.
+[1981.94s - 1987.94s]  Checking my phone.
+[1987.94s - 1990.94s]  Removing tape from table.
+[1990.94s - 1992.94s]  Walking towards shelf.
+[1992.94s - 1994.94s]  Putting tape into shelf.
+[1994.94s - 1998.94s]  Walking.
+[1998.94s - 2000.94s]  Taking syrup from high table.
+[2000.94s - 2004.94s]  Walking.
+[2004.94s - 2014.94s]  Putting it into shelf.
+[2014.94s - 2020.94s]  Walking.
+[2020.94s - 2022.94s]  Taking soda can.
+[2022.94s - 2026.94s]  Walking.
+[2026.94s - 2028.94s]  Putting soda can on the table.
+[2028.94s - 2031.94s]  Walking.
+[2031.94s - 2036.94s]  Taking billiard table from shelf.
+[2036.94s - 2038.94s]  Putting it on the table.
+[2038.94s - 2045.94s]  Sitting down.
+[2045.94s - 2048.94s]  Assembling billiard.
+[2075.94s - 2085.94s]  Coffee.
+[2085.94s - 2089.94s]  Playing billiard.
+[2115.94s - 2144.94s]  Organizing billiard game again.
+[2144.94s - 2146.94s]  Picking it up from table.
+[2146.94s - 2148.94s]  Standing up.
+[2148.94s - 2149.94s]  Turning around.
+[2149.94s - 2151.94s]  Walking.
+[2151.94s - 2155.94s]  Putting billiard into shelf.
+[2155.94s - 2156.94s]  Turning around.
+[2156.94s - 2161.94s]  Walking.
+[2161.94s - 2167.94s]  Picking up 20 kg ball.
+[2167.94s - 2173.94s]  Pushing it above head.
+[2173.94s - 2196.94s]  10 times.
+[2196.94s - 2198.94s]  Putting it down.
+[2198.94s - 2203.94s]  Walking.
+[2203.94s - 2209.94s]  Adjusting right leg sensor.
+[2209.94s - 2212.94s]  Getting dumbbells.
+[2212.94s - 2214.94s]  Walking.
+[2214.94s - 2221.94s]  Turning.
+[2221.94s - 2225.94s]  Dumbbell side shoulder raises.
+[2251.94s - 2272.94s]  Putting dumbbells down.
+[2272.94s - 2278.94s]  Walking.
+[2278.94s - 2284.94s]  Sitting down.
+[2284.94s - 2299.94s]  Using laptop.
+[2299.94s - 2301.94s]  Standing up.
+[2301.94s - 2309.94s]  Walking.
+[2309.94s - 2314.94s]  Sitting on high chair.
+[2314.94s - 2317.94s]  Picking up water bottle.
+[2317.94s - 2321.94s]  Picking up water glass.
+[2321.94s - 2325.94s]  Drinking water.
+[2325.94s - 2327.94s]  Putting glass down.
+[2327.94s - 2331.94s]  Drinking.
+[2331.94s - 2337.94s]  Putting glass down.
+[2337.94s - 2338.94s]  Standing up.
+[2338.94s - 2343.94s]  Walking.
+[2343.94s - 2346.94s]  Bending down.
+[2346.94s - 2352.94s]  Turning fan on.
+[2352.94s - 2369.94s]  Trying different settings.
+[2369.94s - 2374.94s]  Standing up.
+[2374.94s - 2380.94s]  Walking.
+[2380.94s - 2381.94s]  Turning around.
+[2381.94s - 2388.94s]  Walking.
+[2388.94s - 2391.94s]  Grabbing spray water.
+[2391.94s - 2394.94s]  Walking.
+[2394.94s - 2400.94s]  Spraying spray water.
+[2400.94s - 2409.94s]  Putting bottle back into the shelf.
+[2409.94s - 2413.94s]  Picking up utensil box from shelf.
+[2413.94s - 2418.94s]  Checking utensils.
+[2418.94s - 2420.94s]  Putting box on table.
+[2420.94s - 2427.94s]  Sitting down.
+[2427.94s - 2430.94s]  Taking pencil sharpener.
+[2430.94s - 2441.94s]  Sharpening pencil.
+[2441.94s - 2445.94s]  Taking paper book.
+[2445.94s - 2485.94s]  Drawing with pencil.
+[2485.94s - 2513.94s]  Erasing with pencil eraser.
+[2513.94s - 2516.94s]  Putting pencil back into box.
+[2516.94s - 2522.94s]  Picking up scissors.
+[2522.94s - 2527.94s]  Removing page from box.
+[2527.94s - 2532.94s]  Moving it to the side.
+[2532.94s - 2539.94s]  Cutting paper with scissors.
+[2539.94s - 2541.94s]  Putting scissors down.
+[2541.94s - 2543.94s]  Grabbing other scissors.
+[2543.94s - 2547.94s]  Cutting paper with scissors.
+[2547.94s - 2550.94s]  Moving it to the side.
+[2550.94s - 2564.94s]  Cutting paper with scissors.
+[2564.94s - 2566.94s]  Putting scissors down.
+[2566.94s - 2568.94s]  Grabbing other scissors.
+[2568.94s - 2597.94s]  Cutting paper with scissors.
+[2597.94s - 2616.94s]  Picking up stationary box.
+[2689.94s - 2708.94s]  Standing up.
+[2708.94s - 2710.94s]  Walking.
+[2710.94s - 2713.94s]  Turning off fan.
+[2713.94s - 2716.94s]  Walking.
+[2716.94s - 2719.94s]  Sitting down.
+[2719.94s - 2724.94s]  Adjusting right leg sensor.
+[2724.94s - 2730.94s]  Moving closer to the table.
+[2730.94s - 2759.94s]  Cutting paper with scissors.
+[2759.94s - 2775.94s]  Standing up.
+[2775.94s - 2779.94s]  Picking up tape from shelf.
+[2779.94s - 2782.94s]  Unrolling tape.
+[2782.94s - 2784.94s]  Putting tape back.
+[2784.94s - 2791.94s]  Fixing right leg sensor with tape.
+[2791.94s - 2794.94s]  Turning around.
+[2794.94s - 2795.94s]  Looking around.
+[2795.94s - 2797.94s]  Walking.
+[2797.94s - 2807.94s]  Collecting paper from table.
+[2807.94s - 2811.94s]  Crushing paper.
+[2811.94s - 2825.94s]  Organizing desk.
+[2825.94s - 2827.94s]  Walking.
+[2827.94s - 2829.94s]  Picking up tape.
+[2829.94s - 2832.94s]  Unrolling tape.
+[2832.94s - 2841.94s]  Fixing right leg sensor.
+[2841.94s - 2843.94s]  Turning around.
+[2843.94s - 2845.94s]  Walking.
+[2845.94s - 2851.94s]  Organizing desk.
+[2851.94s - 2853.94s]  Picking up box.
+[2853.94s - 2854.94s]  Walking.
+[2854.94s - 2860.94s]  Putting box into shelf.
+[2860.94s - 2866.94s]  Walking.
+[2866.94s - 2875.94s]  Organizing desk.
+[2875.94s - 2880.94s]  Walking.
+[2880.94s - 2882.94s]  Throwing trash.
+[2882.94s - 2890.94s]  Walking.
+[2890.94s - 2903.94s]  Organizing desk.
+[2903.94s - 2906.94s]  Walking.
+[2906.94s - 2922.94s]  Putting food into backpack.
+[2922.94s - 2925.94s]  Closing backpack.
+[2925.94s - 2927.94s]  Putting backpack down.
+[2927.94s - 2929.94s]  Walking.
+[2929.94s - 2932.94s]  Collecting plate from table.
+[2932.94s - 2934.94s]  Collecting mug from table.
+[2934.94s - 2937.94s]  Walking.
+[2937.94s - 2940.94s]  Putting mug and plate on high table.
+[2940.94s - 2945.94s]  Walking.
+[2945.94s - 2951.94s]  Collecting pan.
+[2951.94s - 2954.94s]  Organizing desk.
+[2954.94s - 2966.94s]  Checking phone.
+[2966.94s - 2973.94s]  Putting phone down.
+[2973.94s - 2977.94s]  Walking.
+[2977.94s - 2981.94s]  Sitting down.
+[2981.94s - 2984.94s]  Coming closer to the table.
+[2984.94s - 2995.94s]  Resting head on table.
+[2995.94s - 3005.94s]  Sitting straight.
+[3005.94s - 3010.94s]  Breaking knuckles.
+[3038.94s - 3056.94s]  Resting arms on table.
+[3056.94s - 3059.94s]  Looking around.
+[3059.94s - 3088.94s]  Checking phone.
+[3088.94s - 3093.94s]  Turning head.
+[3093.94s - 3103.94s]  Standing up.
+[3103.94s - 3107.94s]  Standing straight.
+[3107.94s - 3111.94s]  Jumping five times.

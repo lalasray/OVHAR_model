@@ -1,0 +1,100 @@
+[0.00s - 3.60s]  jumping five times
+[12.00s - 16.16s]  walking across the room
+[23.60s - 27.64s]  putting hands on the waist
+[30.00s - 37.04s]  walking with hands on the waist
+[60.00s - 64.04s]  opening the water bottle on the high table
+[67.48s - 72.04s]  pouring water into a glass
+[78.88s - 82.92s]  closing the water bottle
+[83.16s - 88.24s]  pushing the chair and sitting in the high chair
+[91.00s - 95.04s]  taking a sip of water from the glass
+[104.40s - 107.84s]  putting the glass on the table
+[108.40s - 112.16s]  raising hands in the air
+[120.00s - 129.04s]  doing muscle ups with the dumbbells
+[150.00s - 155.04s]  placing the dumbbells back on the floor
+[155.04s - 158.04s]  fixing t-shirt
+[158.04s - 161.04s]  getting into a squat position
+[161.04s - 164.04s]  squatting on the knees
+[180.00s - 186.04s]  walking
+[186.04s - 189.04s]  adjusting the sofa chair
+[189.04s - 192.04s]  sitting on the sofa chair
+[192.04s - 196.04s]  reaching for phone from the pocket
+[196.04s - 202.04s]  typing on the phone
+[210.00s - 283.04s]  sitting with one leg over the other
+[283.08s - 288.12s]  watching a video on the phone
+[313.12s - 324.12s]  putting the left leg back down
+[336.12s - 339.12s]  putting the phone on the table
+[339.12s - 342.12s]  standing up
+[342.16s - 345.16s]  walking
+[345.16s - 348.16s]  standing next to the table
+[348.16s - 351.16s]  checking time
+[351.16s - 354.16s]  on a wrist watch
+[360.16s - 363.16s]  walking
+[363.16s - 367.16s]  taking something from the stand
+[367.16s - 370.16s]  walking
+[372.16s - 375.16s]  sitting on the sofa
+[375.16s - 378.16s]  opening a book
+[378.16s - 381.16s]  flipping through the pages
+[381.16s - 649.16s]  Reading the book.
+[649.16s - 667.16s]  Closing the book.
+[667.16s - 671.16s]  Places the book on the table.
+[671.16s - 675.16s]  Stands up.
+[675.16s - 677.16s]  Walking.
+[677.16s - 689.16s]  Stops.
+[689.16s - 691.16s]  Moves to the shelf.
+[691.16s - 693.16s]  picks up the chessboard.
+[693.16s - 699.16s]  Stands on the sofa chair.
+[699.16s - 703.16s]  Places it on the table.
+[703.16s - 707.16s]  Moves something from the table.
+[707.16s - 717.16s]  Opens up the chess set.
+[717.16s - 737.16s]  Takes out the chess pieces.
+[737.16s - 747.16s]  Flips over the chessboard.
+[747.16s - 857.16s]  Places the chess pieces on the chessboard.
+[857.16s - 871.16s]  picks up a chess piece fallen down.
+[871.16s - 883.16s]  Types on the phone to open a chess application.
+[883.16s - 887.16s]  Walks to the table.
+[887.16s - 899.16s]  Types something on the laptop.
+[899.16s - 903.16s]  Types on the phone.
+[903.16s - 917.16s]  Goes back to typing on the laptop.
+[917.16s - 925.16s]  Sits on the sofa.
+[925.16s - 935.16s]  Types on the phone.
+[935.16s - 939.16s]  Places the phone on the table.
+[939.16s - 943.16s]  And starts the game of chess.
+[999.16s - 1019.16s]  Types on the phone.
+[1889.16s - 1917.40s]  Checking the watch.
+[1917.90s - 1945.40s]  walking, fixing t-shirt, walking, turning around, checking pockets for a wallet, placing the wallet on the table,
+[1945.40s - 1967.40s]  looking for the phone in the pockets, walking around the room searching for the phone, picking the phone up from the table, walking towards the bed, sitting on the bed, checking the phone, scrolling on the phone.
+[1975.40s - 1998.40s]  placing the pillow on the bed, laying down on the bed with facing the right hand side.
+[2005.40s - 2034.40s]  scrolling on the phone using the right hand.
+[2035.40s - 2064.40s]  turning to lay on the back, crossing the feet.
+[2065.40s - 2494.40s]  scrolling on the phone using the left hand.
+[2494.40s - 2509.40s]  putting phone in the pocket and getting up off the bed.
+[2509.40s - 2529.40s]  walking, opening the water bottle on the table, pouring water into the wine glass.
+[2529.40s - 2543.40s]  closing the water bottle, drinking water while standing.
+[2543.40s - 2562.40s]  placing the glass back on the table, walking.
+[2562.40s - 2591.40s]  picking up the waves, doing lateral waves.
+[2592.40s - 2621.40s]  putting the dumbbells back onto the floor.
+[2621.40s - 2636.40s]  walking, picking up something from the lower shelf.
+[2636.40s - 2651.40s]  walking, spraying the plant with some water.
+[2651.40s - 2662.40s]  walking, placing the thing back into the shelf.
+[2662.40s - 2691.40s]  picking up a 3D puzzle, sitting on the sofa chair, attempting to solve the 3D puzzle.
+[2691.40s - 2701.40s]  resting my elbows on knees.
+[2701.40s - 2730.40s]  meditating
+[2760.40s - 2789.40s]  walking, sitting on the sofa chair, attempting to solve the 3D puzzle.
+[2789.40s - 2809.40s]  putting the puzzle on the table, standing up, walking.
+[2809.40s - 2824.40s]  walking back, sitting cross-legged on the mat.
+[2824.40s - 2853.40s]  doing stretches for the neck exercise.
+[2853.40s - 2958.40s]  stretching back.
+[2958.40s - 2962.40s]  standing up from the yoga mat.
+[2962.40s - 2986.40s]  doing jumping jacks.
+[2986.40s - 2992.40s]  walking.
+[2992.40s - 2994.40s]  adjusting the chair.
+[2994.40s - 2999.40s]  sitting on the sofa chair.
+[2999.40s - 3002.40s]  removing the phone from the pocket.
+[3059.40s - 3074.40s]  walking with phone in hand.
+[3074.40s - 3079.40s]  adjusting jeans.
+[3079.40s - 3087.40s]  opening the blinds.
+[3087.40s - 3100.40s]  closing the blinds.
+[3100.40s - 3110.40s]  walking.
+[3110.40s - 3114.40s]  checking for phone in the pocket.
+[3114.40s - 3115.40s]  putting the phone in the front pocket.
+[3115.40s - 3119.40s]  jumping five times.

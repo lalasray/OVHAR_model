@@ -1,0 +1,125 @@
+[0.00s - 15.00s]  5 jumps
+[15.00s - 25.00s]  Adjusting the foot sensor, both the feet sensor
+[45.00s - 69.00s]  Walking, picking up a book, sitting on the chair, reading a book
+[75.00s - 104.00s]  Getting up from the chair, adjusting it and sitting on the chair
+[105.00s - 114.00s]  Sitting in a different position, flipping over the pages on the table
+[114.00s - 143.00s]  Taking a pen, writing on a piece of paper
+[144.00s - 156.00s]  Writing on a piece of paper
+[156.00s - 160.00s]  Cut
+[186.00s - 343.00s]  Writing on a piece of paper
+[343.00s - 371.00s]  Picking up a book, standing up from the chair, walking, sitting on the bed, laying down, reading a book
+[563.00s - 577.00s]  Getting up from the bed, walking
+[577.00s - 583.00s]  Standing in front of the table
+[583.00s - 608.00s]  Walking
+[608.00s - 633.00s]  Picking up the chess box from the table, placing it on the table
+[633.00s - 653.00s]  Taking the pieces out from the box
+[653.00s - 673.00s]  Arranging the chess pieces on the chessboard
+[744.00s - 771.00s]  Playing chess
+[798.00s - 824.00s]  Standing up, placing the chair back underneath the table, walking, standing, walking
+[824.00s - 834.00s]  Opening their bottle of water, pouring their water into a glass
+[834.00s - 856.00s]  Closing the water bottle, drinking water
+[856.00s - 885.00s]  Walking
+[885.00s - 906.00s]  Picking up the 20kg ball of waste, walking around with the ball
+[906.00s - 923.00s]  Placing the ball back into its place, walking around
+[923.00s - 935.00s]  Looking around for something to do
+[935.00s - 957.00s]  Searching for a watering can, picking up the water bottle, opening the water bottle, pouring water directly into the pot
+[957.00s - 967.00s]  Placing the water bottle on the high table, walking
+[967.00s - 977.00s]  Picking up the mini pool table, placing it on the table
+[977.00s - 1005.00s]  Sitting down on the chair, playing mini pool
+[1005.00s - 1025.00s]  Picking up the mini pool table
+[1071.00s - 1099.00s]  Using the phone on the table
+[1101.00s - 1127.00s]  Standing up
+[1127.00s - 1147.00s]  Turning on the computer
+[1147.00s - 1153.00s]  Typing on the computer
+[1153.00s - 1163.00s]  Turning off the computer, standing up
+[1163.00s - 1174.00s]  Picking up the watering can, placing it back onto the shelf
+[1174.00s - 1179.00s]  Walking
+[1179.00s - 1187.00s]  Picking up a fallen piece
+[1187.00s - 1202.00s]  Ruffling through papers on the desk
+[1202.00s - 1205.00s]  Walking
+[1205.00s - 1210.00s]  Picking up the puzzle
+[1210.00s - 1215.00s]  Sitting on the chair
+[1215.00s - 1219.00s]  Arranging the papers on the table
+[1219.00s - 1223.00s]  Attempting to solve the 3D puzzle
+[1249.00s - 1253.00s]  Picking up the puzzle
+[1317.00s - 1323.00s]  Standing up, walking
+[1323.00s - 1328.00s]  Sitting on the small sofa table
+[1328.00s - 1345.00s]  Cutting the watermelon
+[1345.00s - 1350.00s]  Standing up
+[1350.00s - 1357.00s]  Taking a bowl from the shelf, placing it on the table and sitting down
+[1357.00s - 1381.00s]  Back to cutting the watermelon
+[1387.00s - 1407.00s]  Cutting the watermelon
+[1407.00s - 1432.00s]  Eating the watermelon
+[1432.00s - 1455.00s]  Cutting the watermelon
+[1507.00s - 1517.00s]  Picking up the cocktail glass from the shelf, placing it on the coffee table
+[1517.00s - 1526.00s]  Picking up other instruments from the shelf, placing it on the coffee table
+[1526.00s - 1535.00s]  Arranging stuff on the coffee table, walking to the high table, picking up the water
+[1535.00s - 1540.00s]  Placing the water bottle on the table
+[1540.00s - 1544.00s]  Attempting to prepare a cocktail
+[1565.00s - 1590.00s]  Cutting the watermelon
+[1612.00s - 1640.00s]  Smashing the watermelon with the right hand
+[1640.00s - 1669.00s]  Adding water
+[1669.00s - 1678.00s]  Adding the cocktail mix
+[1678.00s - 1686.00s]  Smashing the new mixture
+[1686.00s - 1691.00s]  Walking to the shelf
+[1691.00s - 1696.00s]  Sitting back onto the sofa chair
+[1696.00s - 1700.00s]  Adding water
+[1700.00s - 1704.00s]  Closing the water bottle
+[1704.00s - 1712.00s]  Smashing the watermelons
+[1712.00s - 1716.00s]  Placing the smashing equipment on the table
+[1716.00s - 1719.00s]  Covering the glass
+[1719.00s - 1746.00s]  Draining the liquid out into another glass
+[1746.00s - 1768.00s]  Walking while sipping cocktail
+[1768.00s - 1792.00s]  Sitting down in the chair
+[1792.00s - 1820.00s]  Taking a piece of paper and a pen, writing on the paper
+[1880.00s - 1909.00s]  Writing on the paper
+[1909.00s - 1936.00s]  Drinking the cocktail
+[1936.00s - 1960.00s]  Drawing
+[2008.00s - 2035.00s]  Drinking cocktail
+[2035.00s - 2051.00s]  Wiping the face, standing up from the chair
+[2051.00s - 2072.00s]  Picking up a piece of paper, reading it
+[2072.00s - 2077.00s]  Placing the paper back onto the table, picking up the phone
+[2077.00s - 2081.00s]  Walking and using the phone
+[2107.00s - 2136.00s]  Placing the phone on the table
+[2136.00s - 2163.00s]  Doing push-ups on the mat
+[2166.00s - 2190.00s]  Standing up
+[2190.00s - 2202.00s]  Walking, drinking the cocktail
+[2202.00s - 2208.00s]  Placing the glass on the high table, picking up the water bottle from the coffee table
+[2208.00s - 2214.00s]  Opening the water bottle, pouring the water into the glass
+[2214.00s - 2219.00s]  Closing the water bottle, placing it on the high table
+[2219.00s - 2248.00s]  Picking up the glass and drinking it
+[2248.00s - 2261.00s]  Walking, standing in front of the table
+[2261.00s - 2268.00s]  Reading the instructions on the laptop
+[2268.00s - 2284.00s]  Drinking the water
+[2284.00s - 2288.00s]  Picking up a book from the shelf
+[2288.00s - 2293.00s]  Walking
+[2293.00s - 2297.00s]  Sitting on the bed
+[2297.00s - 2300.00s]  Laying down
+[2300.00s - 2303.00s]  Reading the book
+[2303.00s - 2307.00s]  With legs in a crossed position
+[2333.00s - 2356.00s]  Focusing on the foot
+[2356.00s - 2360.00s]  Shifting the legs
+[2360.00s - 2374.00s]  Fixing the sensor on the foot
+[2374.00s - 2401.00s]  Filling back in the bed and reading
+[2461.00s - 2489.00s]  Rocking the foot while laying in the bed and reading the book
+[2489.00s - 2517.00s]  Flipping the page of the book
+[2517.00s - 2546.00s]  Still rocking the legs in a crossed position while laying in the bed and reading a book
+[2546.00s - 2564.00s]  Getting up from the bed
+[2564.00s - 2593.00s]  Walk towards the shelf, place the book on the shelf
+[2639.00s - 2667.00s]  Walking
+[2667.00s - 2682.00s]  Tearing a piece of tape, attaching the tape to the sensor on the thighs
+[2682.00s - 2693.00s]  Walking
+[2693.00s - 2697.00s]  Picking up the phone
+[2697.00s - 2725.00s]  Walking while checking the phone and typing on the phone
+[2725.00s - 2754.00s]  Walking
+[2754.00s - 2771.00s]  Placing the phone on the table, walking, sitting down in the chair
+[2771.00s - 2775.00s]  Writing on the paper
+[2801.00s - 2829.00s]  Drinking water
+[2829.00s - 2858.00s]  Walking
+[2858.00s - 2862.00s]  Drinking water
+[2888.00s - 2916.00s]  Walking
+[3012.00s - 3017.00s]  Picking up the paper, placing it aside
+[3017.00s - 3044.00s]  Playing mini pool
+[3196.00s - 3225.00s]  Getting up on the chair, walking
+[3225.00s - 3235.00s]  Walking
+[3235.00s - 3255.00s]  Five jumps

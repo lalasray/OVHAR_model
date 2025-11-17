@@ -1,0 +1,230 @@
+[0.00s - 2.00s]  5 jumps.
+[2.00s - 30.00s]  Standing.
+[30.00s - 41.00s]  Looking around.
+[42.00s - 48.00s]  Pointing.
+[48.00s - 75.00s]  Walking towards the shelf.
+[75.00s - 86.00s]  Picking up the cocktail glass from the shelf.
+[86.00s - 89.00s]  Walking.
+[89.00s - 96.00s]  Placing the glass on the high table.
+[96.00s - 102.00s]  Opening the water bottle.
+[102.00s - 130.00s]  Pouring the water into the mixing glass.
+[130.00s - 138.00s]  Pouring the glass into each other.
+[138.00s - 151.00s]  Mixing the cocktail.
+[151.00s - 159.00s]  Wiping hands with the tissue.
+[159.00s - 180.00s]  Pouring the cocktail mix into another glass.
+[180.00s - 209.00s]  Drinking the cocktail.
+[209.00s - 214.00s]  Placing the glass back onto the table.
+[214.00s - 216.00s]  Walking towards the shelf.
+[216.00s - 221.00s]  Picking up the puzzle.
+[221.00s - 223.00s]  Pulling the chair out.
+[223.00s - 225.00s]  Sitting in the chair.
+[225.00s - 254.00s]  Attempting to solve the 3D puzzle.
+[255.00s - 265.00s]  Drinking the cocktail.
+[265.00s - 294.00s]  Drinking the cocktail.
+[294.00s - 323.00s]  Drinking the cocktail.
+[323.00s - 349.00s]  Drinking the cocktail.
+[349.00s - 378.00s]  Drinking the cocktail.
+[378.00s - 407.00s]  Drinking the cocktail.
+[407.00s - 436.00s]  Drinking the cocktail.
+[436.00s - 465.00s]  Drinking the cocktail.
+[465.00s - 494.00s]  Drinking the cocktail.
+[494.00s - 523.00s]  Drinking the cocktail.
+[523.00s - 552.00s]  Drinking the cocktail.
+[552.00s - 581.00s]  Drinking the cocktail.
+[581.00s - 610.00s]  Drinking the cocktail.
+[610.00s - 639.00s]  Drinking the cocktail.
+[639.00s - 668.00s]  Drinking the cocktail.
+[668.00s - 697.00s]  Drinking the cocktail.
+[698.00s - 727.00s]  Drinking the cocktail.
+[728.00s - 737.00s]  Drinking the cocktail.
+[737.00s - 739.00s]  Standing up.
+[739.00s - 741.00s]  Walking.
+[741.00s - 747.00s]  Placing the cube back into the shelf.
+[747.00s - 758.00s]  Walking.
+[758.00s - 772.00s]  Adding weights to the bubble.
+[772.00s - 798.00s]  Tightening the weights.
+[798.00s - 823.00s]  Weightlifting.
+[823.00s - 833.00s]  Placing the weights back onto the floor.
+[833.00s - 836.00s]  Checking the phone.
+[836.00s - 838.00s]  Sitting on the bed.
+[838.00s - 841.00s]  Laying down.
+[841.00s - 844.00s]  Keeping one arm under the head.
+[844.00s - 847.00s]  Bringing it back onto the phone.
+[847.00s - 852.00s]  Texting on the phone while laying on the bed.
+[877.00s - 904.00s]  Getting up from the bed.
+[904.00s - 913.00s]  Walking.
+[913.00s - 933.00s]  Doing boxing practice.
+[933.00s - 938.00s]  Walking.
+[938.00s - 948.00s]  Walking.
+[948.00s - 973.00s]  Walking.
+[973.00s - 1002.00s]  Walking.
+[1002.00s - 1011.00s]  Walking.
+[1011.00s - 1013.00s]  Keeping hands on the waist.
+[1013.00s - 1016.00s]  Back to normal position.
+[1016.00s - 1025.00s]  Doing pushups.
+[1025.00s - 1033.00s]  Standing up.
+[1033.00s - 1041.00s]  Walking around.
+[1041.00s - 1059.00s]  Drinking the cocktail.
+[1059.00s - 1081.00s]  Placing on the corner of the bed and using the phone.
+[1081.00s - 1093.00s]  Doing crunches.
+[1093.00s - 1099.00s]  Standing up.
+[1099.00s - 1109.00s]  Doing boxing practice.
+[1129.00s - 1155.00s]  Doing jumping jacks.
+[1155.00s - 1157.00s]  Walking towards the table.
+[1157.00s - 1166.00s]  Touching the laptop in a standing position.
+[1166.00s - 1169.00s]  Sitting on the chair.
+[1169.00s - 1177.00s]  Relaxing.
+[1177.00s - 1181.00s]  Rocking the chair back and forth.
+[1181.00s - 1184.00s]  Standing up.
+[1184.00s - 1186.00s]  Walking.
+[1186.00s - 1189.00s]  Picking up the phone from the bed.
+[1189.00s - 1193.00s]  Walking while phone in hands.
+[1193.00s - 1200.00s]  Placing the phone on the table.
+[1200.00s - 1202.00s]  Walking around with hands on waist.
+[1202.00s - 1213.00s]  Drinking the cocktail from the high table.
+[1213.00s - 1217.00s]  Pouring water.
+[1217.00s - 1223.00s]  Closing the water bottle.
+[1223.00s - 1248.00s]  Drinking the water.
+[1248.00s - 1265.00s]  Drinking water.
+[1265.00s - 1277.00s]  Walking.
+[1277.00s - 1280.00s]  Picking up a book from the shelf.
+[1280.00s - 1283.00s]  Walking.
+[1283.00s - 1287.00s]  Sitting on the chair.
+[1287.00s - 1294.00s]  Putting one leg over the other and reading the book in the other hand.
+[1294.00s - 1322.00s]  Drinking water.
+[1322.00s - 1351.00s]  Drinking water.
+[1351.00s - 1380.00s]  Drinking water.
+[1380.00s - 1409.00s]  Drinking water.
+[1409.00s - 1438.00s]  Drinking water.
+[1438.00s - 1467.00s]  Drinking water.
+[1467.00s - 1496.00s]  Drinking water.
+[1496.00s - 1525.00s]  Drinking water.
+[1525.00s - 1554.00s]  Drinking water.
+[1554.00s - 1583.00s]  Drinking water.
+[1583.00s - 1612.00s]  Drinking water.
+[1612.00s - 1641.00s]  Drinking water.
+[1641.00s - 1670.00s]  Drinking water.
+[1670.00s - 1699.00s]  Drinking water.
+[1699.00s - 1728.00s]  Drinking water.
+[1728.00s - 1757.00s]  Drinking water.
+[1757.00s - 1786.00s]  Drinking water.
+[1786.00s - 1815.00s]  Drinking water.
+[1815.00s - 1844.00s]  Drinking water.
+[1844.00s - 1856.00s]  Drinking water.
+[1856.00s - 1860.00s]  Standing up.
+[1860.00s - 1862.00s]  Walking.
+[1862.00s - 1864.00s]  Placing the book into the shelf.
+[1864.00s - 1866.00s]  Walking.
+[1866.00s - 1870.00s]  Adjusting the fan settings.
+[1871.00s - 1880.00s]  Walking.
+[1880.00s - 1899.00s]  Pouring a glass of water.
+[1899.00s - 1928.00s]  Drinking water.
+[1928.00s - 1941.00s]  Drinking water.
+[1941.00s - 1944.00s]  Picking up phone from the table.
+[1944.00s - 1955.00s]  Using the phone.
+[1955.00s - 1962.00s]  Drinking water.
+[1962.00s - 1971.00s]  Drinking water.
+[1971.00s - 1984.00s]  Drinking water.
+[1984.00s - 2013.00s]  Drinking water.
+[2013.00s - 2042.00s]  Drinking water.
+[2042.00s - 2071.00s]  Drinking water.
+[2071.00s - 2080.00s]  Drinking water.
+[2080.00s - 2100.00s]  Drinking water.
+[2100.00s - 2129.00s]  Drinking water.
+[2129.00s - 2158.00s]  Drinking water.
+[2158.00s - 2187.00s]  Drinking water.
+[2187.00s - 2216.00s]  Drinking water.
+[2216.00s - 2245.00s]  Drinking water.
+[2245.00s - 2274.00s]  Drinking water.
+[2274.00s - 2303.00s]  Drinking water.
+[2303.00s - 2332.00s]  Drinking water.
+[2332.00s - 2361.00s]  Drinking water.
+[2361.00s - 2390.00s]  Drinking water.
+[2390.00s - 2419.00s]  Drinking water.
+[2419.00s - 2448.00s]  Drinking water.
+[2448.00s - 2477.00s]  Drinking water.
+[2477.00s - 2506.00s]  Drinking water.
+[2506.00s - 2535.00s]  Drinking water.
+[2535.00s - 2564.00s]  Drinking water.
+[2564.00s - 2593.00s]  Drinking water.
+[2593.00s - 2622.00s]  Drinking water.
+[2622.00s - 2651.00s]  Drinking water.
+[2652.00s - 2655.00s]  Standing up.
+[2655.00s - 2659.00s]  Walking.
+[2659.00s - 2668.00s]  While playing with the cube in the hand.
+[2668.00s - 2672.00s]  Looking around.
+[2672.00s - 2678.00s]  Placing the cube onto the shelf.
+[2678.00s - 2680.00s]  Walking around.
+[2680.00s - 2682.00s]  Taking the phone out of the pocket.
+[2682.00s - 2687.00s]  Typing on the phone.
+[2687.00s - 2691.00s]  Putting the phone back inside the pocket.
+[2691.00s - 2698.00s]  Walking.
+[2698.00s - 2701.00s]  Touching the cursor pad of the laptop.
+[2701.00s - 2707.00s]  Walking around.
+[2707.00s - 2710.00s]  Picking up the bottle of water.
+[2710.00s - 2714.00s]  Opening the water bottle.
+[2714.00s - 2716.00s]  Watering the can.
+[2716.00s - 2718.00s]  Watering the plant.
+[2718.00s - 2721.00s]  Placing the bottle back onto the high table.
+[2721.00s - 2727.00s]  Walking.
+[2727.00s - 2730.00s]  Picking up the 20 kg ball.
+[2730.00s - 2733.00s]  Lifting it about the head.
+[2733.00s - 2735.00s]  Back to the chest.
+[2736.00s - 2744.00s]  And doing squats with the ball.
+[2744.00s - 2750.00s]  Placing the ball back onto the floor.
+[2750.00s - 2756.00s]  Walking.
+[2756.00s - 2766.00s]  Stretching the knees.
+[2766.00s - 2775.00s]  Stretching the right knee.
+[2775.00s - 2780.00s]  Stretching the arms.
+[2780.00s - 2786.00s]  Stretching the right arm.
+[2786.00s - 2792.00s]  Raising arms above the head.
+[2792.00s - 2804.00s]  Twisting from left to right.
+[2804.00s - 2820.00s]  Touching the toes with fingers.
+[2820.00s - 2822.00s]  Picking up the glasses.
+[2822.00s - 2825.00s]  Placing the glasses on top of the head.
+[2825.00s - 2828.00s]  Walking.
+[2828.00s - 2830.00s]  Picking up the glasses from the eyes.
+[2830.00s - 2833.00s]  Placing it onto the eyes.
+[2833.00s - 2835.00s]  Taking off the glasses.
+[2835.00s - 2844.00s]  Placing the glasses back onto the table.
+[2844.00s - 2847.00s]  Walking around.
+[2847.00s - 2849.00s]  Peeping through the curtains.
+[2849.00s - 2856.00s]  Walking.
+[2856.00s - 2859.00s]  Picking up the 1 kg dumbbells.
+[2859.00s - 2864.00s]  Doing arm raises.
+[2864.00s - 2874.00s]  From front.
+[2874.00s - 2877.00s]  Doing seated arm raises.
+[2877.00s - 2881.00s]  On to the sides of the body.
+[2881.00s - 2883.00s]  Standing up from the chair.
+[2883.00s - 2885.00s]  Walking.
+[2885.00s - 2892.00s]  Picking the bubble back onto the floor.
+[2892.00s - 2896.00s]  Touching the laptop cursor pad.
+[2896.00s - 2901.00s]  Walking around.
+[2901.00s - 2904.00s]  Taking the phone out of the pocket.
+[2904.00s - 2906.00s]  Sitting on the bed.
+[2906.00s - 2910.00s]  Laying down.
+[2910.00s - 2914.00s]  Laying on the belly.
+[2914.00s - 2921.00s]  Picking the phone in the hands.
+[2921.00s - 2928.00s]  Picking up the glasses.
+[2928.00s - 2936.00s]  Picking up the glasses.
+[2936.00s - 2946.00s]  Picking up the glasses.
+[2946.00s - 2956.00s]  Picking up the glasses.
+[2956.00s - 2958.00s]  Twisting out of the bed.
+[2958.00s - 2962.00s]  Standing up.
+[2962.00s - 2964.00s]  Walking.
+[2964.00s - 2967.00s]  Picking up the mini pool table.
+[2967.00s - 2969.00s]  Placing it on the desk.
+[2969.00s - 2972.00s]  Sitting on the chair.
+[2972.00s - 2979.00s]  Laying mini pool.
+[3002.00s - 3012.00s]  Picking up the glasses.
+[3012.00s - 3022.00s]  Picking up the glasses.
+[3022.00s - 3046.00s]  Picking up the mini pool table.
+[3046.00s - 3048.00s]  Standing up.
+[3048.00s - 3050.00s]  Picking up the pool table.
+[3050.00s - 3053.00s]  Placing it onto the shelf.
+[3053.00s - 3061.00s]  Walking.
+[3061.00s - 3064.00s]  Picking up the 20kg bubble.
+[3064.00s - 3072.00s]  Placing it on the floor.
+[3072.00s - 3078.00s]  Walking.
+[3078.00s - 3084.00s]  Picking up the mat.
+[3084.00s - 3088.00s]  Doing 5 jumps.
