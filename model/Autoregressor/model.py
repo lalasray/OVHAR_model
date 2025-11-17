@@ -6,6 +6,7 @@ from typing import Tuple
 import sys
 import torch
 import torch.nn as nn
+import math
 from transformers import (
     AutoModelForCausalLM,
     AutoTokenizer,
@@ -50,6 +51,16 @@ class FrozenVQVAEEncoder(nn.Module):
         return z
 
 
+def sinusoidal_positional_embedding(seq_len: int, dim: int, device: torch.device) -> torch.Tensor:
+    """Standard sinusoidal positional encoding."""
+    position = torch.arange(seq_len, device=device, dtype=torch.float32).unsqueeze(1)
+    div_term = torch.exp(torch.arange(0, dim, 2, device=device).float() * (-math.log(10000.0) / dim))
+    pe = torch.zeros(seq_len, dim, device=device)
+    pe[:, 0::2] = torch.sin(position * div_term)
+    pe[:, 1::2] = torch.cos(position * div_term)
+    return pe  # [T, dim]
+
+
 class HFQFormer(nn.Module):
     """HuggingFace BLIP-2 Q-Former block with learnable queries projected from encoder feats."""
 
@@ -66,6 +77,8 @@ class HFQFormer(nn.Module):
         B, T, _ = encoder_feats.shape
         queries = self.query_tokens.unsqueeze(0).repeat(B, 1, 1)  # [B, Q, H]
         encoder_hidden = self.proj(encoder_feats)  # [B, T, H]
+        pos = sinusoidal_positional_embedding(T, self.config.hidden_size, encoder_feats.device)
+        encoder_hidden = encoder_hidden + pos.unsqueeze(0)
         attention_mask = torch.ones((B, T), device=encoder_feats.device, dtype=torch.long)
         outputs = self.qformer(
             query_embeds=queries,
