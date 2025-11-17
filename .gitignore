@@ -2,3 +2,4 @@
 *.7z
 /dataset
 /model/VQVAE
+/model/Quantizer/__pycache__
