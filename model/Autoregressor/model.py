@@ -119,7 +119,7 @@ class FrozenLLM(nn.Module):
         label_attention_mask: [B, L]
         """
         lm = self.model
-        tok_embeds = lm.transformer.wte(label_input_ids)
+        tok_embeds = lm.model.embed_tokens(label_input_ids)
         inputs_embeds = torch.cat([prefix_embed, tok_embeds], dim=1)  # [B, 1+L, H]
 
         # Labels: ignore loss on prefix token
