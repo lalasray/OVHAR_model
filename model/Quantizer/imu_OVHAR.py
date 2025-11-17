@@ -55,12 +55,20 @@ class OVHARDataset(Dataset):
         value_count = 0
         for csv_path in csv_paths:
             df = pd.read_csv(csv_path)
+            if df.empty:
+                print(f"Skipping empty CSV: {csv_path}")
+                continue
             if not all(col in df.columns for col in self.columns):
                 missing = [c for c in self.columns if c not in df.columns]
                 raise ValueError(f"{csv_path} missing columns {missing}")
+            if "Time" not in df.columns:
+                raise ValueError(f"{csv_path} missing Time column")
 
             # Center the raw signals per file to reduce bias across sensors.
             values = df[self.columns].to_numpy(dtype=np.float32)
+            if len(values) == 0:
+                print(f"Skipping zero-length data in {csv_path}")
+                continue
             values -= values.mean(axis=0, keepdims=True)
             times_sec = (df["Time"].to_numpy(dtype=np.float32) - df["Time"].iloc[0]) / 1000.0
 
@@ -82,6 +90,8 @@ class OVHARDataset(Dataset):
 
         if value_count > 0:
             self.data_variance = sq_sum / value_count
+        if not self.windows:
+            raise ValueError("No windows created; check dataset root or filtering settings.")
 
     def __len__(self) -> int:
         return len(self.windows)
