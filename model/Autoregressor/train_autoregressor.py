@@ -58,7 +58,13 @@ def parse_args() -> argparse.Namespace:
     default_dataset = script_dir.parent.parent / "dataset"
     parser = argparse.ArgumentParser(description="Train Q-Former + classifier on frozen VQ-VAE encoder.")
     parser.add_argument("--dataset-root", type=Path, default=default_dataset)
-    parser.add_argument("--checkpoint", type=Path, default=Path("train_ae_ovhar.pt"))
+    default_ckpt = script_dir.parent / "Quantizer" / "train_ae_ovhar.pt"
+    parser.add_argument(
+        "--checkpoint",
+        type=Path,
+        default=default_ckpt,
+        help="Path to frozen VQ-VAE checkpoint (default: model/Quantizer/train_ae_ovhar.pt)",
+    )
     parser.add_argument("--seq-length", type=int, default=30)
     parser.add_argument("--stride", type=int, default=1)
     parser.add_argument("--batch-size", type=int, default=128)

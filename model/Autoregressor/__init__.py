@@ -1,1 +1,1 @@
-from .model import IMUToTextModel, FrozenVQVAEEncoder, QFormer
+from .model import IMUToTextModel, FrozenVQVAEEncoder, HFQFormer
